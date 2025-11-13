@@ -1,0 +1,44 @@
+{
+  "first_name": "Avery",
+  "last_name": "Kuhlman",
+  "gender": "F",
+  "grade": "8th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "211",
+          "event": "100",
+          "overall_place": 6,
+          "heat": 2,
+          "place": 1,
+          "result": "15.22",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "243",
+          "event": "200",
+          "overall_place": 6,
+          "heat": 2,
+          "place": 4,
+          "result": "32.37",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "235",
+          "event": "400",
+          "overall_place": 3,
+          "heat": 1,
+          "place": 3,
+          "result": "1:12.34",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

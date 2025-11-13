@@ -1,0 +1,61 @@
+{
+  "first_name": "Thomas",
+  "last_name": "Klocke",
+  "gender": "M",
+  "grade": "8th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "247",
+          "event": "200",
+          "overall_place": 5,
+          "heat": 2,
+          "place": 4,
+          "result": "29.59",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "239",
+          "event": "400",
+          "overall_place": 6,
+          "heat": 1,
+          "place": 6,
+          "result": "1:07.88",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "223",
+          "event": "800S",
+          "overall_place": 2,
+          "heat": null,
+          "place": 2,
+          "result": "2:07.72",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Tanner Turley",
+              "Will McClain",
+              "Crosby Pullins"
+            ]
+          }
+        },
+        {
+          "id": "92",
+          "event": "LJ",
+          "overall_place": 17,
+          "heat": 2,
+          "place": 6,
+          "result": "12-00.00",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

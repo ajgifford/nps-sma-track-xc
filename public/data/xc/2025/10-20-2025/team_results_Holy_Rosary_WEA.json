@@ -1,0 +1,61 @@
+{
+  "teamName": "Holy Rosary WEA",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 2,
+          "athlete": "VOHS, Cyrus",
+          "grade": "3",
+          "score": null,
+          "time": "03:18.6",
+          "gap": "12:00.0",
+          "avgMile": "05:20.2"
+        },
+        {
+          "place": 28,
+          "athlete": "MARTIN, Cole",
+          "grade": "4",
+          "score": null,
+          "time": "03:55.5",
+          "gap": "48:00.0",
+          "avgMile": "06:19.8"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 33,
+          "athlete": "JANSEN, Maddox",
+          "grade": "5",
+          "score": null,
+          "time": "06:46.4",
+          "gap": "01:06.1",
+          "avgMile": "06:46.4"
+        },
+        {
+          "place": 37,
+          "athlete": "THRELKELD, Weston",
+          "grade": "5",
+          "score": null,
+          "time": "06:52.0",
+          "gap": "01:10.7",
+          "avgMile": "06:51.9"
+        }
+      ]
+    }
+  ]
+}

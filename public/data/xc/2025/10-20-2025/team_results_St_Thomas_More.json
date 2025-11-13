@@ -1,0 +1,95 @@
+{
+  "teamName": "St. Thomas More",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 6,
+          "athlete": "COLOMBATTO, Hattie",
+          "grade": "4",
+          "score": null,
+          "time": "03:47.1",
+          "gap": "36:00.0",
+          "avgMile": "06:06.3"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 45,
+          "athlete": "MINX, Jude",
+          "grade": "3",
+          "score": null,
+          "time": "04:11.5",
+          "gap": "48:00.0",
+          "avgMile": "06:45.5"
+        },
+        {
+          "place": 46,
+          "athlete": "STERNER, Clayton",
+          "grade": "3",
+          "score": null,
+          "time": "04:11.9",
+          "gap": "24:00.0",
+          "avgMile": "06:46.2"
+        },
+        {
+          "place": 50,
+          "athlete": "ROGGE, Joseph",
+          "grade": "4",
+          "score": null,
+          "time": "04:15.1",
+          "gap": "12:00.0",
+          "avgMile": "06:51.4"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 6,
+          "athlete": "TIBBETTS, Teddy",
+          "grade": "5",
+          "score": null,
+          "time": "06:04.4",
+          "gap": "24:00.0",
+          "avgMile": "06:04.3"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 40,
+          "athlete": "OBLEPIAS, Travis",
+          "grade": "8",
+          "score": null,
+          "time": "10:31.0",
+          "gap": "01:54.6",
+          "avgMile": "07:00.6"
+        }
+      ]
+    }
+  ]
+}

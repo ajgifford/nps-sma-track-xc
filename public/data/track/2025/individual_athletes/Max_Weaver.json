@@ -1,0 +1,61 @@
+{
+  "first_name": "Max",
+  "last_name": "Weaver",
+  "gender": "M",
+  "grade": "8th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "207",
+          "event": "1600",
+          "overall_place": null,
+          "heat": 1,
+          "place": null,
+          "result": "DNS",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "263",
+          "event": "800",
+          "overall_place": 2,
+          "heat": 1,
+          "place": 2,
+          "result": "2:20.63",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "223",
+          "event": "800S",
+          "overall_place": 1,
+          "heat": null,
+          "place": 1,
+          "result": "1:55.50",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Anthony Szmerdt",
+              "Charles Sullivan",
+              "Walker Newell"
+            ]
+          }
+        },
+        {
+          "id": "288",
+          "event": "JT",
+          "overall_place": 4,
+          "heat": 1,
+          "place": 4,
+          "result": "108-02.00",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

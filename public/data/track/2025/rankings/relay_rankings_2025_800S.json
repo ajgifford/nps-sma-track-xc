@@ -1,0 +1,2063 @@
+{
+  "season": "2025",
+  "event": "4x800m Relay",
+  "eventAbbr": "800S",
+  "type": "relay",
+  "generatedDate": "2025-11-13T16:44:40.974Z",
+  "categories": [
+    {
+      "gender": "M",
+      "grade": "5",
+      "totalTeams": 2,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Colin Foote",
+            "Jack Kuhlmann",
+            "Luke Almaguer",
+            "Samuel Baldwin"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Foote",
+              "firstName": "Colin",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Baldwin",
+              "firstName": "Samuel",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Almaguer",
+              "firstName": "Luke",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Kuhlmann",
+              "firstName": "Jack",
+              "gender": "m",
+              "grade": "5"
+            }
+          ],
+          "bestResult": "2:25.05",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:25.05",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Foote",
+                  "firstName": "Colin",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Baldwin",
+                  "firstName": "Samuel",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Almaguer",
+                  "firstName": "Luke",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Kuhlmann",
+                  "firstName": "Jack",
+                  "gender": "m",
+                  "grade": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Charlie Elder",
+            "Max Duncan",
+            "Parker Peloquin",
+            "Samuel Dunn"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Dunn",
+              "firstName": "Samuel",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Peloquin",
+              "firstName": "Parker",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Elder",
+              "firstName": "Charlie",
+              "gender": "m",
+              "grade": "5"
+            },
+            {
+              "lastName": "Duncan",
+              "firstName": "Max",
+              "gender": "m",
+              "grade": "6"
+            }
+          ],
+          "bestResult": "2:30.24",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:30.24",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Dunn",
+                  "firstName": "Samuel",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Peloquin",
+                  "firstName": "Parker",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Elder",
+                  "firstName": "Charlie",
+                  "gender": "m",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Duncan",
+                  "firstName": "Max",
+                  "gender": "m",
+                  "grade": "6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "M",
+      "grade": "6",
+      "totalTeams": 1,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Sacred Heart CYOKS",
+          "teamCode": "SH21",
+          "athletes": [
+            "Andrew Shada",
+            "August Floy",
+            "Jameson King",
+            "Padric Abbott"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "King",
+              "firstName": "Jameson",
+              "gender": "m",
+              "grade": "6"
+            },
+            {
+              "lastName": "Abbott",
+              "firstName": "Padric",
+              "gender": "m",
+              "grade": "6"
+            },
+            {
+              "lastName": "Shada",
+              "firstName": "Andrew",
+              "gender": "m",
+              "grade": "6"
+            },
+            {
+              "lastName": "Floy",
+              "firstName": "August",
+              "gender": "m",
+              "grade": "6"
+            }
+          ],
+          "bestResult": "2:22.68",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:22.68",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "King",
+                  "firstName": "Jameson",
+                  "gender": "m",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Abbott",
+                  "firstName": "Padric",
+                  "gender": "m",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Shada",
+                  "firstName": "Andrew",
+                  "gender": "m",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Floy",
+                  "firstName": "August",
+                  "gender": "m",
+                  "grade": "6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "M",
+      "grade": "7",
+      "totalTeams": 7,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Cure Of Ars CYOKS",
+          "teamCode": "COA1",
+          "athletes": [
+            "Dean Sciara",
+            "Elijah Wisdom",
+            "Parker Basinger",
+            "Thomas Doring"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Sciara",
+              "firstName": "Dean",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Basinger",
+              "firstName": "Parker",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Wisdom",
+              "firstName": "Elijah",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Doring",
+              "firstName": "Thomas",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:24.11",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:24.11",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Sciara",
+                  "firstName": "Dean",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Basinger",
+                  "firstName": "Parker",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Wisdom",
+                  "firstName": "Elijah",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Doring",
+                  "firstName": "Thomas",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Holy Trinity CYOKS",
+          "teamCode": "HT21",
+          "athletes": [
+            "Franco Montalto",
+            "Gabriel Harper",
+            "Johnny Brulez",
+            "Nathan Sharbaugh"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Sharbaugh",
+              "firstName": "Nathan",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Harper",
+              "firstName": "Gabriel",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Brulez",
+              "firstName": "Johnny",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Montalto",
+              "firstName": "Franco",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:10.59",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:10.59",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Sharbaugh",
+                  "firstName": "Nathan",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Harper",
+                  "firstName": "Gabriel",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Brulez",
+                  "firstName": "Johnny",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Montalto",
+                  "firstName": "Franco",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "teamName": "Prince Of Peace CYOKS",
+          "teamCode": "POP1",
+          "athletes": [
+            "Arthur Sund",
+            "Sean Samuel",
+            "Timothy Strohman",
+            "Zachary Meier"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Meier",
+              "firstName": "Zachary",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Samuel",
+              "firstName": "Sean",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Strohman",
+              "firstName": "Timothy",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Sund",
+              "firstName": "Arthur",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:15.22",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:15.22",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Meier",
+                  "firstName": "Zachary",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Samuel",
+                  "firstName": "Sean",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Strohman",
+                  "firstName": "Timothy",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Sund",
+                  "firstName": "Arthur",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "teamName": "Holy Cross CYOKS",
+          "teamCode": "HC21",
+          "athletes": [
+            "Colton Obrist",
+            "Dominic Calixto Morales",
+            "Joshua Sublette",
+            "Leo Rucker"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Rucker",
+              "firstName": "Leo",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Sublette",
+              "firstName": "Joshua",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Calixto Morales",
+              "firstName": "Dominic",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Obrist",
+              "firstName": "Colton",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:19.94",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:19.94",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 3,
+              "athletes": [
+                {
+                  "lastName": "Rucker",
+                  "firstName": "Leo",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Sublette",
+                  "firstName": "Joshua",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Calixto Morales",
+                  "firstName": "Dominic",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Obrist",
+                  "firstName": "Colton",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "teamName": "Good Shepherd CYOKS",
+          "teamCode": "GS21",
+          "athletes": [
+            "Bobby Burns",
+            "Bodhi Shum",
+            "Colton Wagner",
+            "Kolbe Teeter"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Teeter",
+              "firstName": "Kolbe",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Wagner",
+              "firstName": "Colton",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Shum",
+              "firstName": "Bodhi",
+              "gender": "m",
+              "grade": "6"
+            },
+            {
+              "lastName": "Burns",
+              "firstName": "Bobby",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:23.38",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:23.38",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 4,
+              "athletes": [
+                {
+                  "lastName": "Teeter",
+                  "firstName": "Kolbe",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Wagner",
+                  "firstName": "Colton",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Shum",
+                  "firstName": "Bodhi",
+                  "gender": "m",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Burns",
+                  "firstName": "Bobby",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "teamName": "Saint John the Evangelist",
+          "teamCode": "SJE1",
+          "athletes": [
+            "Andrew Perez",
+            "Jagger Barr",
+            "Nicholas Green",
+            "William Stephenson"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Barr",
+              "firstName": "Jagger",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Green",
+              "firstName": "Nicholas",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Stephenson",
+              "firstName": "William",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Perez",
+              "firstName": "Andrew",
+              "gender": "m",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:05.91",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:05.91",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Barr",
+                  "firstName": "Jagger",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Green",
+                  "firstName": "Nicholas",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Stephenson",
+                  "firstName": "William",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Perez",
+                  "firstName": "Andrew",
+                  "gender": "m",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Benjamin Krull",
+            "Connor Hilson",
+            "Ford Booth",
+            "Ford Pullins"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Booth",
+              "firstName": "Ford",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Hilson",
+              "firstName": "Connor",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Krull",
+              "firstName": "Benjamin",
+              "gender": "m",
+              "grade": "7"
+            },
+            {
+              "lastName": "Pullins",
+              "firstName": "Ford",
+              "gender": "m",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "DNS",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "DNS",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Booth",
+                  "firstName": "Ford",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Hilson",
+                  "firstName": "Connor",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Krull",
+                  "firstName": "Benjamin",
+                  "gender": "m",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Pullins",
+                  "firstName": "Ford",
+                  "gender": "m",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "M",
+      "grade": "8",
+      "totalTeams": 4,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Anthony Szmerdt",
+            "Charles Sullivan",
+            "Max Weaver",
+            "Walker Newell"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Szmerdt",
+              "firstName": "Anthony",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Sullivan",
+              "firstName": "Charles",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Weaver",
+              "firstName": "Max",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Newell",
+              "firstName": "Walker",
+              "gender": "m",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "1:55.50",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "1:55.50",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Szmerdt",
+                  "firstName": "Anthony",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Sullivan",
+                  "firstName": "Charles",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Weaver",
+                  "firstName": "Max",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Newell",
+                  "firstName": "Walker",
+                  "gender": "m",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Crosby Pullins",
+            "Tanner Turley",
+            "Thomas Klocke",
+            "Will McClain"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Klocke",
+              "firstName": "Thomas",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Turley",
+              "firstName": "Tanner",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "McClain",
+              "firstName": "Will",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Pullins",
+              "firstName": "Crosby",
+              "gender": "m",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:07.72",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:07.72",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Klocke",
+                  "firstName": "Thomas",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Turley",
+                  "firstName": "Tanner",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "McClain",
+                  "firstName": "Will",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Pullins",
+                  "firstName": "Crosby",
+                  "gender": "m",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "teamName": "Saint Joseph CYOKS",
+          "teamCode": "SJ21",
+          "athletes": [
+            "Alberto Guardado",
+            "Leland Reynolds",
+            "Mathis Miner",
+            "Parker Rohrer"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Rohrer",
+              "firstName": "Parker",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Guardado",
+              "firstName": "Alberto",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Miner",
+              "firstName": "Mathis",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Reynolds",
+              "firstName": "Leland",
+              "gender": "m",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:12.53",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:12.53",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 3,
+              "athletes": [
+                {
+                  "lastName": "Rohrer",
+                  "firstName": "Parker",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Guardado",
+                  "firstName": "Alberto",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Miner",
+                  "firstName": "Mathis",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Reynolds",
+                  "firstName": "Leland",
+                  "gender": "m",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "teamName": "Holy Trinity CYOKS",
+          "teamCode": "HT21",
+          "athletes": [
+            "Calvin Zebley",
+            "Carson Helmer",
+            "Ike Irsik",
+            "Will Billinger"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Billinger",
+              "firstName": "Will",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Zebley",
+              "firstName": "Calvin",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Helmer",
+              "firstName": "Carson",
+              "gender": "m",
+              "grade": "8"
+            },
+            {
+              "lastName": "Irsik",
+              "firstName": "Ike",
+              "gender": "m",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:09.63",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:09.63",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Billinger",
+                  "firstName": "Will",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Zebley",
+                  "firstName": "Calvin",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Helmer",
+                  "firstName": "Carson",
+                  "gender": "m",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Irsik",
+                  "firstName": "Ike",
+                  "gender": "m",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "F",
+      "grade": "5",
+      "totalTeams": 3,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Danielle Rosburg",
+            "Madeline Andrew",
+            "Madeline Lee",
+            "Maggie Vitale"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Andrew",
+              "firstName": "Madeline",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Vitale",
+              "firstName": "Maggie",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Rosburg",
+              "firstName": "Danielle",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Lee",
+              "firstName": "Madeline",
+              "gender": "f",
+              "grade": "5"
+            }
+          ],
+          "bestResult": "2:20.22",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:20.22",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Andrew",
+                  "firstName": "Madeline",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Vitale",
+                  "firstName": "Maggie",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Rosburg",
+                  "firstName": "Danielle",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Lee",
+                  "firstName": "Madeline",
+                  "gender": "f",
+                  "grade": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Cure Of Ars CYOKS",
+          "teamCode": "COA1",
+          "athletes": [
+            "Ai Vi Pham",
+            "Colette Arnold",
+            "Leighton Matthews",
+            "Louise Walchshauser"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Walchshauser",
+              "firstName": "Louise",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Arnold",
+              "firstName": "Colette",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Matthews",
+              "firstName": "Leighton",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Pham",
+              "firstName": "Ai Vi",
+              "gender": "f",
+              "grade": "5"
+            }
+          ],
+          "bestResult": "2:17.57",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:17.57",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Walchshauser",
+                  "firstName": "Louise",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Arnold",
+                  "firstName": "Colette",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Matthews",
+                  "firstName": "Leighton",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Pham",
+                  "firstName": "Ai Vi",
+                  "gender": "f",
+                  "grade": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "teamName": "Saint John the Evangelist",
+          "teamCode": "SJE1",
+          "athletes": [
+            "Abigail Green",
+            "Isley Frye",
+            "Mary Stephenson",
+            "Scarlet Harvey"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Harvey",
+              "firstName": "Scarlet",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Green",
+              "firstName": "Abigail",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Stephenson",
+              "firstName": "Mary",
+              "gender": "f",
+              "grade": "5"
+            },
+            {
+              "lastName": "Frye",
+              "firstName": "Isley",
+              "gender": "f",
+              "grade": "5"
+            }
+          ],
+          "bestResult": "2:43.64",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:43.64",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Harvey",
+                  "firstName": "Scarlet",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Green",
+                  "firstName": "Abigail",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Stephenson",
+                  "firstName": "Mary",
+                  "gender": "f",
+                  "grade": "5"
+                },
+                {
+                  "lastName": "Frye",
+                  "firstName": "Isley",
+                  "gender": "f",
+                  "grade": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "F",
+      "grade": "6",
+      "totalTeams": 3,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Michael CYOKS",
+          "teamCode": "SMA1",
+          "athletes": [
+            "Caroline Newell",
+            "Charlotte Leiker",
+            "Katherine Dinkel",
+            "Madison Hibler"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Dinkel",
+              "firstName": "Katherine",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Newell",
+              "firstName": "Caroline",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Hibler",
+              "firstName": "Madison",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Leiker",
+              "firstName": "Charlotte",
+              "gender": "f",
+              "grade": "6"
+            }
+          ],
+          "bestResult": "2:18.95",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:18.95",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Dinkel",
+                  "firstName": "Katherine",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Newell",
+                  "firstName": "Caroline",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Hibler",
+                  "firstName": "Madison",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Leiker",
+                  "firstName": "Charlotte",
+                  "gender": "f",
+                  "grade": "6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "John Paul II CYOKS",
+          "teamCode": "JP21",
+          "athletes": [
+            "Adelaide O'Hara",
+            "Collins Gangel",
+            "Norah Ciani",
+            "Ramona Slowik"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Ciani",
+              "firstName": "Norah",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Gangel",
+              "firstName": "Collins",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "O'Hara",
+              "firstName": "Adelaide",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Slowik",
+              "firstName": "Ramona",
+              "gender": "f",
+              "grade": "6"
+            }
+          ],
+          "bestResult": "2:32.81",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:32.81",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Ciani",
+                  "firstName": "Norah",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Gangel",
+                  "firstName": "Collins",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "O'Hara",
+                  "firstName": "Adelaide",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Slowik",
+                  "firstName": "Ramona",
+                  "gender": "f",
+                  "grade": "6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "teamName": "Holy Cross CYOKS",
+          "teamCode": "HC21",
+          "athletes": [
+            "Emerson Eickholt",
+            "Karlee Feldhaus",
+            "Mia Minshall",
+            "Victoria O'brien"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "O'brien",
+              "firstName": "Victoria",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Eickholt",
+              "firstName": "Emerson",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Minshall",
+              "firstName": "Mia",
+              "gender": "f",
+              "grade": "6"
+            },
+            {
+              "lastName": "Feldhaus",
+              "firstName": "Karlee",
+              "gender": "f",
+              "grade": "6"
+            }
+          ],
+          "bestResult": "2:34.14",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:34.14",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "O'brien",
+                  "firstName": "Victoria",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Eickholt",
+                  "firstName": "Emerson",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Minshall",
+                  "firstName": "Mia",
+                  "gender": "f",
+                  "grade": "6"
+                },
+                {
+                  "lastName": "Feldhaus",
+                  "firstName": "Karlee",
+                  "gender": "f",
+                  "grade": "6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "F",
+      "grade": "7",
+      "totalTeams": 5,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Agnes CYOKS",
+          "teamCode": "SAG1",
+          "athletes": [
+            "Anna Astor",
+            "Fiona Scavuzzo",
+            "Ruby Snyder",
+            "Sonya Toschi"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Scavuzzo",
+              "firstName": "Fiona",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Toschi",
+              "firstName": "Sonya",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Snyder",
+              "firstName": "Ruby",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Astor",
+              "firstName": "Anna",
+              "gender": "f",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:19.73",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:19.73",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Scavuzzo",
+                  "firstName": "Fiona",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Toschi",
+                  "firstName": "Sonya",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Snyder",
+                  "firstName": "Ruby",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Astor",
+                  "firstName": "Anna",
+                  "gender": "f",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Sacred Heart CYOKS",
+          "teamCode": "SH21",
+          "athletes": [
+            "Avery Rosendahl",
+            "Lily Kipp",
+            "Margot Graham",
+            "Paige Hays"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Rosendahl",
+              "firstName": "Avery",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Kipp",
+              "firstName": "Lily",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Graham",
+              "firstName": "Margot",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Hays",
+              "firstName": "Paige",
+              "gender": "f",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:27.30",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:27.30",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Rosendahl",
+                  "firstName": "Avery",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Kipp",
+                  "firstName": "Lily",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Graham",
+                  "firstName": "Margot",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Hays",
+                  "firstName": "Paige",
+                  "gender": "f",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "teamName": "Cure Of Ars CYOKS",
+          "teamCode": "COA1",
+          "athletes": [
+            "Eliza Godfrey",
+            "Elizabeth Scaletty",
+            "Emma Stover",
+            "Greta Tassi"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Godfrey",
+              "firstName": "Eliza",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Scaletty",
+              "firstName": "Elizabeth",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Tassi",
+              "firstName": "Greta",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Stover",
+              "firstName": "Emma",
+              "gender": "f",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:43.28",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:43.28",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Godfrey",
+                  "firstName": "Eliza",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Scaletty",
+                  "firstName": "Elizabeth",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Tassi",
+                  "firstName": "Greta",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Stover",
+                  "firstName": "Emma",
+                  "gender": "f",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "teamName": "Holy Trinity CYOKS",
+          "teamCode": "HT21",
+          "athletes": [
+            "Brynlee Ternus",
+            "Claire Smart",
+            "Kenzie Fast",
+            "Lola Applebee"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Ternus",
+              "firstName": "Brynlee",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Fast",
+              "firstName": "Kenzie",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Smart",
+              "firstName": "Claire",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Applebee",
+              "firstName": "Lola",
+              "gender": "f",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:24.23",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:24.23",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Ternus",
+                  "firstName": "Brynlee",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Fast",
+                  "firstName": "Kenzie",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Smart",
+                  "firstName": "Claire",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Applebee",
+                  "firstName": "Lola",
+                  "gender": "f",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "teamName": "Holy Cross CYOKS",
+          "teamCode": "HC21",
+          "athletes": [
+            "Diana Velazquez",
+            "Luciana Percca",
+            "Sofia Argueta",
+            "Valeria Blanco"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Blanco",
+              "firstName": "Valeria",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Percca",
+              "firstName": "Luciana",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Velazquez",
+              "firstName": "Diana",
+              "gender": "f",
+              "grade": "7"
+            },
+            {
+              "lastName": "Argueta",
+              "firstName": "Sofia",
+              "gender": "f",
+              "grade": "7"
+            }
+          ],
+          "bestResult": "2:46.69",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:46.69",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 2,
+              "athletes": [
+                {
+                  "lastName": "Blanco",
+                  "firstName": "Valeria",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Percca",
+                  "firstName": "Luciana",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Velazquez",
+                  "firstName": "Diana",
+                  "gender": "f",
+                  "grade": "7"
+                },
+                {
+                  "lastName": "Argueta",
+                  "firstName": "Sofia",
+                  "gender": "f",
+                  "grade": "7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "F",
+      "grade": "8",
+      "totalTeams": 2,
+      "rankings": [
+        {
+          "rank": 1,
+          "teamName": "Saint Agnes CYOKS",
+          "teamCode": "SAG1",
+          "athletes": [
+            "Adrianna Roberts",
+            "Anna Atchity",
+            "Haven Parks",
+            "Olivia Muehlberger"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Roberts",
+              "firstName": "Adrianna",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Parks",
+              "firstName": "Haven",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Muehlberger",
+              "firstName": "Olivia",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Atchity",
+              "firstName": "Anna",
+              "gender": "f",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:25.61",
+          "bestResultMeet": "CYO #3 2025 Afternoon Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:25.61",
+              "meet": "CYO #3 2025 Afternoon Track",
+              "date": "4/26/2025",
+              "place": null,
+              "athletes": [
+                {
+                  "lastName": "Roberts",
+                  "firstName": "Adrianna",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Parks",
+                  "firstName": "Haven",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Muehlberger",
+                  "firstName": "Olivia",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Atchity",
+                  "firstName": "Anna",
+                  "gender": "f",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "teamName": "Holy Trinity CYOKS",
+          "teamCode": "HT21",
+          "athletes": [
+            "Evelyn Unruh",
+            "Grace Kaufman",
+            "Lucy Kelley",
+            "Paige Mark"
+          ],
+          "athleteDetails": [
+            {
+              "lastName": "Unruh",
+              "firstName": "Evelyn",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Kelley",
+              "firstName": "Lucy",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Mark",
+              "firstName": "Paige",
+              "gender": "f",
+              "grade": "8"
+            },
+            {
+              "lastName": "Kaufman",
+              "firstName": "Grace",
+              "gender": "f",
+              "grade": "8"
+            }
+          ],
+          "bestResult": "2:27.35",
+          "bestResultMeet": "CYO #3 2025 Morning Track",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "2:27.35",
+              "meet": "CYO #3 2025 Morning Track",
+              "date": "4/26/2025",
+              "place": 1,
+              "athletes": [
+                {
+                  "lastName": "Unruh",
+                  "firstName": "Evelyn",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Kelley",
+                  "firstName": "Lucy",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Mark",
+                  "firstName": "Paige",
+                  "gender": "f",
+                  "grade": "8"
+                },
+                {
+                  "lastName": "Kaufman",
+                  "firstName": "Grace",
+                  "gender": "f",
+                  "grade": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

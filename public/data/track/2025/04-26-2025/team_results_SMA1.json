@@ -1,0 +1,2228 @@
+{
+  "teamName": "Saint Michael CYOKS",
+  "teamCode": "SMA1",
+  "meets": [
+    {
+      "teamName": "Saint Michael CYOKS",
+      "teamCode": "SMA1",
+      "meetName": "CYO #3 2025 Afternoon Field",
+      "meetDate": "4/26/2025",
+      "results": [
+        {
+          "athlete": "Graham Couch",
+          "event": "HJ",
+          "result": "4-08.00",
+          "place": 1,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Parker Peloquin",
+          "event": "HJ",
+          "result": "3-08.00",
+          "place": 4,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Fisher",
+          "event": "HJ",
+          "result": "3-06.00",
+          "place": 7,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Gwyneth Bush",
+          "event": "HJ",
+          "result": "3-08.00",
+          "place": 3,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Max Dercher",
+          "event": "JT",
+          "result": "85-02.00",
+          "place": 2,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ethan Kopp",
+          "event": "JT",
+          "result": "71-00.00",
+          "place": 7,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Jack Kuhlmann",
+          "event": "JT",
+          "result": "68-01.00",
+          "place": 8,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Gwyneth Bush",
+          "event": "JT",
+          "result": "108-07.00",
+          "place": 1,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Couch",
+          "event": "LJ",
+          "result": "13-00.00",
+          "place": 1,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ethan Kopp",
+          "event": "LJ",
+          "result": "11-05.00",
+          "place": 6,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Dunn",
+          "event": "LJ",
+          "result": "10-03.50",
+          "place": 11,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Luke Almaguer",
+          "event": "LJ",
+          "result": "10-00.50",
+          "place": 13,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Fisher",
+          "event": "LJ",
+          "result": "9-05.00",
+          "place": 18,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Baldwin",
+          "event": "LJ",
+          "result": "9-03.50",
+          "place": 19,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Farrah McCarthy",
+          "event": "LJ",
+          "result": "12-05.00",
+          "place": 1,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Sarah Raupp",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Levi Oakes",
+          "event": "SP",
+          "result": "24-03.00",
+          "place": 2,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Jack Kuhlmann",
+          "event": "SP",
+          "result": "20-05.00",
+          "place": 6,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ignatius Harris",
+          "event": "SP",
+          "result": "12-04.00",
+          "place": 18,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Penelope Lam Po Yuen",
+          "event": "HJ",
+          "result": "3-06.00",
+          "place": 5,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Josephine Esch",
+          "event": "HJ",
+          "result": "NH",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ben Gifford",
+          "event": "JT",
+          "result": "68-04.00",
+          "place": 2,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Anya Utarnachitt",
+          "event": "JT",
+          "result": "108-04.00",
+          "place": 2,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Maggie Rogers",
+          "event": "JT",
+          "result": "69-01.00",
+          "place": 7,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Reese Darby",
+          "event": "JT",
+          "result": "65-05.00",
+          "place": 9,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Penelope Lam Po Yuen",
+          "event": "JT",
+          "result": "64-06.00",
+          "place": 10,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Caroline Newell",
+          "event": "JT",
+          "result": "59-08.00",
+          "place": 12,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Bennett Gray",
+          "event": "LJ",
+          "result": "12-01.00",
+          "place": 6,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Max Duncan",
+          "event": "LJ",
+          "result": "8-11.50",
+          "place": 12,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ellie Clune",
+          "event": "LJ",
+          "result": "10-08.00",
+          "place": 9,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Jane Powell",
+          "event": "LJ",
+          "result": "10-07.00",
+          "place": 10,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Anya Utarnachitt",
+          "event": "LJ",
+          "result": "10-05.00",
+          "place": 11,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Penelope Lam Po Yuen",
+          "event": "LJ",
+          "result": "9-09.00",
+          "place": 18,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Olive Kopp",
+          "event": "LJ",
+          "result": "9-07.50",
+          "place": 19,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Josephine Esch",
+          "event": "LJ",
+          "result": "8-06.50",
+          "place": 24,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Sophie Kamer",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Stella McGoldrick",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Gage Christensen",
+          "event": "SP",
+          "result": "31-03.50",
+          "place": 1,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Anya Utarnachitt",
+          "event": "SP",
+          "result": "22-07.00",
+          "place": 3,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Olive Kopp",
+          "event": "SP",
+          "result": "15-02.00",
+          "place": 10,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Nicholas Knopke",
+          "event": "HJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Blake Bitar-becker",
+          "event": "HJ",
+          "result": "4-02.00",
+          "place": 3,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jude Couch",
+          "event": "JT",
+          "result": "68-11.00",
+          "place": 8,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Tyler McClain",
+          "event": "JT",
+          "result": "107-07.00",
+          "place": 2,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Benjamin Krull",
+          "event": "LJ",
+          "result": "15-10.50",
+          "place": 1,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Roland Balthazor",
+          "event": "LJ",
+          "result": "14-11.00",
+          "place": 2,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Joseph Carrell",
+          "event": "LJ",
+          "result": "14-10.00",
+          "place": 3,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Maximilian Lam Po Yuen",
+          "event": "LJ",
+          "result": "13-08.00",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Cameron Dunn",
+          "event": "LJ",
+          "result": "13-01.50",
+          "place": 7,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Gabe Kopek",
+          "event": "LJ",
+          "result": "9-09.00",
+          "place": 12,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Pullins",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jack Sullivan",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Nicholas Knopke",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Adeline Arthur",
+          "event": "LJ",
+          "result": "10-08.00",
+          "place": 11,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Anna Hoegler",
+          "event": "LJ",
+          "result": "8-02.00",
+          "place": 18,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Mae Meiners",
+          "event": "LJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jude Couch",
+          "event": "SP",
+          "result": "22-02.50",
+          "place": 3,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jack Grabill",
+          "event": "SP",
+          "result": "19-04.00",
+          "place": 4,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Tyler McClain",
+          "event": "SP",
+          "result": "24-10.50",
+          "place": 2,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Grace Dinkel",
+          "event": "SP",
+          "result": "19-04.50",
+          "place": 4,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ryder Ferguson",
+          "event": "HJ",
+          "result": "4-08.00",
+          "place": 3,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "James Bishop",
+          "event": "HJ",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Walker Newell",
+          "event": "JT",
+          "result": "117-03.00",
+          "place": 1,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Max Weaver",
+          "event": "JT",
+          "result": "108-02.00",
+          "place": 4,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Crosby Pullins",
+          "event": "JT",
+          "result": "86-10.00",
+          "place": 7,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Will McClain",
+          "event": "JT",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Anthony Szmerdt",
+          "event": "LJ",
+          "result": "17-01.00",
+          "place": 1,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Charles Sullivan",
+          "event": "LJ",
+          "result": "16-04.50",
+          "place": 2,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Alex Wilken",
+          "event": "LJ",
+          "result": "15-02.50",
+          "place": 6,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "John Taylor",
+          "event": "LJ",
+          "result": "14-09.50",
+          "place": 7,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Dominic Corley",
+          "event": "LJ",
+          "result": "12-11.50",
+          "place": 11,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Luke Berg",
+          "event": "LJ",
+          "result": "12-04.50",
+          "place": 14,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "William Meyers",
+          "event": "LJ",
+          "result": "12-03.00",
+          "place": 15,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Ryder Ferguson",
+          "event": "LJ",
+          "result": "12-02.00",
+          "place": 16,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Thomas Klocke",
+          "event": "LJ",
+          "result": "12-00.00",
+          "place": 17,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Jacob Seck",
+          "event": "LJ",
+          "result": "11-11.00",
+          "place": 18,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "James Bishop",
+          "event": "LJ",
+          "result": "10-00.50",
+          "place": 23,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Anthony Szmerdt",
+          "event": "SP",
+          "result": "39-09.50",
+          "place": 1,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Walker Newell",
+          "event": "SP",
+          "result": "26-10.00",
+          "place": 5,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Jacob Seck",
+          "event": "SP",
+          "result": "26-03.00",
+          "place": 6,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Luke Berg",
+          "event": "SP",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        }
+      ],
+      "relayResults": []
+    },
+    {
+      "teamName": "Saint Michael CYOKS",
+      "teamCode": "SMA1",
+      "meetName": "CYO #3 2025 Afternoon Track",
+      "meetDate": "4/26/2025",
+      "results": [
+        {
+          "athlete": "Graham Couch",
+          "event": "100",
+          "result": "14.45",
+          "place": 1,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Carson Hansen",
+          "event": "100",
+          "result": "14.75",
+          "place": 5,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Luke Almaguer",
+          "event": "100",
+          "result": "15.38",
+          "place": 7,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Parker Peloquin",
+          "event": "100",
+          "result": "16.04",
+          "place": 10,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Charlie Elder",
+          "event": "100",
+          "result": "16.07",
+          "place": 11,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Max Dercher",
+          "event": "100",
+          "result": "16.09",
+          "place": 13,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Baldwin",
+          "event": "100",
+          "result": "16.93",
+          "place": 18,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ignatius Harris",
+          "event": "100",
+          "result": "17.12",
+          "place": 19,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Dunn",
+          "event": "100",
+          "result": "17.54",
+          "place": 22,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Fisher",
+          "event": "100",
+          "result": "17.56",
+          "place": 23,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Colin Foote",
+          "event": "100",
+          "result": "18.45",
+          "place": 26,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Lee",
+          "event": "100",
+          "result": "15.59",
+          "place": 2,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Presley Shelman",
+          "event": "100",
+          "result": "15.61",
+          "place": 3,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Maggie Vitale",
+          "event": "100",
+          "result": "16.63",
+          "place": 10,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Gwyneth Bush",
+          "event": "100",
+          "result": "17.41",
+          "place": 16,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Joy Kago",
+          "event": "100",
+          "result": "18.06",
+          "place": 19,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Sarah Raupp",
+          "event": "100",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Andrew",
+          "event": "100",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Farrah McCarthy",
+          "event": "100",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Carson Hansen",
+          "event": "200",
+          "result": "30.73",
+          "place": 3,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Jack Kuhlmann",
+          "event": "200",
+          "result": "32.37",
+          "place": 7,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Max Dercher",
+          "event": "200",
+          "result": "32.44",
+          "place": 8,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Charlie Elder",
+          "event": "200",
+          "result": "33.57",
+          "place": 11,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Oliver Wagner",
+          "event": "200",
+          "result": "33.62",
+          "place": 12,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Baldwin",
+          "event": "200",
+          "result": "34.16",
+          "place": 13,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ignatius Harris",
+          "event": "200",
+          "result": "34.75",
+          "place": 14,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Colin Foote",
+          "event": "200",
+          "result": "39.26",
+          "place": 19,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Henry Foote",
+          "event": "200",
+          "result": "49.13",
+          "place": 23,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Lee",
+          "event": "200",
+          "result": "31.10",
+          "place": 2,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Farrah McCarthy",
+          "event": "200",
+          "result": "31.59",
+          "place": 3,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Presley Shelman",
+          "event": "200",
+          "result": "31.93",
+          "place": 5,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Danielle Rosburg",
+          "event": "200",
+          "result": "34.86",
+          "place": 9,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Gwyneth Bush",
+          "event": "200",
+          "result": "35.09",
+          "place": 11,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Maggie Vitale",
+          "event": "200",
+          "result": "35.84",
+          "place": 12,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Joy Kago",
+          "event": "200",
+          "result": "37.64",
+          "place": 15,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Andrew",
+          "event": "200",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Carson Hansen",
+          "event": "400",
+          "result": "1:06.88",
+          "place": 2,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Oliver Wagner",
+          "event": "400",
+          "result": "1:16.75",
+          "place": 5,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Levi Oakes",
+          "event": "400",
+          "result": "1:20.06",
+          "place": 6,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Danielle Rosburg",
+          "event": "400",
+          "result": "1:17.73",
+          "place": 6,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Maggie Vitale",
+          "event": "400",
+          "result": "1:18.29",
+          "place": 7,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Farrah McCarthy",
+          "event": "400",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Couch",
+          "event": "60",
+          "result": "9.03",
+          "place": 2,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Carson Hansen",
+          "event": "60",
+          "result": "9.04",
+          "place": 3,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Max Dercher",
+          "event": "60",
+          "result": "9.74",
+          "place": 8,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Charlie Elder",
+          "event": "60",
+          "result": "9.85",
+          "place": 11,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ethan Kopp",
+          "event": "60",
+          "result": "10.48",
+          "place": 16,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Graham Fisher",
+          "event": "60",
+          "result": "10.57",
+          "place": 17,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Samuel Dunn",
+          "event": "60",
+          "result": "10.58",
+          "place": 18,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Sarah Raupp",
+          "event": "60",
+          "result": "10.78",
+          "place": 10,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Andrew",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Joy Kago",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Madeline Lee",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Presley Shelman",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Ignatius Harris",
+          "event": "800",
+          "result": "3:00.73",
+          "place": 2,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Oliver Wagner",
+          "event": "800",
+          "result": "3:06.03",
+          "place": 3,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Henry Foote",
+          "event": "800",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Danielle Rosburg",
+          "event": "800",
+          "result": "3:21.30",
+          "place": 3,
+          "gender": "F",
+          "grade": "5th grade"
+        },
+        {
+          "athlete": "Max Duncan",
+          "event": "100",
+          "result": "18.07",
+          "place": 9,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Reese Darby",
+          "event": "100",
+          "result": "16.37",
+          "place": 8,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ellie Clune",
+          "event": "100",
+          "result": "16.42",
+          "place": 9,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Savannah Kuhlman",
+          "event": "100",
+          "result": "16.54",
+          "place": 10,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Katherine Dinkel",
+          "event": "100",
+          "result": "16.64",
+          "place": 11,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Jane Powell",
+          "event": "100",
+          "result": "16.69",
+          "place": 12,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Maggie Rogers",
+          "event": "100",
+          "result": "16.86",
+          "place": 15,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Olive Kopp",
+          "event": "100",
+          "result": "17.36",
+          "place": 19,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ben Gifford",
+          "event": "1600",
+          "result": "6:29.86",
+          "place": 4,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Bennett Gray",
+          "event": "1600",
+          "result": "6:44.71",
+          "place": 7,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Charlotte Leiker",
+          "event": "1600",
+          "result": "6:01.44",
+          "place": 1,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Caroline Newell",
+          "event": "1600",
+          "result": "6:32.63",
+          "place": 2,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Maggie Rogers",
+          "event": "1600",
+          "result": "6:34.97",
+          "place": 3,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Katherine Dinkel",
+          "event": "200",
+          "result": "33.83",
+          "place": 5,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Anya Utarnachitt",
+          "event": "200",
+          "result": "34.24",
+          "place": 7,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ellie Clune",
+          "event": "200",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ben Gifford",
+          "event": "400",
+          "result": "1:16.67",
+          "place": 3,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Madison Hibler",
+          "event": "400",
+          "result": "1:13.30",
+          "place": 1,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Charlotte Leiker",
+          "event": "400",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Max Duncan",
+          "event": "60",
+          "result": "10.82",
+          "place": 8,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Reese Darby",
+          "event": "60",
+          "result": "10.06",
+          "place": 7,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Katherine Dinkel",
+          "event": "60",
+          "result": "10.22",
+          "place": 8,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Savannah Kuhlman",
+          "event": "60",
+          "result": "10.22",
+          "place": 8,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Jane Powell",
+          "event": "60",
+          "result": "10.51",
+          "place": 11,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Stella McGoldrick",
+          "event": "60",
+          "result": "11.40",
+          "place": 17,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Penelope Lam Po Yuen",
+          "event": "60",
+          "result": "11.53",
+          "place": 18,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Sophie Kamer",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Olive Kopp",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ellie Clune",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Ben Gifford",
+          "event": "800",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Charlotte Leiker",
+          "event": "800",
+          "result": "2:42.96",
+          "place": 1,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Caroline Newell",
+          "event": "800",
+          "result": "3:01.58",
+          "place": 2,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Maggie Rogers",
+          "event": "800",
+          "result": "3:02.64",
+          "place": 3,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Madison Hibler",
+          "event": "800",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "6th grade"
+        },
+        {
+          "athlete": "Roland Balthazor",
+          "event": "100",
+          "result": "13.20",
+          "place": 1,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Benjamin Krull",
+          "event": "100",
+          "result": "13.64",
+          "place": 2,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Connor Hilson",
+          "event": "100",
+          "result": "14.11",
+          "place": 3,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Joseph Carrell",
+          "event": "100",
+          "result": "14.46",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Booth",
+          "event": "100",
+          "result": "14.48",
+          "place": 7,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Maximilian Lam Po Yuen",
+          "event": "100",
+          "result": "14.83",
+          "place": 9,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Cameron Dunn",
+          "event": "100",
+          "result": "14.92",
+          "place": 10,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Elizabeth Swift",
+          "event": "100",
+          "result": "14.40",
+          "place": 1,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Blake Bitar-becker",
+          "event": "100",
+          "result": "15.39",
+          "place": 5,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Adeline Arthur",
+          "event": "100",
+          "result": "15.77",
+          "place": 6,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Olivia Lee",
+          "event": "100",
+          "result": "15.88",
+          "place": 8,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Tyler McClain",
+          "event": "100",
+          "result": "16.41",
+          "place": 12,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Grace Dinkel",
+          "event": "100",
+          "result": "16.98",
+          "place": 20,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Pullins",
+          "event": "1600",
+          "result": "5:52.13",
+          "place": 3,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jack Sullivan",
+          "event": "1600",
+          "result": "5:53.10",
+          "place": 4,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ethan Oakes",
+          "event": "1600",
+          "result": "6:00.34",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Edison Leiker",
+          "event": "1600",
+          "result": "8:05.90",
+          "place": 9,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Will Kiewiet",
+          "event": "1600",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Roland Balthazor",
+          "event": "200",
+          "result": "26.66",
+          "place": 1,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Joseph Carrell",
+          "event": "200",
+          "result": "29.89",
+          "place": 4,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Connor Hilson",
+          "event": "200",
+          "result": "29.91",
+          "place": 5,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Booth",
+          "event": "200",
+          "result": "30.52",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Cameron Dunn",
+          "event": "200",
+          "result": "31.08",
+          "place": 7,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Elizabeth Swift",
+          "event": "200",
+          "result": "29.17",
+          "place": 1,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Adeline Arthur",
+          "event": "200",
+          "result": "32.63",
+          "place": 4,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Olivia Lee",
+          "event": "200",
+          "result": "33.22",
+          "place": 5,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Cameron Dunn",
+          "event": "400",
+          "result": "1:11.88",
+          "place": 4,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ethan Oakes",
+          "event": "400",
+          "result": "1:13.74",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Roland Balthazor",
+          "event": "60",
+          "result": "8.25",
+          "place": 1,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Benjamin Krull",
+          "event": "60",
+          "result": "8.53",
+          "place": 2,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Connor Hilson",
+          "event": "60",
+          "result": "8.92",
+          "place": 3,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Booth",
+          "event": "60",
+          "result": "9.06",
+          "place": 4,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Maximilian Lam Po Yuen",
+          "event": "60",
+          "result": "9.28",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Gabe Kopek",
+          "event": "60",
+          "result": "9.92",
+          "place": 12,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jude Couch",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Joseph Carrell",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Nicholas Knopke",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Elizabeth Swift",
+          "event": "60",
+          "result": "9.10",
+          "place": 2,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Blake Bitar-becker",
+          "event": "60",
+          "result": "9.60",
+          "place": 5,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Olivia Lee",
+          "event": "60",
+          "result": "9.75",
+          "place": 7,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Adeline Arthur",
+          "event": "60",
+          "result": "9.91",
+          "place": 9,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Tyler McClain",
+          "event": "60",
+          "result": "10.22",
+          "place": 13,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Anna Hoegler",
+          "event": "60",
+          "result": "10.41",
+          "place": 15,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Grace Dinkel",
+          "event": "60",
+          "result": "10.52",
+          "place": 16,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Mae Meiners",
+          "event": "60",
+          "result": "DNS",
+          "place": null,
+          "gender": "F",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Ford Pullins",
+          "event": "800",
+          "result": "2:41.81",
+          "place": 1,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Jack Sullivan",
+          "event": "800",
+          "result": "2:42.30",
+          "place": 2,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Edison Leiker",
+          "event": "800",
+          "result": "3:55.28",
+          "place": 6,
+          "gender": "M",
+          "grade": "7th grade"
+        },
+        {
+          "athlete": "Anthony Szmerdt",
+          "event": "100",
+          "result": "12.76",
+          "place": 2,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Luke Berg",
+          "event": "100",
+          "result": "13.71",
+          "place": 5,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Dominic Corley",
+          "event": "100",
+          "result": "14.58",
+          "place": 13,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Tanner Turley",
+          "event": "100",
+          "result": "14.71",
+          "place": 14,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Jacob Seck",
+          "event": "100",
+          "result": "14.85",
+          "place": 15,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "John Taylor",
+          "event": "100",
+          "result": "14.86",
+          "place": 16,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Ryder Ferguson",
+          "event": "100",
+          "result": "15.33",
+          "place": 18,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "James Bishop",
+          "event": "100",
+          "result": "16.38",
+          "place": 20,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Kate Peltzer",
+          "event": "100",
+          "result": "14.89",
+          "place": 4,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Avery Kuhlman",
+          "event": "100",
+          "result": "15.22",
+          "place": 6,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Ellen Esch",
+          "event": "100",
+          "result": "15.24",
+          "place": 7,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Sydney Piotrowski",
+          "event": "100",
+          "result": "15.42",
+          "place": 9,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Molly Klocke",
+          "event": "100",
+          "result": "16.54",
+          "place": 18,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Alex Wilken",
+          "event": "1600",
+          "result": "5:19.49",
+          "place": 1,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Crosby Pullins",
+          "event": "1600",
+          "result": "5:35.58",
+          "place": 2,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Max Weaver",
+          "event": "1600",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Will McClain",
+          "event": "1600",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Thomas Klocke",
+          "event": "200",
+          "result": "29.59",
+          "place": 5,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "John Taylor",
+          "event": "200",
+          "result": "29.69",
+          "place": 6,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Jacob Seck",
+          "event": "200",
+          "result": "30.09",
+          "place": 7,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Tanner Turley",
+          "event": "200",
+          "result": "30.88",
+          "place": 8,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "James Bishop",
+          "event": "200",
+          "result": "34.46",
+          "place": 9,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Ryder Ferguson",
+          "event": "200",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Sydney Piotrowski",
+          "event": "200",
+          "result": "31.58",
+          "place": 4,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Avery Kuhlman",
+          "event": "200",
+          "result": "32.37",
+          "place": 6,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Molly Klocke",
+          "event": "200",
+          "result": "34.65",
+          "place": 9,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Charles Sullivan",
+          "event": "400",
+          "result": "1:00.44",
+          "place": 2,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Thomas Klocke",
+          "event": "400",
+          "result": "1:07.88",
+          "place": 6,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "William Meyers",
+          "event": "400",
+          "result": "1:12.39",
+          "place": 8,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Avery Kuhlman",
+          "event": "400",
+          "result": "1:12.34",
+          "place": 3,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Luke Berg",
+          "event": "60",
+          "result": "8.67",
+          "place": 4,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Dominic Corley",
+          "event": "60",
+          "result": "9.14",
+          "place": 7,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "John Taylor",
+          "event": "60",
+          "result": "9.16",
+          "place": 8,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Tanner Turley",
+          "event": "60",
+          "result": "9.34",
+          "place": 11,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Ellen Esch",
+          "event": "60",
+          "result": "9.31",
+          "place": 3,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Sydney Piotrowski",
+          "event": "60",
+          "result": "9.41",
+          "place": 4,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Molly Klocke",
+          "event": "60",
+          "result": "10.44",
+          "place": 13,
+          "gender": "F",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Walker Newell",
+          "event": "800",
+          "result": "2:19.76",
+          "place": 1,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Max Weaver",
+          "event": "800",
+          "result": "2:20.63",
+          "place": 2,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Charles Sullivan",
+          "event": "800",
+          "result": "2:26.15",
+          "place": 3,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Crosby Pullins",
+          "event": "800",
+          "result": "2:30.24",
+          "place": 4,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "Will McClain",
+          "event": "800",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        },
+        {
+          "athlete": "William Meyers",
+          "event": "800",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "8th grade"
+        }
+      ],
+      "relayResults": [
+        {
+          "event": "800S",
+          "result": "2:25.05",
+          "place": 1,
+          "gender": "M",
+          "grade": "5",
+          "athletes": [
+            "Colin Foote",
+            "Samuel Baldwin",
+            "Luke Almaguer",
+            "Jack Kuhlmann"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "2:30.24",
+          "place": 2,
+          "gender": "M",
+          "grade": "5",
+          "athletes": [
+            "Samuel Dunn",
+            "Parker Peloquin",
+            "Charlie Elder",
+            "Max Duncan"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "2:20.22",
+          "place": 1,
+          "gender": "F",
+          "grade": "5",
+          "athletes": [
+            "Madeline Andrew",
+            "Maggie Vitale",
+            "Danielle Rosburg",
+            "Madeline Lee"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "2:18.95",
+          "place": 1,
+          "gender": "F",
+          "grade": "6",
+          "athletes": [
+            "Katherine Dinkel",
+            "Caroline Newell",
+            "Madison Hibler",
+            "Charlotte Leiker"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "DNS",
+          "place": null,
+          "gender": "M",
+          "grade": "7",
+          "athletes": [
+            "Ford Booth",
+            "Connor Hilson",
+            "Benjamin Krull",
+            "Ford Pullins"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "1:55.50",
+          "place": 1,
+          "gender": "M",
+          "grade": "8",
+          "athletes": [
+            "Anthony Szmerdt",
+            "Charles Sullivan",
+            "Max Weaver",
+            "Walker Newell"
+          ]
+        },
+        {
+          "event": "800S",
+          "result": "2:07.72",
+          "place": 2,
+          "gender": "M",
+          "grade": "8",
+          "athletes": [
+            "Thomas Klocke",
+            "Tanner Turley",
+            "Will McClain",
+            "Crosby Pullins"
+          ]
+        }
+      ]
+    }
+  ]
+}

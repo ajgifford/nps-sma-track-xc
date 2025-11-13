@@ -1,0 +1,167 @@
+{
+  "teamName": "Northland Catholic",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 20,
+          "athlete": "MORGAN, Lydia",
+          "grade": "3",
+          "score": null,
+          "time": "04:04.9",
+          "gap": "48:00.0",
+          "avgMile": "06:34.9"
+        },
+        {
+          "place": 30,
+          "athlete": "DAY, Evelyn",
+          "grade": "4",
+          "score": null,
+          "time": "04:09.8",
+          "gap": "24:00.0",
+          "avgMile": "06:42.9"
+        },
+        {
+          "place": 35,
+          "athlete": "TSE, Trinh",
+          "grade": "3",
+          "score": null,
+          "time": "04:12.1",
+          "gap": "36:00.0",
+          "avgMile": "06:46.6"
+        },
+        {
+          "place": 47,
+          "athlete": "DANAHER, Kathleen",
+          "grade": "3",
+          "score": null,
+          "time": "04:38.6",
+          "gap": "01:08.9",
+          "avgMile": "07:29.3"
+        },
+        {
+          "place": 48,
+          "athlete": "MCCORMACK, Gwyneth",
+          "grade": "4",
+          "score": null,
+          "time": "04:44.3",
+          "gap": "01:14.6",
+          "avgMile": "07:38.4"
+        },
+        {
+          "place": 49,
+          "athlete": "ALLEVEN, Lucy",
+          "grade": "4",
+          "score": null,
+          "time": "04:45.2",
+          "gap": "01:15.5",
+          "avgMile": "07:40.0"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 8,
+          "athlete": "MARTINEZ, Milo",
+          "grade": "4",
+          "score": null,
+          "time": "03:38.9",
+          "gap": "24:00.0",
+          "avgMile": "05:53.0"
+        },
+        {
+          "place": 49,
+          "athlete": "STEN, Joseph",
+          "grade": "4",
+          "score": null,
+          "time": "04:13.1",
+          "gap": "12:00.0",
+          "avgMile": "06:48.2"
+        },
+        {
+          "place": 53,
+          "athlete": "BREWER, Mateo",
+          "grade": "3",
+          "score": null,
+          "time": "04:22.7",
+          "gap": "01:05.9",
+          "avgMile": "07:03.7"
+        },
+        {
+          "place": 54,
+          "athlete": "ACOSTA RIZEK, Maximiliano",
+          "grade": "3",
+          "score": null,
+          "time": "04:37.2",
+          "gap": "01:20.4",
+          "avgMile": "07:27.0"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 32,
+          "athlete": "GLAZA, Brianna",
+          "grade": "5",
+          "score": null,
+          "time": "07:15.8",
+          "gap": "01:11.2",
+          "avgMile": "07:15.8"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 47,
+          "athlete": "MCCORMACK, Liam",
+          "grade": "6",
+          "score": null,
+          "time": "07:15.1",
+          "gap": "01:34.8",
+          "avgMile": "07:15.1"
+        },
+        {
+          "place": 48,
+          "athlete": "ZARATE, Jefferson",
+          "grade": "6",
+          "score": null,
+          "time": "07:15.8",
+          "gap": "01:35.5",
+          "avgMile": "07:15.7"
+        },
+        {
+          "place": 51,
+          "athlete": "DANAHER, Charles",
+          "grade": "5",
+          "score": null,
+          "time": "07:24.7",
+          "gap": "01:44.4",
+          "avgMile": "07:24.6"
+        }
+      ]
+    }
+  ]
+}

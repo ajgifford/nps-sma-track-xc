@@ -1,0 +1,1552 @@
+{
+  "season": "2025",
+  "event": "High Jump",
+  "eventAbbr": "HJ",
+  "generatedDate": "2025-11-13T16:44:40.955Z",
+  "categories": [
+    {
+      "gender": "Female",
+      "grade": "5th grade",
+      "totalAthletes": 8,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Halle Keltner",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Aspen Lewis",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Josephine Burwell",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Bridgett Brown",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Gwyneth Bush",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Daphne Bateman",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Rosie Lewis",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Victoria Sveshnikov",
+          "team": "Saint Paul",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "grade": "6th grade",
+      "totalAthletes": 15,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Lily Toepfer",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Rachel Carpenter",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Charlotte Zitnik",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Adelaide O'Hara",
+          "team": "John Paul II CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Monica Thomas",
+          "team": "Holy Rosary Wea CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Livia Waris",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Emerson Eickholt",
+          "team": "Holy Cross CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Caroline Keenan",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Emma Johnson",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "athlete": "Penelope Lam Po Yuen",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "athlete": "Reese Mears",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "athlete": "Caroline Frausto",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "athlete": "Mariana Chik",
+          "team": "Holy Cross CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 14,
+          "athlete": "Kayla Reilly",
+          "team": "Saint Paul",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 15,
+          "athlete": "Rachel Aldis",
+          "team": "Saint Paul",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "grade": "7th grade",
+      "totalAthletes": 9,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Milly-Marie Cosentino",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "4-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Hadley Strathman",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Anna Astor",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Blake Bitar-becker",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Ruby Stirling",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Leighton Sieve",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Mackenzie Bond",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Cecelia Ammeen",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Nora Merwald",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Female",
+      "grade": "8th grade",
+      "totalAthletes": 14,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Taylor Hulcher",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "4-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Ruby Becker",
+          "team": "Good Shepherd CYOKS",
+          "bestResult": "4-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Charlie Wilson",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "4-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Quinn Bailey",
+          "team": "Good Shepherd CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Layla Reynolds",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Bella Haynes",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Ila Molen",
+          "team": "John Paul II CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Jayne Moodie",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Stella Rea",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "athlete": "Beau Hulcher",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "athlete": "Sarah Cordova",
+          "team": "Ascension CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "athlete": "Lucille Bleckman",
+          "team": "Good Shepherd CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "athlete": "Grace Hochberg",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 14,
+          "athlete": "Madeline Overbaugh",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "grade": "5th grade",
+      "totalAthletes": 13,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Graham Couch",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "4-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "John Mentzer",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Ryder Lee",
+          "team": "Ascension CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "McCoy Geraghty",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Uriah Nab",
+          "team": "Holy Rosary Wea CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Parker Peloquin",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Conner Kennedy",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Julius Snell",
+          "team": "Saint Paul",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Benjamin Yorgensen",
+          "team": "Cure Of Ars CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "athlete": "Graham Fisher",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "athlete": "Blake Mark",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "athlete": "Paul Zysk",
+          "team": "Saint John the Evangelist",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "athlete": "Rusty Graham",
+          "team": "Saint John the Evangelist",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "grade": "6th grade",
+      "totalAthletes": 15,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Matthew Brown",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Ian Seefeldt",
+          "team": "Ascension CYOKS",
+          "bestResult": "4-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Marcus Brown",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Kade Wunderly",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Jase Kenney",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Patrick Pearce",
+          "team": "Saint Ann CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Roman J. Eller",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Tucker Meggison",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Jameson Astor",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "athlete": "Ryderus Toepfer",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "athlete": "Cormac Cullinan",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "athlete": "Thomas Creal",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "athlete": "Grady Beisel",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 14,
+          "athlete": "Joe Mike Rockford",
+          "team": "Saint Paul",
+          "bestResult": "3-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 15,
+          "athlete": "Robert Santoyo",
+          "team": "Saint Agnes CYOKS",
+          "bestResult": "3-06.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-06.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "grade": "7th grade",
+      "totalAthletes": 6,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Brian Samples",
+          "team": "Good Shepherd CYOKS",
+          "bestResult": "4-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "James Douglas",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "4-06.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-06.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Chase Gallagher",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Joshua Sublette",
+          "team": "Holy Cross CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Luke Meinhardt",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Jackson Weathers",
+          "team": "Sacred Heart CYOKS",
+          "bestResult": "3-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "3-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "grade": "8th grade",
+      "totalAthletes": 13,
+      "rankings": [
+        {
+          "rank": 1,
+          "athlete": "Caleb Steinlage",
+          "team": "Saint Paul",
+          "bestResult": "5-07.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "5-07.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "athlete": "Connor Labarge",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "5-02.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "5-02.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "athlete": "Quentin Jackson",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "5-00.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "5-00.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "athlete": "Anthony Seay",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "5-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "5-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "athlete": "Anthony Bezdek",
+          "team": "Holy Trinity CYOKS",
+          "bestResult": "5-00.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "5-00.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "athlete": "Diego Rodriguez",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-10.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-10.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 2
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "athlete": "Wesley Ellis",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-10.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-10.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 5
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "athlete": "Ryder Ferguson",
+          "team": "Saint Michael CYOKS",
+          "bestResult": "4-08.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-08.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 3
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "athlete": "Andrew Perez",
+          "team": "Saint John the Evangelist",
+          "bestResult": "4-08.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-08.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 6
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "athlete": "Dylan Wren",
+          "team": "Saint Joseph CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Afternoon Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Afternoon Field",
+              "date": "4/26/2025",
+              "place": 4
+            }
+          ]
+        },
+        {
+          "rank": 11,
+          "athlete": "Gabriel Donegan",
+          "team": "Saint Paul",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 7
+            }
+          ]
+        },
+        {
+          "rank": 12,
+          "athlete": "Ben Scott",
+          "team": "Corpus Christi CYOKS",
+          "bestResult": "4-04.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-04.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 8
+            }
+          ]
+        },
+        {
+          "rank": 13,
+          "athlete": "Brayden Koelzer",
+          "team": "Prince Of Peace CYOKS",
+          "bestResult": "4-02.00",
+          "bestResultMeet": "CYO #3 2025 Morning Field",
+          "bestResultDate": "4/26/2025",
+          "allResults": [
+            {
+              "result": "4-02.00",
+              "meet": "CYO #3 2025 Morning Field",
+              "date": "4/26/2025",
+              "place": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

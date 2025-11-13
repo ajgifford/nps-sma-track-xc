@@ -1,0 +1,175 @@
+{
+  "teamName": "Holy Spirit",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 15,
+          "athlete": "TRAUSCH, Peter",
+          "grade": "3",
+          "score": null,
+          "time": "03:46.5",
+          "gap": "48:00.0",
+          "avgMile": "06:05.2"
+        },
+        {
+          "place": 17,
+          "athlete": "MCLENON, Killian",
+          "grade": "4",
+          "score": null,
+          "time": "03:47.0",
+          "gap": "48:00.0",
+          "avgMile": "06:06.0"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 15,
+          "athlete": "DOLAN, Molly",
+          "grade": "5",
+          "score": null,
+          "time": "06:43.8",
+          "gap": "48:00.0",
+          "avgMile": "06:43.7"
+        },
+        {
+          "place": 18,
+          "athlete": "WERKOWITCH, Isadore",
+          "grade": "6",
+          "score": null,
+          "time": "06:47.4",
+          "gap": "12:00.0",
+          "avgMile": "06:47.4"
+        },
+        {
+          "place": 23,
+          "athlete": "GOTH, Abigail",
+          "grade": "5",
+          "score": null,
+          "time": "07:04.3",
+          "gap": "48:00.0",
+          "avgMile": "07:04.2"
+        },
+        {
+          "place": 24,
+          "athlete": "CARLISLE, Cora",
+          "grade": "6",
+          "score": null,
+          "time": "07:06.3",
+          "gap": "01:01.7",
+          "avgMile": "07:06.2"
+        },
+        {
+          "place": 34,
+          "athlete": "TRAUSCH, Eva",
+          "grade": "5",
+          "score": null,
+          "time": "07:17.2",
+          "gap": "01:12.6",
+          "avgMile": "07:17.2"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 19,
+          "athlete": "BRANDT, Oliver",
+          "grade": "5",
+          "score": null,
+          "time": "06:28.8",
+          "gap": "00:00.0",
+          "avgMile": "06:28.8"
+        },
+        {
+          "place": 30,
+          "athlete": "VARGAS, Matias",
+          "grade": "5",
+          "score": null,
+          "time": "06:42.0",
+          "gap": "01:00.7",
+          "avgMile": "06:41.9"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 14,
+          "athlete": "DAVILA, Isabella",
+          "grade": "8",
+          "score": null,
+          "time": "10:35.0",
+          "gap": "01:35.8",
+          "avgMile": "07:03.3"
+        },
+        {
+          "place": 15,
+          "athlete": "SCOTT, Clare",
+          "grade": "7",
+          "score": null,
+          "time": "10:37.1",
+          "gap": "01:38.9",
+          "avgMile": "07:04.7"
+        },
+        {
+          "place": 20,
+          "athlete": "FELDHAUS, Karlee",
+          "grade": "7",
+          "score": null,
+          "time": "10:53.7",
+          "gap": "01:55.5",
+          "avgMile": "07:15.8"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 18,
+          "athlete": "TRAUSCH, Leo",
+          "grade": "7",
+          "score": null,
+          "time": "09:23.4",
+          "gap": "00:00.0",
+          "avgMile": "06:15.6"
+        },
+        {
+          "place": 34,
+          "athlete": "RAMOS, Kayden",
+          "grade": "8",
+          "score": null,
+          "time": "10:09.3",
+          "gap": "01:33.9",
+          "avgMile": "06:46.2"
+        }
+      ]
+    }
+  ]
+}

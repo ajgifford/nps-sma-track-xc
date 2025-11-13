@@ -1,0 +1,166 @@
+{
+  "teamName": "Corpus Christi",
+  "meetName": "CYO Meet 1",
+  "meetDate": "09-27-2025",
+  "season": "2025",
+  "teamScoreIncluded": true,
+  "scoringPlaces": 3,
+  "displacementRunners": 2,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 30,
+          "athlete": "MCGINNIS, Clare",
+          "grade": "3",
+          "score": null,
+          "time": "04:25.9",
+          "gap": "53.3",
+          "avgMile": "07:08.7"
+        },
+        {
+          "place": 47,
+          "athlete": "LARKIN, Kate",
+          "grade": "3",
+          "score": null,
+          "time": "04:42.7",
+          "gap": "01:10.1",
+          "avgMile": "07:35.9"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 36,
+          "athlete": "KEATHLEY-HELMS, Buchanan",
+          "grade": "3",
+          "score": null,
+          "time": "04:10.8",
+          "gap": "56.8",
+          "avgMile": "06:44.4"
+        },
+        {
+          "place": 56,
+          "athlete": "UNDERWOOD, Baker",
+          "grade": "3",
+          "score": null,
+          "time": "04:26.7",
+          "gap": "01:12.7",
+          "avgMile": "07:10.1"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 85,
+          "athlete": "TUCKER, Elias",
+          "grade": "5",
+          "score": null,
+          "time": "10:39.6",
+          "gap": "04:58.4",
+          "avgMile": "10:39.5"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 28,
+          "athlete": "LYNN, Paige",
+          "grade": "7",
+          "score": null,
+          "time": "12:22.9",
+          "gap": "03:17.2",
+          "avgMile": "08:15.2"
+        },
+        {
+          "place": 30,
+          "athlete": "DAHLSTRAND, Annie",
+          "grade": "8",
+          "score": null,
+          "time": "12:48.1",
+          "gap": "03:42.4",
+          "avgMile": "08:32.1"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 38,
+          "athlete": "BLETTNER, Dane",
+          "grade": "8",
+          "score": 36,
+          "time": "10:51.7",
+          "gap": "02:06.6",
+          "avgMile": "07:14.4",
+          "scoring": true
+        },
+        {
+          "place": 40,
+          "athlete": "UNDERWOOD, Tripp",
+          "grade": "8",
+          "score": 38,
+          "time": "10:55.6",
+          "gap": "02:10.5",
+          "avgMile": "07:17.0",
+          "scoring": true
+        },
+        {
+          "place": 70,
+          "athlete": "HAMMACK, Rylan",
+          "grade": "8",
+          "score": 52,
+          "time": "13:38.6",
+          "gap": "04:53.5",
+          "avgMile": "09:05.7",
+          "scoring": true
+        },
+        {
+          "place": 75,
+          "athlete": "SOLOMON, Jack",
+          "grade": "8",
+          "score": 54,
+          "time": "14:26.3",
+          "gap": "05:41.2",
+          "avgMile": "09:37.5",
+          "scoring": false
+        },
+        {
+          "place": 76,
+          "athlete": "MOORE, Vincent",
+          "grade": "8",
+          "score": 55,
+          "time": "14:40.3",
+          "gap": "05:55.2",
+          "avgMile": "09:46.8",
+          "scoring": false
+        }
+      ],
+      "teamScore": 126,
+      "teamPlace": 13
+    }
+  ]
+}

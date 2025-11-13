@@ -1,0 +1,122 @@
+{
+  "teamName": "St. Elizabeth",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 43,
+          "athlete": "AMAN, Margot",
+          "grade": "3",
+          "score": null,
+          "time": "04:24.7",
+          "gap": "00:00.0",
+          "avgMile": "07:06.8"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 5,
+          "athlete": "MCGOVERN, Luke",
+          "grade": "4",
+          "score": null,
+          "time": "03:31.1",
+          "gap": "12:00.0",
+          "avgMile": "05:40.4"
+        },
+        {
+          "place": 7,
+          "athlete": "HODES, Francis",
+          "grade": "4",
+          "score": null,
+          "time": "03:38.6",
+          "gap": "12:00.0",
+          "avgMile": "05:52.5"
+        },
+        {
+          "place": 9,
+          "athlete": "BOESEN, Charles",
+          "grade": "4",
+          "score": null,
+          "time": "03:39.7",
+          "gap": "36:00.0",
+          "avgMile": "05:54.3"
+        },
+        {
+          "place": 25,
+          "athlete": "EUSTON, Charlie",
+          "grade": "4",
+          "score": null,
+          "time": "03:53.9",
+          "gap": "24:00.0",
+          "avgMile": "06:17.2"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 38,
+          "athlete": "AMAN, Cora",
+          "grade": "5",
+          "score": null,
+          "time": "07:18.1",
+          "gap": "01:13.5",
+          "avgMile": "07:18.1"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 12,
+          "athlete": "HODES, Augusta",
+          "grade": "7",
+          "score": null,
+          "time": "10:34.1",
+          "gap": "01:35.9",
+          "avgMile": "07:02.7"
+        },
+        {
+          "place": 33,
+          "athlete": "JOHNSON, Harper",
+          "grade": "7",
+          "score": null,
+          "time": "11:55.2",
+          "gap": "02:57.0",
+          "avgMile": "07:56.8"
+        },
+        {
+          "place": 34,
+          "athlete": "MCGRAW, Maggie",
+          "grade": "7",
+          "score": null,
+          "time": "11:59.0",
+          "gap": "02:59.8",
+          "avgMile": "07:59.3"
+        }
+      ]
+    }
+  ]
+}

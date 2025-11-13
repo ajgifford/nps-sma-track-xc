@@ -1,0 +1,180 @@
+{
+  "teamName": "Xavier",
+  "meetName": "CYO Meet 3",
+  "meetDate": "10-11-2025",
+  "season": "2025",
+  "teamScoreIncluded": true,
+  "scoringPlaces": 3,
+  "displacementRunners": 2,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 14,
+          "athlete": "HOLCOMB, Rowan",
+          "grade": "3",
+          "score": 14,
+          "time": "04:02.0",
+          "gap": "12:00.0",
+          "avgMile": "06:30.2",
+          "scoring": true
+        },
+        {
+          "place": 46,
+          "athlete": "ROTH, Edan",
+          "grade": "3",
+          "score": 38,
+          "time": "04:35.1",
+          "gap": "01:03.9",
+          "avgMile": "07:23.6",
+          "scoring": true
+        },
+        {
+          "place": 68,
+          "athlete": "RUSHEN, Alyssa",
+          "grade": "4",
+          "score": 50,
+          "time": "05:18.5",
+          "gap": "01:47.3",
+          "avgMile": "08:33.6",
+          "scoring": true
+        }
+      ],
+      "teamScore": 102,
+      "teamPlace": 11
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 19,
+          "athlete": "DEPAOLIS, Jesus",
+          "grade": "3",
+          "score": 19,
+          "time": "03:54.6",
+          "gap": "48:00.0",
+          "avgMile": "06:18.3",
+          "scoring": true
+        },
+        {
+          "place": 55,
+          "athlete": "SALAZAR, Easton",
+          "grade": "3",
+          "score": 44,
+          "time": "04:31.1",
+          "gap": "01:10.7",
+          "avgMile": "07:17.1",
+          "scoring": true
+        },
+        {
+          "place": 65,
+          "athlete": "SALAZAR, Evan",
+          "grade": "3",
+          "score": 48,
+          "time": "04:35.9",
+          "gap": "01:15.5",
+          "avgMile": "07:25.0",
+          "scoring": true
+        },
+        {
+          "place": 68,
+          "athlete": "STRONG, Kellan",
+          "grade": "4",
+          "score": 51,
+          "time": "04:42.8",
+          "gap": "01:22.4",
+          "avgMile": "07:36.0",
+          "scoring": false
+        },
+        {
+          "place": 73,
+          "athlete": "DOAK, Patrick",
+          "grade": "3",
+          "score": 55,
+          "time": "04:55.5",
+          "gap": "01:35.1",
+          "avgMile": "07:56.5",
+          "scoring": false
+        }
+      ],
+      "teamScore": 111,
+      "teamPlace": 12
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 20,
+          "athlete": "HOLCOMB, Natasha",
+          "grade": "6",
+          "score": null,
+          "time": "07:10.8",
+          "gap": "01:01.4",
+          "avgMile": "07:10.8"
+        },
+        {
+          "place": 50,
+          "athlete": "SCHWARTZ, Henley",
+          "grade": "6",
+          "score": null,
+          "time": "08:06.2",
+          "gap": "01:56.8",
+          "avgMile": "08:06.2"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 56,
+          "athlete": "DOAK, John",
+          "grade": "6",
+          "score": null,
+          "time": "07:51.3",
+          "gap": "02:14.1",
+          "avgMile": "07:51.3"
+        },
+        {
+          "place": 58,
+          "athlete": "DOAK, Joseph",
+          "grade": "5",
+          "score": null,
+          "time": "07:51.9",
+          "gap": "02:14.7",
+          "avgMile": "07:51.8"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 78,
+          "athlete": "WINTERS, Wyatt",
+          "grade": "8",
+          "score": null,
+          "time": "14:31.7",
+          "gap": "05:49.7",
+          "avgMile": "09:41.1"
+        }
+      ]
+    }
+  ]
+}

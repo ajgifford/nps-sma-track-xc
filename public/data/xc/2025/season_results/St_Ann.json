@@ -1,0 +1,1258 @@
+{
+  "teamName": "St Ann",
+  "season": "2025",
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "KOESTER, Annie",
+              "grade": "4",
+              "score": 1,
+              "time": "03:32.6",
+              "gap": "---",
+              "avgMile": "05:42.8"
+            },
+            {
+              "place": 2,
+              "athlete": "KOESTER, Millie",
+              "grade": "4",
+              "score": 2,
+              "time": "03:38.6",
+              "gap": "6",
+              "avgMile": "05:52.5"
+            },
+            {
+              "place": 7,
+              "athlete": "MAYS, Fiona",
+              "grade": "4",
+              "score": 7,
+              "time": "03:55.8",
+              "gap": "23.2",
+              "avgMile": "06:20.2"
+            },
+            {
+              "place": 17,
+              "athlete": "GILMORE, Casiana",
+              "grade": "4",
+              "score": 17,
+              "time": "04:14.1",
+              "gap": "41.5",
+              "avgMile": "06:49.7"
+            },
+            {
+              "place": 22,
+              "athlete": "KRAMER, Evelyn",
+              "grade": "3",
+              "score": 22,
+              "time": "04:18.8",
+              "gap": "46.2",
+              "avgMile": "06:57.4"
+            },
+            {
+              "place": 37,
+              "athlete": "BALL, Sloan",
+              "grade": "3",
+              "score": null,
+              "time": "04:33.3",
+              "gap": "01:00.7",
+              "avgMile": "07:20.7"
+            },
+            {
+              "place": 64,
+              "athlete": "BARRON, Juliet",
+              "grade": "3",
+              "score": null,
+              "time": "05:20.1",
+              "gap": "01:47.5",
+              "avgMile": "08:36.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "KOESTER, Millie",
+              "grade": "4",
+              "score": 1,
+              "time": "03:43.5",
+              "gap": "---",
+              "avgMile": "06:00.5"
+            },
+            {
+              "place": 2,
+              "athlete": "KOESTER, Annie",
+              "grade": "4",
+              "score": 2,
+              "time": "03:49.6",
+              "gap": "24:00.0",
+              "avgMile": "06:10.3"
+            },
+            {
+              "place": 6,
+              "athlete": "HENNES, Ella",
+              "grade": "4",
+              "score": 6,
+              "time": "04:02.8",
+              "gap": "12:00.0",
+              "avgMile": "06:31.6"
+            },
+            {
+              "place": 9,
+              "athlete": "MAYS, Fiona",
+              "grade": "4",
+              "score": 9,
+              "time": "04:08.6",
+              "gap": "24:00.0",
+              "avgMile": "06:41.0"
+            },
+            {
+              "place": 11,
+              "athlete": "GILMORE, Casiana",
+              "grade": "4",
+              "score": 11,
+              "time": "04:14.9",
+              "gap": "36:00.0",
+              "avgMile": "06:51.0"
+            },
+            {
+              "place": 16,
+              "athlete": "KRAMER, Evelyn",
+              "grade": "3",
+              "score": null,
+              "time": "04:21.4",
+              "gap": "36:00.0",
+              "avgMile": "07:01.5"
+            },
+            {
+              "place": 63,
+              "athlete": "DAVIS, Sophie",
+              "grade": "3",
+              "score": null,
+              "time": "05:27.2",
+              "gap": "01:43.7",
+              "avgMile": "08:47.7"
+            },
+            {
+              "place": 69,
+              "athlete": "BALL, Sloan",
+              "grade": "3",
+              "score": null,
+              "time": "05:41.2",
+              "gap": "01:57.7",
+              "avgMile": "09:10.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "KOESTER, Millie",
+              "grade": "4",
+              "score": 1,
+              "time": "03:31.2",
+              "gap": "---",
+              "avgMile": "05:40.5"
+            },
+            {
+              "place": 2,
+              "athlete": "KOESTER, Annie",
+              "grade": "4",
+              "score": 2,
+              "time": "03:35.1",
+              "gap": "36:00.0",
+              "avgMile": "05:46.9"
+            },
+            {
+              "place": 9,
+              "athlete": "GILMORE, Casiana",
+              "grade": "4",
+              "score": 9,
+              "time": "03:54.8",
+              "gap": "24:00.0",
+              "avgMile": "06:18.7"
+            },
+            {
+              "place": 21,
+              "athlete": "KRAMER, Evelyn",
+              "grade": "3",
+              "score": 21,
+              "time": "04:13.5",
+              "gap": "12:00.0",
+              "avgMile": "06:48.8"
+            },
+            {
+              "place": 40,
+              "athlete": "BALL, Sloan",
+              "grade": "3",
+              "score": 35,
+              "time": "04:28.3",
+              "gap": "24:00.0",
+              "avgMile": "07:12.7"
+            },
+            {
+              "place": 50,
+              "athlete": "DAVIS, Sophie",
+              "grade": "3",
+              "score": null,
+              "time": "04:40.7",
+              "gap": "01:09.5",
+              "avgMile": "07:32.7"
+            },
+            {
+              "place": 65,
+              "athlete": "BARRON, Juliet",
+              "grade": "3",
+              "score": null,
+              "time": "05:16.8",
+              "gap": "01:45.6",
+              "avgMile": "08:30.9"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "KOESTER, Millie",
+              "grade": "4",
+              "score": 1,
+              "time": "03:37.8",
+              "gap": "---",
+              "avgMile": "05:51.3"
+            },
+            {
+              "place": 2,
+              "athlete": "KOESTER, Annie",
+              "grade": "4",
+              "score": 2,
+              "time": "03:43.1",
+              "gap": "12:00.0",
+              "avgMile": "05:59.7"
+            },
+            {
+              "place": 6,
+              "athlete": "HENNES, Ella",
+              "grade": "4",
+              "score": 6,
+              "time": "03:56.8",
+              "gap": "00:00.0",
+              "avgMile": "06:21.8"
+            },
+            {
+              "place": 11,
+              "athlete": "GILMORE, Casiana",
+              "grade": "4",
+              "score": 11,
+              "time": "04:05.5",
+              "gap": "48:00.0",
+              "avgMile": "06:35.9"
+            },
+            {
+              "place": 14,
+              "athlete": "KRAMER, Evelyn",
+              "grade": "3",
+              "score": 14,
+              "time": "04:11.0",
+              "gap": "48:00.0",
+              "avgMile": "06:44.8"
+            },
+            {
+              "place": 47,
+              "athlete": "DAVIS, Sophie",
+              "grade": "3",
+              "score": null,
+              "time": "04:48.2",
+              "gap": "01:10.4",
+              "avgMile": "07:44.7"
+            }
+          ]
+        },
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "KOESTER, Millie",
+              "grade": "4",
+              "score": null,
+              "time": "03:29.7",
+              "gap": "---",
+              "avgMile": "05:38.1"
+            },
+            {
+              "place": 3,
+              "athlete": "KOESTER, Annie",
+              "grade": "4",
+              "score": null,
+              "time": "03:36.6",
+              "gap": "36:00.0",
+              "avgMile": "05:49.2"
+            },
+            {
+              "place": 8,
+              "athlete": "HENNES, Ella",
+              "grade": "4",
+              "score": null,
+              "time": "03:48.5",
+              "gap": "12:00.0",
+              "avgMile": "06:08.5"
+            },
+            {
+              "place": 12,
+              "athlete": "MAYS, Fiona",
+              "grade": "4",
+              "score": null,
+              "time": "03:57.0",
+              "gap": "12:00.0",
+              "avgMile": "06:22.2"
+            },
+            {
+              "place": 13,
+              "athlete": "GILMORE, Casiana",
+              "grade": "4",
+              "score": null,
+              "time": "03:57.2",
+              "gap": "00:00.0",
+              "avgMile": "06:22.4"
+            },
+            {
+              "place": 21,
+              "athlete": "KRAMER, Evelyn",
+              "grade": "3",
+              "score": null,
+              "time": "04:05.1",
+              "gap": "36:00.0",
+              "avgMile": "06:35.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025",
+          "results": [
+            {
+              "place": 3,
+              "athlete": "HAYS, Hutton",
+              "grade": "4",
+              "score": 3,
+              "time": "03:37.2",
+              "gap": "23.2",
+              "avgMile": "05:50.3"
+            },
+            {
+              "place": 31,
+              "athlete": "JURGENSMEYER, Charlie",
+              "grade": "3",
+              "score": 29,
+              "time": "04:04.9",
+              "gap": "50.9",
+              "avgMile": "06:34.9"
+            },
+            {
+              "place": 32,
+              "athlete": "BETHURUM, John",
+              "grade": "3",
+              "score": 30,
+              "time": "04:05.4",
+              "gap": "51.4",
+              "avgMile": "06:35.8"
+            },
+            {
+              "place": 37,
+              "athlete": "GOODGER, Matt",
+              "grade": "3",
+              "score": 33,
+              "time": "04:11.6",
+              "gap": "24:00.0",
+              "avgMile": "06:45.8"
+            },
+            {
+              "place": 38,
+              "athlete": "BUSH, James",
+              "grade": "3",
+              "score": 34,
+              "time": "04:11.8",
+              "gap": "12:00.0",
+              "avgMile": "06:46.0"
+            },
+            {
+              "place": 39,
+              "athlete": "EICHENBERG, Bowen",
+              "grade": "3",
+              "score": null,
+              "time": "04:11.9",
+              "gap": "36:00.0",
+              "avgMile": "06:46.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025",
+          "results": [
+            {
+              "place": 4,
+              "athlete": "HAYS, Hutton",
+              "grade": "4",
+              "score": 4,
+              "time": "03:45.6",
+              "gap": "00:00.0",
+              "avgMile": "06:03.8"
+            },
+            {
+              "place": 21,
+              "athlete": "GOODGER, Matt",
+              "grade": "3",
+              "score": 18,
+              "time": "04:03.9",
+              "gap": "12:00.0",
+              "avgMile": "06:33.3"
+            },
+            {
+              "place": 34,
+              "athlete": "BETHURUM, John",
+              "grade": "3",
+              "score": 29,
+              "time": "04:15.2",
+              "gap": "24:00.0",
+              "avgMile": "06:51.5"
+            },
+            {
+              "place": 35,
+              "athlete": "JURGENSMEYER, Charlie",
+              "grade": "3",
+              "score": 30,
+              "time": "04:16.0",
+              "gap": "36:00.0",
+              "avgMile": "06:52.8"
+            },
+            {
+              "place": 37,
+              "athlete": "BUSH, James",
+              "grade": "3",
+              "score": 32,
+              "time": "04:17.6",
+              "gap": "00:00.0",
+              "avgMile": "06:55.4"
+            },
+            {
+              "place": 64,
+              "athlete": "EICHENBERG, Bowen",
+              "grade": "3",
+              "score": null,
+              "time": "04:42.3",
+              "gap": "01:14.2",
+              "avgMile": "07:35.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025",
+          "results": [
+            {
+              "place": 9,
+              "athlete": "GOODGER, Matt",
+              "grade": "3",
+              "score": 9,
+              "time": "03:43.6",
+              "gap": "48:00.0",
+              "avgMile": "06:00.6"
+            },
+            {
+              "place": 24,
+              "athlete": "BUSH, James",
+              "grade": "3",
+              "score": 24,
+              "time": "03:57.7",
+              "gap": "12:00.0",
+              "avgMile": "06:23.4"
+            },
+            {
+              "place": 41,
+              "athlete": "BETHURUM, John",
+              "grade": "3",
+              "score": 36,
+              "time": "04:13.4",
+              "gap": "00:00.0",
+              "avgMile": "06:48.6"
+            },
+            {
+              "place": 42,
+              "athlete": "EICHENBERG, Bowen",
+              "grade": "3",
+              "score": 37,
+              "time": "04:15.2",
+              "gap": "12:00.0",
+              "avgMile": "06:51.5"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025",
+          "results": [
+            {
+              "place": 11,
+              "athlete": "HAYS, Hutton",
+              "grade": "4",
+              "score": 11,
+              "time": "03:50.7",
+              "gap": "48:00.0",
+              "avgMile": "06:12.1"
+            },
+            {
+              "place": 18,
+              "athlete": "GOODGER, Matt",
+              "grade": "3",
+              "score": 18,
+              "time": "03:57.4",
+              "gap": "36:00.0",
+              "avgMile": "06:22.9"
+            },
+            {
+              "place": 35,
+              "athlete": "BETHURUM, John",
+              "grade": "3",
+              "score": 32,
+              "time": "04:10.5",
+              "gap": "00:00.0",
+              "avgMile": "06:44.0"
+            },
+            {
+              "place": 39,
+              "athlete": "BUSH, James",
+              "grade": "3",
+              "score": 35,
+              "time": "04:14.2",
+              "gap": "48:00.0",
+              "avgMile": "06:50.0"
+            },
+            {
+              "place": 48,
+              "athlete": "JURGENSMEYER, Charlie",
+              "grade": "3",
+              "score": 42,
+              "time": "04:23.4",
+              "gap": "36:00.0",
+              "avgMile": "07:04.8"
+            },
+            {
+              "place": 51,
+              "athlete": "EICHENBERG, Bowen",
+              "grade": "3",
+              "score": null,
+              "time": "04:25.6",
+              "gap": "01:01.1",
+              "avgMile": "07:08.3"
+            }
+          ]
+        },
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 11,
+              "athlete": "HAYS, Hutton",
+              "grade": "4",
+              "score": null,
+              "time": "03:40.9",
+              "gap": "24:00.0",
+              "avgMile": "05:56.1"
+            },
+            {
+              "place": 24,
+              "athlete": "GOODGER, Matt",
+              "grade": "3",
+              "score": null,
+              "time": "03:53.6",
+              "gap": "12:00.0",
+              "avgMile": "06:16.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025",
+          "results": [
+            {
+              "place": 7,
+              "athlete": "JURGENSMEYER, Ellie",
+              "grade": "6",
+              "score": 7,
+              "time": "06:39.3",
+              "gap": "32.6",
+              "avgMile": "06:39.2"
+            },
+            {
+              "place": 20,
+              "athlete": "BAUER, Remi",
+              "grade": "6",
+              "score": 18,
+              "time": "07:07.3",
+              "gap": "01:00.6",
+              "avgMile": "07:07.2"
+            },
+            {
+              "place": 34,
+              "athlete": "BUTLER, Mary",
+              "grade": "6",
+              "score": 28,
+              "time": "07:47.6",
+              "gap": "01:40.9",
+              "avgMile": "07:47.5"
+            },
+            {
+              "place": 59,
+              "athlete": "COOPER, Claire",
+              "grade": "5",
+              "score": 37,
+              "time": "09:04.2",
+              "gap": "02:57.5",
+              "avgMile": "09:04.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025",
+          "results": [
+            {
+              "place": 8,
+              "athlete": "JURGENSMEYER, Ellie",
+              "grade": "6",
+              "score": 7,
+              "time": "06:32.1",
+              "gap": "24:00.0",
+              "avgMile": "06:32.0"
+            },
+            {
+              "place": 24,
+              "athlete": "BAUER, Remi",
+              "grade": "6",
+              "score": 23,
+              "time": "07:08.8",
+              "gap": "01:15.3",
+              "avgMile": "07:08.7"
+            },
+            {
+              "place": 36,
+              "athlete": "BUTLER, Mary",
+              "grade": "6",
+              "score": 30,
+              "time": "07:27.1",
+              "gap": "01:33.6",
+              "avgMile": "07:27.1"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025",
+          "results": [
+            {
+              "place": 28,
+              "athlete": "BAUER, Remi",
+              "grade": "6",
+              "score": null,
+              "time": "07:21.8",
+              "gap": "01:12.4",
+              "avgMile": "07:21.7"
+            },
+            {
+              "place": 45,
+              "athlete": "BUTLER, Mary",
+              "grade": "6",
+              "score": null,
+              "time": "07:54.9",
+              "gap": "01:45.5",
+              "avgMile": "07:54.8"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025",
+          "results": [
+            {
+              "place": 8,
+              "athlete": "JURGENSMEYER, Ellie",
+              "grade": "6",
+              "score": null,
+              "time": "06:27.1",
+              "gap": "48:00.0",
+              "avgMile": "06:27.1"
+            },
+            {
+              "place": 23,
+              "athlete": "BAUER, Remi",
+              "grade": "6",
+              "score": null,
+              "time": "06:56.8",
+              "gap": "01:09.4",
+              "avgMile": "06:56.8"
+            },
+            {
+              "place": 45,
+              "athlete": "BUTLER, Mary",
+              "grade": "6",
+              "score": null,
+              "time": "07:47.8",
+              "gap": "02:00.4",
+              "avgMile": "07:47.7"
+            }
+          ]
+        },
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 6,
+              "athlete": "JURGENSMEYER, Ellie",
+              "grade": "6",
+              "score": null,
+              "time": "06:26.5",
+              "gap": "36:00.0",
+              "avgMile": "06:26.5"
+            },
+            {
+              "place": 37,
+              "athlete": "BAUER, Remi",
+              "grade": "6",
+              "score": null,
+              "time": "07:18.0",
+              "gap": "01:13.4",
+              "avgMile": "07:18.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "RUSH, Joey",
+              "grade": "6",
+              "score": 1,
+              "time": "05:41.2",
+              "gap": "---",
+              "avgMile": "05:41.2"
+            },
+            {
+              "place": 8,
+              "athlete": "MARVEL, Patrick",
+              "grade": "6",
+              "score": 7,
+              "time": "06:25.0",
+              "gap": "43.8",
+              "avgMile": "06:25.0"
+            },
+            {
+              "place": 9,
+              "athlete": "REINTJES, Lewis",
+              "grade": "6",
+              "score": 8,
+              "time": "06:25.7",
+              "gap": "44.5",
+              "avgMile": "06:25.6"
+            },
+            {
+              "place": 34,
+              "athlete": "BALL, Charlie",
+              "grade": "5",
+              "score": 29,
+              "time": "07:19.1",
+              "gap": "01:37.9",
+              "avgMile": "07:19.1"
+            },
+            {
+              "place": 53,
+              "athlete": "CRALL, Charlie",
+              "grade": "6",
+              "score": 45,
+              "time": "07:53.7",
+              "gap": "02:12.5",
+              "avgMile": "07:53.7"
+            },
+            {
+              "place": 65,
+              "athlete": "SCHMEIDLER, James",
+              "grade": "5",
+              "score": null,
+              "time": "08:14.0",
+              "gap": "02:31.8",
+              "avgMile": "08:14.0"
+            },
+            {
+              "place": 67,
+              "athlete": "HERRE, Henry",
+              "grade": "5",
+              "score": null,
+              "time": "08:16.6",
+              "gap": "02:35.4",
+              "avgMile": "08:16.5"
+            },
+            {
+              "place": 72,
+              "athlete": "ERNZEN, Felix",
+              "grade": "6",
+              "score": null,
+              "time": "08:35.8",
+              "gap": "02:54.6",
+              "avgMile": "08:35.8"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "RUSH, Joey",
+              "grade": "6",
+              "score": 1,
+              "time": "05:32.4",
+              "gap": "---",
+              "avgMile": "05:32.3"
+            },
+            {
+              "place": 7,
+              "athlete": "REINTJES, Lewis",
+              "grade": "6",
+              "score": 6,
+              "time": "06:02.6",
+              "gap": "48:00.0",
+              "avgMile": "06:02.5"
+            },
+            {
+              "place": 9,
+              "athlete": "MARVEL, Patrick",
+              "grade": "6",
+              "score": 8,
+              "time": "06:19.8",
+              "gap": "36:00.0",
+              "avgMile": "06:19.8"
+            },
+            {
+              "place": 75,
+              "athlete": "SCHMEIDLER, James",
+              "grade": "5",
+              "score": 58,
+              "time": "08:04.0",
+              "gap": "02:30.6",
+              "avgMile": "08:04.0"
+            },
+            {
+              "place": 76,
+              "athlete": "CRALL, Charlie",
+              "grade": "6",
+              "score": 59,
+              "time": "08:04.1",
+              "gap": "02:31.7",
+              "avgMile": "08:04.0"
+            },
+            {
+              "place": 77,
+              "athlete": "HERRE, Henry",
+              "grade": "5",
+              "score": null,
+              "time": "08:04.7",
+              "gap": "02:32.3",
+              "avgMile": "08:04.7"
+            },
+            {
+              "place": 81,
+              "athlete": "ERNZEN, Felix",
+              "grade": "6",
+              "score": null,
+              "time": "08:15.7",
+              "gap": "02:43.3",
+              "avgMile": "08:15.7"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "RUSH, Joey",
+              "grade": "6",
+              "score": 1,
+              "time": "05:37.2",
+              "gap": "---",
+              "avgMile": "05:37.1"
+            },
+            {
+              "place": 8,
+              "athlete": "MARVEL, Patrick",
+              "grade": "6",
+              "score": 6,
+              "time": "06:22.1",
+              "gap": "36:00.0",
+              "avgMile": "06:22.0"
+            },
+            {
+              "place": 10,
+              "athlete": "REINTJES, Lewis",
+              "grade": "6",
+              "score": 8,
+              "time": "06:23.7",
+              "gap": "00:00.0",
+              "avgMile": "06:23.7"
+            },
+            {
+              "place": 35,
+              "athlete": "BALL, Charlie",
+              "grade": "5",
+              "score": 31,
+              "time": "07:03.6",
+              "gap": "01:26.4",
+              "avgMile": "07:03.6"
+            },
+            {
+              "place": 60,
+              "athlete": "SCHMEIDLER, James",
+              "grade": "5",
+              "score": 50,
+              "time": "07:53.7",
+              "gap": "02:16.5",
+              "avgMile": "07:53.7"
+            },
+            {
+              "place": 66,
+              "athlete": "CRALL, Charlie",
+              "grade": "6",
+              "score": null,
+              "time": "07:58.2",
+              "gap": "02:21.0",
+              "avgMile": "07:58.2"
+            },
+            {
+              "place": 69,
+              "athlete": "HERRE, Henry",
+              "grade": "5",
+              "score": null,
+              "time": "08:00.8",
+              "gap": "02:23.6",
+              "avgMile": "08:00.8"
+            },
+            {
+              "place": 76,
+              "athlete": "ERNZEN, Felix",
+              "grade": "6",
+              "score": null,
+              "time": "08:12.3",
+              "gap": "02:35.1",
+              "avgMile": "08:12.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "RUSH, Joey",
+              "grade": "6",
+              "score": 1,
+              "time": "05:29.3",
+              "gap": "---",
+              "avgMile": "05:29.2"
+            },
+            {
+              "place": 12,
+              "athlete": "MARVEL, Patrick",
+              "grade": "6",
+              "score": 4,
+              "time": "06:17.9",
+              "gap": "24:00.0",
+              "avgMile": "06:17.8"
+            },
+            {
+              "place": 58,
+              "athlete": "HERRE, Henry",
+              "grade": "5",
+              "score": 25,
+              "time": "07:32.8",
+              "gap": "02:03.5",
+              "avgMile": "07:32.7"
+            },
+            {
+              "place": 63,
+              "athlete": "ERNZEN, Felix",
+              "grade": "6",
+              "score": 27,
+              "time": "07:42.4",
+              "gap": "02:13.1",
+              "avgMile": "07:42.4"
+            }
+          ]
+        },
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 1,
+              "athlete": "RUSH, Joey",
+              "grade": "6",
+              "score": null,
+              "time": "05:40.3",
+              "gap": "---",
+              "avgMile": "05:40.2"
+            },
+            {
+              "place": 7,
+              "athlete": "REINTJES, Leis",
+              "grade": "6",
+              "score": null,
+              "time": "06:10.1",
+              "gap": "12:00.0",
+              "avgMile": "06:10.1"
+            },
+            {
+              "place": 18,
+              "athlete": "MARVEL, Patrick",
+              "grade": "6",
+              "score": null,
+              "time": "06:28.5",
+              "gap": "48:00.0",
+              "avgMile": "06:28.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025",
+          "results": [
+            {
+              "place": 12,
+              "athlete": "BUSH, Henry",
+              "grade": "8",
+              "score": 12,
+              "time": "09:21.5",
+              "gap": "36:00.0",
+              "avgMile": "06:14.3"
+            },
+            {
+              "place": 30,
+              "athlete": "BAUER, Bennett",
+              "grade": "8",
+              "score": 28,
+              "time": "10:26.2",
+              "gap": "01:41.1",
+              "avgMile": "06:57.4"
+            },
+            {
+              "place": 81,
+              "athlete": "BELL, Colin",
+              "grade": "7",
+              "score": 59,
+              "time": "16:16.9",
+              "gap": "07:31.8",
+              "avgMile": "10:51.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025",
+          "results": [
+            {
+              "place": 12,
+              "athlete": "BUSH, Henry",
+              "grade": "8",
+              "score": 12,
+              "time": "09:00.1",
+              "gap": "48:00.0",
+              "avgMile": "06:00.0"
+            },
+            {
+              "place": 37,
+              "athlete": "BAUER, Bennett",
+              "grade": "8",
+              "score": 34,
+              "time": "10:24.0",
+              "gap": "01:57.6",
+              "avgMile": "06:56.0"
+            },
+            {
+              "place": 67,
+              "athlete": "MOYER, Jacob",
+              "grade": "8",
+              "score": 51,
+              "time": "12:36.9",
+              "gap": "04:11.5",
+              "avgMile": "08:24.6"
+            },
+            {
+              "place": 85,
+              "athlete": "BELL, Colin",
+              "grade": "7",
+              "score": 60,
+              "time": "15:40.7",
+              "gap": "07:15.3",
+              "avgMile": "10:27.1"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025",
+          "results": [
+            {
+              "place": 14,
+              "athlete": "BUSH, Henry",
+              "grade": "8",
+              "score": 14,
+              "time": "09:27.5",
+              "gap": "00:00.0",
+              "avgMile": "06:18.3"
+            },
+            {
+              "place": 34,
+              "athlete": "BAUER, Bennett",
+              "grade": "8",
+              "score": 32,
+              "time": "10:23.0",
+              "gap": "01:41.0",
+              "avgMile": "06:55.3"
+            },
+            {
+              "place": 69,
+              "athlete": "MOYER, Jacob",
+              "grade": "8",
+              "score": 52,
+              "time": "12:36.2",
+              "gap": "03:54.2",
+              "avgMile": "08:24.1"
+            },
+            {
+              "place": 82,
+              "athlete": "BELL, Colin",
+              "grade": "7",
+              "score": 56,
+              "time": "15:12.3",
+              "gap": "06:30.3",
+              "avgMile": "10:08.2"
+            }
+          ]
+        },
+        {
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025",
+          "results": [
+            {
+              "place": 13,
+              "athlete": "BUSH, Henry",
+              "grade": "8",
+              "score": null,
+              "time": "09:03.2",
+              "gap": "36:00.0",
+              "avgMile": "06:02.1"
+            },
+            {
+              "place": 28,
+              "athlete": "BAUER, Bennett",
+              "grade": "8",
+              "score": null,
+              "time": "09:39.3",
+              "gap": "01:32.0",
+              "avgMile": "06:26.2"
+            },
+            {
+              "place": 74,
+              "athlete": "BELL, Colin",
+              "grade": "7",
+              "score": null,
+              "time": "14:47.6",
+              "gap": "06:40.3",
+              "avgMile": "09:51.7"
+            }
+          ]
+        },
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 14,
+              "athlete": "BUSH, Henry",
+              "grade": "8",
+              "score": null,
+              "time": "09:05.7",
+              "gap": "12:00.0",
+              "avgMile": "06:03.8"
+            },
+            {
+              "place": 32,
+              "athlete": "BAUER, Bennett",
+              "grade": "8",
+              "score": null,
+              "time": "10:04.9",
+              "gap": "01:29.5",
+              "avgMile": "06:43.2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

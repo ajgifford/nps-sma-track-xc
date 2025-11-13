@@ -1,0 +1,122 @@
+{
+  "teamName": "St John the Evangelist",
+  "meetName": "CYO Final",
+  "meetDate": "10-18-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 9,
+          "athlete": "CURRAN, Rae",
+          "grade": "3",
+          "score": 9,
+          "time": "04:02.1",
+          "gap": "12:00.0",
+          "avgMile": "06:30.4"
+        },
+        {
+          "place": 28,
+          "athlete": "MILLER, Mena",
+          "grade": "3",
+          "score": 26,
+          "time": "04:22.6",
+          "gap": "12:00.0",
+          "avgMile": "07:03.5"
+        },
+        {
+          "place": 58,
+          "athlete": "KRISCHE, Stella",
+          "grade": "3",
+          "score": 43,
+          "time": "05:02.4",
+          "gap": "01:24.6",
+          "avgMile": "08:07.7"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 33,
+          "athlete": "GERKEN, Milo",
+          "grade": "4",
+          "score": null,
+          "time": "04:09.0",
+          "gap": "00:00.0",
+          "avgMile": "06:41.5"
+        },
+        {
+          "place": 56,
+          "athlete": "STAMM, Maurice",
+          "grade": "3",
+          "score": null,
+          "time": "04:34.6",
+          "gap": "01:10.1",
+          "avgMile": "07:22.8"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 8,
+          "athlete": "GRAHAM, Rusty",
+          "grade": "6",
+          "score": null,
+          "time": "06:08.8",
+          "gap": "00:00.0",
+          "avgMile": "06:08.8"
+        },
+        {
+          "place": 28,
+          "athlete": "CHISM, Kye",
+          "grade": "5",
+          "score": null,
+          "time": "06:39.9",
+          "gap": "01:10.6",
+          "avgMile": "06:39.9"
+        },
+        {
+          "place": 61,
+          "athlete": "MULHERN, Ravi",
+          "grade": "6",
+          "score": null,
+          "time": "07:39.2",
+          "gap": "02:09.9",
+          "avgMile": "07:39.1"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 33,
+          "athlete": "GREEN, Nicholas",
+          "grade": "8",
+          "score": null,
+          "time": "10:00.1",
+          "gap": "01:52.8",
+          "avgMile": "06:40.1"
+        }
+      ]
+    }
+  ]
+}

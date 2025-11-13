@@ -1,0 +1,170 @@
+{
+  "teamName": "Corpus Christi",
+  "meetName": "CYO Meet 3",
+  "meetDate": "10-11-2025",
+  "season": "2025",
+  "teamScoreIncluded": true,
+  "scoringPlaces": 3,
+  "displacementRunners": 2,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 16,
+          "athlete": "MCGINNIS, Clare",
+          "grade": "3",
+          "score": 16,
+          "time": "04:05.0",
+          "gap": "12:00.0",
+          "avgMile": "06:35.1",
+          "scoring": true
+        },
+        {
+          "place": 37,
+          "athlete": "LARKIN, Kate",
+          "grade": "3",
+          "score": 32,
+          "time": "04:26.6",
+          "gap": "36:00.0",
+          "avgMile": "07:09.9",
+          "scoring": true
+        },
+        {
+          "place": 57,
+          "athlete": "WRIGHT, Lucy",
+          "grade": "3",
+          "score": 44,
+          "time": "04:52.7",
+          "gap": "01:21.5",
+          "avgMile": "07:52.1",
+          "scoring": true
+        }
+      ],
+      "teamScore": 92,
+      "teamPlace": 10
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 31,
+          "athlete": "KEATHLEY-HELMS, Buchanan",
+          "grade": "3",
+          "score": null,
+          "time": "04:05.8",
+          "gap": "36:00.0",
+          "avgMile": "06:36.4"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 3,
+          "athlete": "MCGINNIS, Collin",
+          "grade": "6",
+          "score": null,
+          "time": "06:00.2",
+          "gap": "00:00.0",
+          "avgMile": "06:00.1"
+        },
+        {
+          "place": 84,
+          "athlete": "TUCKER, Elias",
+          "grade": "5",
+          "score": null,
+          "time": "09:07.4",
+          "gap": "03:30.2",
+          "avgMile": "09:07.4"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 20,
+          "athlete": "LYNN, Paige",
+          "grade": "7",
+          "score": null,
+          "time": "11:20.2",
+          "gap": "02:24.7",
+          "avgMile": "07:33.4"
+        },
+        {
+          "place": 32,
+          "athlete": "DAHLSTRAND, Annie",
+          "grade": "8",
+          "score": null,
+          "time": "12:26.2",
+          "gap": "03:30.7",
+          "avgMile": "08:17.4"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 20,
+          "athlete": "BLETTNER, Dane",
+          "grade": "8",
+          "score": 20,
+          "time": "09:57.1",
+          "gap": "01:15.1",
+          "avgMile": "06:38.0",
+          "scoring": true
+        },
+        {
+          "place": 39,
+          "athlete": "UNDERWOOD, Tripp",
+          "grade": "8",
+          "score": 36,
+          "time": "10:44.1",
+          "gap": "02:02.1",
+          "avgMile": "07:09.4",
+          "scoring": true
+        },
+        {
+          "place": 56,
+          "athlete": "SOLOMON, Jack",
+          "grade": "8",
+          "score": 47,
+          "time": "11:41.9",
+          "gap": "02:59.9",
+          "avgMile": "07:47.9",
+          "scoring": true
+        },
+        {
+          "place": 66,
+          "athlete": "MOORE, Vincent",
+          "grade": "8",
+          "score": 50,
+          "time": "12:25.3",
+          "gap": "03:43.3",
+          "avgMile": "08:16.8",
+          "scoring": false
+        }
+      ],
+      "teamScore": 103,
+      "teamPlace": 11
+    }
+  ]
+}

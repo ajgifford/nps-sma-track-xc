@@ -1,0 +1,51 @@
+{
+  "first_name": "Luke",
+  "last_name": "Almaguer",
+  "gender": "M",
+  "grade": "5th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "212",
+          "event": "100",
+          "overall_place": 7,
+          "heat": 4,
+          "place": 1,
+          "result": "15.38",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "220",
+          "event": "800S",
+          "overall_place": 1,
+          "heat": null,
+          "place": 1,
+          "result": "2:25.05",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Colin Foote",
+              "Samuel Baldwin",
+              "Jack Kuhlmann"
+            ]
+          }
+        },
+        {
+          "id": "89",
+          "event": "LJ",
+          "overall_place": 13,
+          "heat": 2,
+          "place": 10,
+          "result": "10-00.50",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

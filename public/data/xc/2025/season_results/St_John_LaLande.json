@@ -1,0 +1,153 @@
+{
+  "teamName": "St John LaLande",
+  "season": "2025",
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 32,
+              "athlete": "VANDER VENNET, Lucy",
+              "grade": "4",
+              "score": null,
+              "time": "04:10.7",
+              "gap": "00:00.0",
+              "avgMile": "06:44.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 43,
+              "athlete": "THIEMAN, Jackson",
+              "grade": "3",
+              "score": null,
+              "time": "04:08.5",
+              "gap": "48:00.0",
+              "avgMile": "06:40.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 36,
+              "athlete": "TAYLOR, Autumn",
+              "grade": "5",
+              "score": null,
+              "time": "07:17.6",
+              "gap": "01:13.0",
+              "avgMile": "07:17.6"
+            },
+            {
+              "place": 39,
+              "athlete": "WARREN, Madelyn",
+              "grade": "5",
+              "score": null,
+              "time": "07:22.5",
+              "gap": "01:17.9",
+              "avgMile": "07:22.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 36,
+              "athlete": "GREEN, Gabriel",
+              "grade": "5",
+              "score": null,
+              "time": "06:48.4",
+              "gap": "01:08.1",
+              "avgMile": "06:48.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 39,
+              "athlete": "GEIVETT, Tabitha",
+              "grade": "8",
+              "score": null,
+              "time": "12:54.6",
+              "gap": "03:56.4",
+              "avgMile": "08:36.4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 48,
+              "athlete": "STICE, Noah",
+              "grade": "8",
+              "score": null,
+              "time": "11:51.2",
+              "gap": "03:15.8",
+              "avgMile": "07:54.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

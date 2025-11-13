@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2025-09-27",
+    "meet": "CYO Meet 1",
+    "groups": {
+      "girls_3rd_4th": "1st place",
+      "boys_3rd_4th": "2nd place",
+      "girls_5th_6th": "2nd place",
+      "boys_5th_6th": "1st place",
+      "girls_7th_8th": "1st place",
+      "boys_7th_8th": "3rd place"
+    },
+    "detailsId": "st-michael-invitational-2024-09-12"
+  },
+  {
+    "date": "2025-10-04",
+    "meet": "CYO Meet 2",
+    "groups": {
+      "girls_3rd_4th": "3rd place",
+      "boys_3rd_4th": "1st place",
+      "girls_5th_6th": "1st place",
+      "boys_5th_6th": "2nd place",
+      "girls_7th_8th": "2nd place",
+      "boys_7th_8th": "1st place"
+    },
+    "detailsId": "nativity-fall-classic-2024-09-19"
+  },
+  {
+    "date": "2025-10-11",
+    "meet": "CYO Meet 3",
+    "groups": {
+      "girls_3rd_4th": "9th place",
+      "boys_3rd_4th": "4th place",
+      "girls_5th_6th": "2nd place",
+      "boys_5th_6th": "11th place",
+      "girls_7th_8th": "1st place",
+      "boys_7th_8th": "2nd place"
+    },
+    "detailsId": "nativity-fall-classic-2024-09-19"
+  },
+  {
+    "date": "2025-10-18",
+    "meet": "CYO City Meet",
+    "groups": {
+      "girls_3rd_4th": "TBD",
+      "boys_3rd_4th": "TBD",
+      "girls_5th_6th": "TBD",
+      "boys_5th_6th": "TBD",
+      "girls_7th_8th": "TBD",
+      "boys_7th_8th": "TBD"
+    },
+    "detailsId": "nativity-fall-classic-2024-09-19"
+  }
+]

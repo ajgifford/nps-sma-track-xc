@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-09-27",
+    "event": "CYO Meet 1",
+    "location": "Johnson County Community College",
+    "time": "9:00 AM"
+  },
+  {
+    "date": "2025-10-04",
+    "event": "CYO Meet 2",
+    "location": "Savior Parochial Center",
+    "time": "9:00 AM"
+  },
+  {
+    "date": "2025-10-11",
+    "event": "CYO Meet 3",
+    "location": "Johnson County Community College",
+    "time": "9:00 AM"
+  },
+  {
+    "date": "2025-10-18",
+    "event": "CYO City Meet",
+    "location": "Savior Parochial Center",
+    "time": "9:00 AM"
+  },
+  {
+    "date": "2025-10-20",
+    "event": "Border War",
+    "location": "Johnson County Community College",
+    "time": "5:00 PM"
+  }
+]

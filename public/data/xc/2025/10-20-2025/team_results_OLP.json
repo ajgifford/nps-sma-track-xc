@@ -1,0 +1,185 @@
+{
+  "teamName": "OLP",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 2,
+          "athlete": "BARR, Emory",
+          "grade": "3",
+          "score": null,
+          "time": "03:34.8",
+          "gap": "24:00.0",
+          "avgMile": "05:46.5"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 8,
+          "athlete": "WICKMAN, Raelynn",
+          "grade": "5",
+          "score": null,
+          "time": "06:27.7",
+          "gap": "24:00.0",
+          "avgMile": "06:27.6"
+        },
+        {
+          "place": 26,
+          "athlete": "GANSON, Brinkley",
+          "grade": "6",
+          "score": null,
+          "time": "07:09.1",
+          "gap": "01:04.5",
+          "avgMile": "07:09.1"
+        },
+        {
+          "place": 28,
+          "athlete": "HEYDON, Emmy",
+          "grade": "6",
+          "score": null,
+          "time": "07:12.6",
+          "gap": "01:08.0",
+          "avgMile": "07:12.6"
+        },
+        {
+          "place": 43,
+          "athlete": "DORRELL, Nala",
+          "grade": "6",
+          "score": null,
+          "time": "07:36.4",
+          "gap": "01:31.8",
+          "avgMile": "07:36.4"
+        },
+        {
+          "place": 48,
+          "athlete": "CECIL, Rosie",
+          "grade": "6",
+          "score": null,
+          "time": "08:37.3",
+          "gap": "02:32.7",
+          "avgMile": "08:37.3"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 41,
+          "athlete": "ENGLISH, Owen",
+          "grade": "6",
+          "score": null,
+          "time": "07:00.2",
+          "gap": "01:19.9",
+          "avgMile": "07:00.1"
+        },
+        {
+          "place": 43,
+          "athlete": "SONDERMAN, Adrian",
+          "grade": "6",
+          "score": null,
+          "time": "07:07.7",
+          "gap": "01:27.4",
+          "avgMile": "07:07.6"
+        },
+        {
+          "place": 44,
+          "athlete": "BURTON, Alex",
+          "grade": "6",
+          "score": null,
+          "time": "07:08.9",
+          "gap": "01:28.6",
+          "avgMile": "07:08.8"
+        },
+        {
+          "place": 45,
+          "athlete": "STRINGER, Jackson",
+          "grade": "6",
+          "score": null,
+          "time": "07:09.0",
+          "gap": "01:27.7",
+          "avgMile": "07:08.9"
+        },
+        {
+          "place": 49,
+          "athlete": "HESEMANN, JP",
+          "grade": "5",
+          "score": null,
+          "time": "07:18.1",
+          "gap": "01:37.8",
+          "avgMile": "07:18.1"
+        },
+        {
+          "place": 50,
+          "athlete": "WHEELER, Joseph",
+          "grade": "5",
+          "score": null,
+          "time": "07:18.9",
+          "gap": "01:38.6",
+          "avgMile": "07:18.8"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 20,
+          "athlete": "ENGLISH, Ethan",
+          "grade": "8",
+          "score": null,
+          "time": "09:28.5",
+          "gap": "24:00.0",
+          "avgMile": "06:19.0"
+        },
+        {
+          "place": 28,
+          "athlete": "SONDERMAN, Dominic",
+          "grade": "7",
+          "score": null,
+          "time": "09:52.4",
+          "gap": "01:17.0",
+          "avgMile": "06:34.9"
+        },
+        {
+          "place": 38,
+          "athlete": "WHEELER, Paul",
+          "grade": "7",
+          "score": null,
+          "time": "10:25.1",
+          "gap": "01:49.7",
+          "avgMile": "06:56.7"
+        },
+        {
+          "place": 41,
+          "athlete": "GANSON, Knox",
+          "grade": "8",
+          "score": null,
+          "time": "10:31.4",
+          "gap": "01:56.0",
+          "avgMile": "07:00.9"
+        }
+      ]
+    }
+  ]
+}

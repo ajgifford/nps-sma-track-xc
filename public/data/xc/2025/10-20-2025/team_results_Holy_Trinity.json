@@ -1,0 +1,149 @@
+{
+  "teamName": "Holy Trinity",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 31,
+          "athlete": "WINGER, Claire",
+          "grade": "4",
+          "score": null,
+          "time": "04:10.6",
+          "gap": "36:00.0",
+          "avgMile": "06:44.1"
+        },
+        {
+          "place": 36,
+          "athlete": "OVERBAUGH, Elizabeth",
+          "grade": "4",
+          "score": null,
+          "time": "04:12.6",
+          "gap": "36:00.0",
+          "avgMile": "06:47.4"
+        },
+        {
+          "place": 42,
+          "athlete": "EMMA, Clark",
+          "grade": "3",
+          "score": null,
+          "time": "04:22.1",
+          "gap": "36:00.0",
+          "avgMile": "07:02.7"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 3,
+          "athlete": "KOHRS, Aiden",
+          "grade": "4",
+          "score": null,
+          "time": "03:19.2",
+          "gap": "36:00.0",
+          "avgMile": "05:21.2"
+        },
+        {
+          "place": 6,
+          "athlete": "MADER, Alec",
+          "grade": "4",
+          "score": null,
+          "time": "03:34.5",
+          "gap": "48:00.0",
+          "avgMile": "05:46.0"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 5,
+          "athlete": "URBAUER, Elsie",
+          "grade": "6",
+          "score": null,
+          "time": "06:21.6",
+          "gap": "00:00.0",
+          "avgMile": "06:21.5"
+        },
+        {
+          "place": 13,
+          "athlete": "RIORDAN, Charlotte",
+          "grade": "5",
+          "score": null,
+          "time": "06:41.1",
+          "gap": "00:00.0",
+          "avgMile": "06:41.0"
+        },
+        {
+          "place": 22,
+          "athlete": "HAEUSSER, Louisa",
+          "grade": "6",
+          "score": null,
+          "time": "07:03.1",
+          "gap": "00:00.0",
+          "avgMile": "07:03.1"
+        },
+        {
+          "place": 29,
+          "athlete": "TROYER, Arianna",
+          "grade": "6",
+          "score": null,
+          "time": "07:13.7",
+          "gap": "01:09.1",
+          "avgMile": "07:13.6"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 16,
+          "athlete": "DOUGLAS, James",
+          "grade": "8",
+          "score": null,
+          "time": "09:18.4",
+          "gap": "00:00.0",
+          "avgMile": "06:12.3"
+        },
+        {
+          "place": 21,
+          "athlete": "ALTRICH, Leo",
+          "grade": "8",
+          "score": null,
+          "time": "09:28.6",
+          "gap": "48:00.0",
+          "avgMile": "06:19.0"
+        },
+        {
+          "place": 44,
+          "athlete": "CULLINAN, Cormac",
+          "grade": "7",
+          "score": null,
+          "time": "10:34.2",
+          "gap": "01:58.8",
+          "avgMile": "07:02.8"
+        }
+      ]
+    }
+  ]
+}

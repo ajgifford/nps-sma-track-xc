@@ -1,0 +1,291 @@
+{
+  "teamName": "Holy Spirit",
+  "meetName": "CYO Final",
+  "meetDate": "10-18-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 32,
+          "athlete": "CARLISLE, Grace",
+          "grade": "4",
+          "score": null,
+          "time": "04:27.1",
+          "gap": "12:00.0",
+          "avgMile": "07:10.7"
+        },
+        {
+          "place": 33,
+          "athlete": "D'AMICO, Isabella",
+          "grade": "4",
+          "score": null,
+          "time": "04:28.5",
+          "gap": "48:00.0",
+          "avgMile": "07:13.0"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 19,
+          "athlete": "MCLENON, Killian",
+          "grade": "4",
+          "score": 19,
+          "time": "03:58.3",
+          "gap": "12:00.0",
+          "avgMile": "06:24.3"
+        },
+        {
+          "place": 21,
+          "athlete": "TRAUSCH, Peter",
+          "grade": "3",
+          "score": 21,
+          "time": "03:58.8",
+          "gap": "12:00.0",
+          "avgMile": "06:25.1"
+        },
+        {
+          "place": 49,
+          "athlete": "TALBERT, Justin",
+          "grade": "3",
+          "score": 43,
+          "time": "04:24.2",
+          "gap": "48:00.0",
+          "avgMile": "07:06.1"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 12,
+          "athlete": "DOLAN, Molly",
+          "grade": "5",
+          "score": 3,
+          "time": "06:31.5",
+          "gap": "24:00.0",
+          "avgMile": "06:31.4"
+        },
+        {
+          "place": 14,
+          "athlete": "WERKOWITCH, Isadore",
+          "grade": "6",
+          "score": 5,
+          "time": "06:32.9",
+          "gap": "00:00.0",
+          "avgMile": "06:32.8"
+        },
+        {
+          "place": 17,
+          "athlete": "CARLISLE, Cora",
+          "grade": "6",
+          "score": 6,
+          "time": "06:47.7",
+          "gap": "01:00.3",
+          "avgMile": "06:47.6"
+        },
+        {
+          "place": 27,
+          "athlete": "TRAUSCH, Eva",
+          "grade": "5",
+          "score": 7,
+          "time": "07:03.4",
+          "gap": "01:16.0",
+          "avgMile": "07:03.3"
+        },
+        {
+          "place": 28,
+          "athlete": "GOTH, Abigail",
+          "grade": "5",
+          "score": 8,
+          "time": "07:04.0",
+          "gap": "01:15.6",
+          "avgMile": "07:04.0"
+        },
+        {
+          "place": 39,
+          "athlete": "RAMOS, Edith",
+          "grade": "5",
+          "score": 13,
+          "time": "07:36.2",
+          "gap": "01:48.8",
+          "avgMile": "07:36.1"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 10,
+          "athlete": "BRANDT, Oliver",
+          "grade": "5",
+          "score": 3,
+          "time": "06:13.3",
+          "gap": "00:00.0",
+          "avgMile": "06:13.2"
+        },
+        {
+          "place": 21,
+          "athlete": "VARGAS, Matias",
+          "grade": "5",
+          "score": 7,
+          "time": "06:29.1",
+          "gap": "12:00.0",
+          "avgMile": "06:29.1"
+        },
+        {
+          "place": 49,
+          "athlete": "LINDGREN, James",
+          "grade": "5",
+          "score": 20,
+          "time": "07:27.5",
+          "gap": "01:58.2",
+          "avgMile": "07:27.5"
+        },
+        {
+          "place": 57,
+          "athlete": "NGUYEN, Grayson",
+          "grade": "6",
+          "score": 24,
+          "time": "07:32.7",
+          "gap": "02:03.4",
+          "avgMile": "07:32.6"
+        },
+        {
+          "place": 64,
+          "athlete": "D'AMICO, Gabriel",
+          "grade": "6",
+          "score": 28,
+          "time": "07:44.2",
+          "gap": "02:14.9",
+          "avgMile": "07:44.1"
+        },
+        {
+          "place": 67,
+          "athlete": "SMILIE, Joseph",
+          "grade": "6",
+          "score": 30,
+          "time": "07:47.6",
+          "gap": "02:18.3",
+          "avgMile": "07:47.5"
+        },
+        {
+          "place": 73,
+          "athlete": "HEIMAN, Cole",
+          "grade": "6",
+          "score": null,
+          "time": "08:11.2",
+          "gap": "02:41.9",
+          "avgMile": "08:11.2"
+        },
+        {
+          "place": 79,
+          "athlete": "FINHOLM, Jack",
+          "grade": "5",
+          "score": null,
+          "time": "08:28.6",
+          "gap": "02:59.3",
+          "avgMile": "08:28.5"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 8,
+          "athlete": "SCOTT, Clare",
+          "grade": "7",
+          "score": 4,
+          "time": "10:23.5",
+          "gap": "01:46.0",
+          "avgMile": "06:55.7"
+        },
+        {
+          "place": 11,
+          "athlete": "DAVILA, Isabella",
+          "grade": "8",
+          "score": 5,
+          "time": "10:34.3",
+          "gap": "01:56.8",
+          "avgMile": "07:02.8"
+        },
+        {
+          "place": 14,
+          "athlete": "FELDHAUS, Karlee",
+          "grade": "7",
+          "score": 8,
+          "time": "10:42.2",
+          "gap": "02:04.7",
+          "avgMile": "07:08.1"
+        },
+        {
+          "place": 38,
+          "athlete": "EICKHOLT, Emerson",
+          "grade": "7",
+          "score": 15,
+          "time": "13:01.8",
+          "gap": "04:24.3",
+          "avgMile": "08:41.2"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 14,
+          "athlete": "TRAUSCH, Leo",
+          "grade": "7",
+          "score": null,
+          "time": "09:06.1",
+          "gap": "12:00.0",
+          "avgMile": "06:04.1"
+        },
+        {
+          "place": 29,
+          "athlete": "RAMOS, Kayden",
+          "grade": "8",
+          "score": null,
+          "time": "09:39.5",
+          "gap": "01:32.2",
+          "avgMile": "06:26.3"
+        },
+        {
+          "place": 38,
+          "athlete": "CALIXTO MORALES, Dominic",
+          "grade": "8",
+          "score": null,
+          "time": "10:08.8",
+          "gap": "02:01.5",
+          "avgMile": "06:45.9"
+        }
+      ]
+    }
+  ]
+}

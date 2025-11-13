@@ -1,0 +1,44 @@
+{
+  "first_name": "Jude",
+  "last_name": "Couch",
+  "gender": "M",
+  "grade": "7th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "230",
+          "event": "60",
+          "overall_place": null,
+          "heat": 2,
+          "place": null,
+          "result": "DNS",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "290",
+          "event": "JT",
+          "overall_place": 8,
+          "heat": 1,
+          "place": 8,
+          "result": "68-11.00",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "99",
+          "event": "SP",
+          "overall_place": 3,
+          "heat": 1,
+          "place": 3,
+          "result": "22-02.50",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

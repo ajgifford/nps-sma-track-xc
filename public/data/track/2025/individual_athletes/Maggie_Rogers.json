@@ -1,0 +1,54 @@
+{
+  "first_name": "Maggie",
+  "last_name": "Rogers",
+  "gender": "F",
+  "grade": "6th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "209",
+          "event": "100",
+          "overall_place": 15,
+          "heat": 1,
+          "place": 2,
+          "result": "16.86",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "201",
+          "event": "1600",
+          "overall_place": 3,
+          "heat": 1,
+          "place": 3,
+          "result": "6:34.97",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "257",
+          "event": "800",
+          "overall_place": 3,
+          "heat": 1,
+          "place": 3,
+          "result": "3:02.64",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "294",
+          "event": "JT",
+          "overall_place": 7,
+          "heat": 1,
+          "place": 7,
+          "result": "69-01.00",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

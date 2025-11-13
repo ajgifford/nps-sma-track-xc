@@ -1,0 +1,144 @@
+{
+  "teamName": "St Joseph",
+  "meetName": "CYO Meet 2",
+  "meetDate": "10-04-2025",
+  "season": "2025",
+  "teamScoreIncluded": true,
+  "scoringPlaces": 3,
+  "displacementRunners": 2,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 17,
+          "athlete": "BARTELS, Everett",
+          "grade": "4",
+          "score": 14,
+          "time": "03:59.8",
+          "gap": "48:00.0",
+          "avgMile": "06:26.7",
+          "scoring": true
+        },
+        {
+          "place": 28,
+          "athlete": "PICK, Jacob",
+          "grade": "4",
+          "score": 25,
+          "time": "04:10.7",
+          "gap": "24:00.0",
+          "avgMile": "06:44.4",
+          "scoring": true
+        },
+        {
+          "place": 31,
+          "athlete": "SMITH, Zachary",
+          "grade": "4",
+          "score": 27,
+          "time": "04:12.5",
+          "gap": "36:00.0",
+          "avgMile": "06:47.2",
+          "scoring": true
+        },
+        {
+          "place": 87,
+          "athlete": "KAMMERER, Sam",
+          "grade": "4",
+          "score": 59,
+          "time": "05:17.5",
+          "gap": "01:49.4",
+          "avgMile": "08:32.1",
+          "scoring": false
+        }
+      ],
+      "teamScore": 66,
+      "teamPlace": 8
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 2,
+          "athlete": "TOEPFER, Will",
+          "grade": "6",
+          "score": 2,
+          "time": "05:43.2",
+          "gap": "12:00.0",
+          "avgMile": "05:43.2",
+          "scoring": true
+        },
+        {
+          "place": 5,
+          "athlete": "DEINES, Seth",
+          "grade": "6",
+          "score": 4,
+          "time": "05:48.6",
+          "gap": "48:00.0",
+          "avgMile": "05:48.5",
+          "scoring": true
+        },
+        {
+          "place": 52,
+          "athlete": "EDSON, Racelyn",
+          "grade": "5",
+          "score": 47,
+          "time": "07:32.1",
+          "gap": "01:59.7",
+          "avgMile": "07:32.1",
+          "scoring": true
+        }
+      ],
+      "teamScore": 53,
+      "teamPlace": 5
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 15,
+          "athlete": "OLSEN, Celeste",
+          "grade": "7",
+          "score": null,
+          "time": "11:12.8",
+          "gap": "02:33.3",
+          "avgMile": "07:28.5"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 61,
+          "athlete": "BEARD, Olen",
+          "grade": "8",
+          "score": null,
+          "time": "12:01.2",
+          "gap": "03:35.8",
+          "avgMile": "08:00.8"
+        },
+        {
+          "place": 84,
+          "athlete": "NALLIA, Emmett",
+          "grade": "7",
+          "score": null,
+          "time": "15:15.8",
+          "gap": "06:50.4",
+          "avgMile": "10:10.5"
+        }
+      ]
+    }
+  ]
+}

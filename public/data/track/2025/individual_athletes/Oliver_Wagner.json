@@ -1,0 +1,44 @@
+{
+  "first_name": "Oliver",
+  "last_name": "Wagner",
+  "gender": "M",
+  "grade": "5th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "244",
+          "event": "200",
+          "overall_place": 12,
+          "heat": 1,
+          "place": 5,
+          "result": "33.62",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "236",
+          "event": "400",
+          "overall_place": 5,
+          "heat": 1,
+          "place": 5,
+          "result": "1:16.75",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "260",
+          "event": "800",
+          "overall_place": 3,
+          "heat": 1,
+          "place": 3,
+          "result": "3:06.03",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "first_name": "Max",
+  "last_name": "Duncan",
+  "gender": "M",
+  "grade": "6th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "213",
+          "event": "100",
+          "overall_place": 9,
+          "heat": 1,
+          "place": 2,
+          "result": "18.07",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "229",
+          "event": "60",
+          "overall_place": 8,
+          "heat": 1,
+          "place": 2,
+          "result": "10.82",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "221",
+          "event": "800S",
+          "overall_place": 2,
+          "heat": null,
+          "place": 2,
+          "result": "2:30.24",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Samuel Dunn",
+              "Parker Peloquin",
+              "Charlie Elder"
+            ]
+          }
+        },
+        {
+          "id": "90",
+          "event": "LJ",
+          "overall_place": 12,
+          "heat": 1,
+          "place": 3,
+          "result": "8-11.50",
+          "meetName": "CYO #3 2025 Afternoon Field",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

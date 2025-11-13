@@ -1,0 +1,127 @@
+[
+  {
+    "id": "david-rothermich",
+    "name": "David Rothermich",
+    "title": "Head Coach",
+    "sports": ["crosscountry", "track"],
+    "parish": "Nativity",
+    "photo": "/images/coaches/david-rothermich.jpg",
+    "bio": "David has been coaching for 2 years, with this being his first season as head coach. He has been a regular runner for over 20 years. His family attends Nativity parish where his son, James, is in 4th grade.  Coach Megan said 'I treasure this experience and I love seeing the kids have fun, build relationships, and grow,' and he couldn't agree more! James has three younger siblings / future runners, so he looks forward to many years of involvement with this wonderful XC team!",
+    "experience": [
+      "2 years with the program, 1st as head coach"
+    ],
+    "kids": [
+      { "name": "James", "grade": "4th" }
+    ],
+    "email": "david.rothermich@gmail.com"
+  },
+  {
+    "id": "jerry-pullins",
+    "name": "Jerry Pullins",
+    "title": "Assistant Coach",
+    "sports": ["crosscountry", "track"],
+    "parish": "Nativity",
+    "photo": "/images/coaches/jerry-pullins.jpeg",
+    "bio": "Jerry is our most experienced coach, currently in his 6th year of coaching. He leads the 7th and 8th grade runners, including his son Ford who is an 8th grader at Nativity. Jerry's a Nativity parishioner, ran in college at Georgetown and KU, and his son Crosby is a blazing fast freshman XC runner at Rockhurst after graduating from our XC team last year",
+    "experience": [
+      "6th years of coaching",
+      "Collegiate runner at Georgetown and KU"
+    ],
+    "kids": [
+      { "name": "Ford", "grade": "8th" },
+      { "name": "Crosby", "grade": "9th" }
+    ],
+    "email": "jerry@seniorcare-homes.com"
+  },
+  {
+    "id": "andy-gifford",
+    "name": "Andy Gifford",
+    "title": "Assistant Coach",
+    "sports": ["crosscountry", "track"],
+    "parish": "Nativity",
+    "photo": "/images/coaches/andy-gifford.jpg",
+    "bio": "Andy has been coaching XC for 4 years, and works with the 5th-8th grade runners. Andy's family are Nativity parishioners and his children attend Blue Valley schools",
+    "experience": [
+      "4 years with the program",
+      "Track & Field Manager at The University of Iowa"
+    ],
+    "kids": [
+      { "name": "Ben", "grade": "7th" },
+      { "name": "Caroline", "grade": "5th" },
+      { "name": "Nick", "grade": "3rd" },
+      { "name": "Mallory", "grade": "2nd" }
+    ],
+    "email": "ajgifford@gmail.com"
+  },
+  {
+    "id": "megan-hibler",
+    "name": "Megan Hibler",
+    "title": "Assistant Coach",
+    "sports": ["crosscountry", "track"],
+    "parish": "St. Michael's",
+    "photo": "/images/coaches/megan-hibler.jpeg",
+    "bio": "Megan is in her 2nd year of coaching, and has 2 runners from St. Michael's on the team: Madison (7th grade) and James (4th grade), plus a future runner in 1st grade! Megan ran cross country and track at Baker University. Megan coaches 5th-8th graders",
+    "experience": [
+      "2 years coaching experience",
+      "Ran track and cross country at Baker University"
+    ],
+    "kids": [
+      { "name": "Madison", "grade": "7th" },
+      { "name": "James", "grade": "4th" },
+      { "name": "Quinn", "grade": "1st" }
+    ],
+    "email": "hibler.megan@gmail.com"
+  },
+  {
+    "id": "bill-newell",
+    "name": "Bill Newell",
+    "title": "Assistant Coach",
+    "sports": ["crosscountry", "track"],
+    "parish": "Nativity",
+    "photo": "/images/coaches/bill-newell.jpeg",
+    "bio": "Bill heads up the 3rd and 4th grade runners. He's been coaching for 4 years, and his daughter on the team, Caroline, is a 7th grader at Nativity. Bill ran college cross country and track at Wofford College",
+    "experience": [
+      "4 years with the program",
+      "Ran track and cross country at Wofford College"
+    ],
+    "kids": [
+      { "name": "Caroline", "grade": "7th" },
+      { "name": "Walker", "grade": "9th" }
+    ],
+    "email": "bill.newell@amwins.com"
+  },
+  {
+    "id": "nikki-rogers",
+    "name": "Nikki Rogers",
+    "title": "Assistant Coach",
+    "sports": ["crosscountry"],
+    "parish": "St. Michael's",
+    "photo": "/images/coaches/nikki-rogers.jpeg",
+    "bio": "Nikki is the newest member of the team, coaching for the 1st time this year. She caught the running bug herself a few years ago and is passing the love of running on to her 2 daughters on the team: Maggie (7th) and Rosie (3rd) and son Johnny (5th).",
+    "experience": [
+      "1st year coaching"
+    ],
+    "kids": [
+      { "name": "Maggie", "grade": "7th" },
+      { "name": "Johnny", "grade": "5th" },
+      { "name": "Rosie", "grade": "3rd" }
+    ],
+    "email": "Mnmiddleton.rogers@gmail.com"
+  },
+  {
+    "id": "juan-torres",
+    "name": "Juan Torres",
+    "title": "Sprint Coach",
+    "sports": ["track"],
+    "parish": "St. Michael's",
+    "photo": "/images/coaches/juan-torres.jpg",
+    "bio": "Juan focuses on our sprinters runners, bringing a wealth of knowledge from his competitive running background.",
+    "experience": [
+      "7 years coaching sprint events"
+    ],
+    "kids": [
+      
+    ],
+    "email": "juantorres22@msn.com"
+  }
+]

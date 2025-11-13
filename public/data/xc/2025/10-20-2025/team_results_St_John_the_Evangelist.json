@@ -1,0 +1,61 @@
+{
+  "teamName": "St John the Evangelist",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 7,
+          "athlete": "CURRAN, Rae",
+          "grade": "3",
+          "score": null,
+          "time": "03:47.3",
+          "gap": "24:00.0",
+          "avgMile": "06:06.6"
+        },
+        {
+          "place": 25,
+          "athlete": "MILLER, Mena",
+          "grade": "3",
+          "score": null,
+          "time": "04:06.9",
+          "gap": "48:00.0",
+          "avgMile": "06:38.2"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 15,
+          "athlete": "GRAHAM, Rusty",
+          "grade": "6",
+          "score": null,
+          "time": "06:23.2",
+          "gap": "36:00.0",
+          "avgMile": "06:23.2"
+        },
+        {
+          "place": 38,
+          "athlete": "CHISM, Kye",
+          "grade": "5",
+          "score": null,
+          "time": "06:54.4",
+          "gap": "01:14.1",
+          "avgMile": "06:54.3"
+        }
+      ]
+    }
+  ]
+}

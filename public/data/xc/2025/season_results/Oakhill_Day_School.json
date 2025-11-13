@@ -1,0 +1,143 @@
+{
+  "teamName": "Oakhill Day School",
+  "season": "2025",
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 28,
+              "athlete": "HOOD, Audrey",
+              "grade": "3",
+              "score": null,
+              "time": "04:07.8",
+              "gap": "24:00.0",
+              "avgMile": "06:39.6"
+            },
+            {
+              "place": 39,
+              "athlete": "HUFF, Anneliese",
+              "grade": "3",
+              "score": null,
+              "time": "04:17.7",
+              "gap": "00:00.0",
+              "avgMile": "06:55.5"
+            },
+            {
+              "place": 46,
+              "athlete": "LINDGREN, Evangeline",
+              "grade": "4",
+              "score": null,
+              "time": "04:29.7",
+              "gap": "01:00.0",
+              "avgMile": "07:14.9"
+            },
+            {
+              "place": 50,
+              "athlete": "JACKSON, Malia",
+              "grade": "3",
+              "score": null,
+              "time": "04:46.7",
+              "gap": "01:17.0",
+              "avgMile": "07:42.4"
+            },
+            {
+              "place": 53,
+              "athlete": "PERKINS, Quinn",
+              "grade": "4",
+              "score": null,
+              "time": "05:06.0",
+              "gap": "01:35.3",
+              "avgMile": "08:13.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 42,
+              "athlete": "HOOD, Katherine",
+              "grade": "5",
+              "score": null,
+              "time": "07:33.3",
+              "gap": "01:28.7",
+              "avgMile": "07:33.2"
+            },
+            {
+              "place": 44,
+              "athlete": "WHITE, Abigail",
+              "grade": "6",
+              "score": null,
+              "time": "07:46.7",
+              "gap": "01:42.1",
+              "avgMile": "07:46.7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 34,
+              "athlete": "BOYD, Dash",
+              "grade": "5",
+              "score": null,
+              "time": "06:46.8",
+              "gap": "01:06.5",
+              "avgMile": "06:46.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 47,
+              "athlete": "PARRETTA, Michael",
+              "grade": "7",
+              "score": null,
+              "time": "10:46.0",
+              "gap": "02:09.6",
+              "avgMile": "07:10.7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

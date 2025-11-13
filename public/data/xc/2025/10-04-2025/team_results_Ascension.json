@@ -1,0 +1,511 @@
+{
+  "teamName": "Ascension",
+  "meetName": "CYO Meet 2",
+  "meetDate": "10-04-2025",
+  "season": "2025",
+  "teamScoreIncluded": true,
+  "scoringPlaces": 3,
+  "displacementRunners": 2,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 4,
+          "athlete": "MENGHINI, Josephine",
+          "grade": "3",
+          "score": 4,
+          "time": "03:59.1",
+          "gap": "24:00.0",
+          "avgMile": "06:25.5",
+          "scoring": true
+        },
+        {
+          "place": 18,
+          "athlete": "BROWNLEE, Madison",
+          "grade": "4",
+          "score": 16,
+          "time": "04:21.9",
+          "gap": "36:00.0",
+          "avgMile": "07:02.4",
+          "scoring": true
+        },
+        {
+          "place": 36,
+          "athlete": "LANIGAN, Mia",
+          "grade": "4",
+          "score": 30,
+          "time": "04:42.5",
+          "gap": "00:00.0",
+          "avgMile": "07:35.5",
+          "scoring": true
+        },
+        {
+          "place": 37,
+          "athlete": "PACHECO, Kinsley",
+          "grade": "4",
+          "score": 31,
+          "time": "04:43.4",
+          "gap": "36:00.0",
+          "avgMile": "07:37.1",
+          "scoring": false
+        }
+      ],
+      "teamScore": 50,
+      "teamPlace": 3
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 13,
+          "athlete": "LANIGAN, Alex",
+          "grade": "3",
+          "score": 12,
+          "time": "03:58.0",
+          "gap": "36:00.0",
+          "avgMile": "06:23.8",
+          "scoring": true
+        },
+        {
+          "place": 60,
+          "athlete": "BOWERS, Jack",
+          "grade": "3",
+          "score": 44,
+          "time": "04:41.2",
+          "gap": "01:13.1",
+          "avgMile": "07:33.5",
+          "scoring": true
+        },
+        {
+          "place": 61,
+          "athlete": "HORNUNG, William",
+          "grade": "3",
+          "score": 45,
+          "time": "04:41.7",
+          "gap": "01:13.6",
+          "avgMile": "07:34.2",
+          "scoring": true
+        },
+        {
+          "place": 90,
+          "athlete": "COLE, Landon",
+          "grade": "3",
+          "score": 60,
+          "time": "05:38.0",
+          "gap": "02:08.9",
+          "avgMile": "09:05.1",
+          "scoring": false
+        }
+      ],
+      "teamScore": 101,
+      "teamPlace": 11
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 2,
+          "athlete": "SEEFELDT, Leah",
+          "grade": "6",
+          "score": 2,
+          "time": "06:09.8",
+          "gap": "12:00.0",
+          "avgMile": "06:09.7",
+          "scoring": true
+        },
+        {
+          "place": 4,
+          "athlete": "LEE, Annika",
+          "grade": "5",
+          "score": 4,
+          "time": "06:17.9",
+          "gap": "36:00.0",
+          "avgMile": "06:17.9",
+          "scoring": true
+        },
+        {
+          "place": 6,
+          "athlete": "BROWNLEE, Paige",
+          "grade": "5",
+          "score": 6,
+          "time": "06:23.9",
+          "gap": "36:00.0",
+          "avgMile": "06:23.8",
+          "scoring": true
+        },
+        {
+          "place": 19,
+          "athlete": "SEIDL, Katherine Mae",
+          "grade": "6",
+          "score": 18,
+          "time": "06:52.8",
+          "gap": "12:00.0",
+          "avgMile": "06:52.7",
+          "scoring": false
+        },
+        {
+          "place": 20,
+          "athlete": "AKINS, Hattie Cate",
+          "grade": "5",
+          "score": 19,
+          "time": "06:59.3",
+          "gap": "01:05.8",
+          "avgMile": "06:59.2",
+          "scoring": false
+        },
+        {
+          "place": 28,
+          "athlete": "ASTA, Courtney",
+          "grade": "6",
+          "score": null,
+          "time": "07:13.2",
+          "gap": "01:19.7",
+          "avgMile": "07:13.2",
+          "scoring": false
+        },
+        {
+          "place": 33,
+          "athlete": "CHRISTENSEN, Catherine",
+          "grade": "6",
+          "score": null,
+          "time": "07:17.9",
+          "gap": "01:24.4",
+          "avgMile": "07:17.9",
+          "scoring": false
+        },
+        {
+          "place": 34,
+          "athlete": "BROWN, Leela",
+          "grade": "6",
+          "score": null,
+          "time": "07:21.1",
+          "gap": "01:27.6",
+          "avgMile": "07:21.0",
+          "scoring": false
+        },
+        {
+          "place": 50,
+          "athlete": "GITTEMEIER, Marlene",
+          "grade": "6",
+          "score": null,
+          "time": "08:12.9",
+          "gap": "02:19.4",
+          "avgMile": "08:12.8",
+          "scoring": false
+        },
+        {
+          "place": 57,
+          "athlete": "FELDKAMP, Chloe",
+          "grade": "6",
+          "score": null,
+          "time": "08:57.3",
+          "gap": "03:03.8",
+          "avgMile": "08:57.3",
+          "scoring": false
+        }
+      ],
+      "teamScore": 12,
+      "teamPlace": 2
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 6,
+          "athlete": "LEE, Ryder",
+          "grade": "6",
+          "score": 5,
+          "time": "06:01.7",
+          "gap": "12:00.0",
+          "avgMile": "06:01.6",
+          "scoring": true
+        },
+        {
+          "place": 16,
+          "athlete": "DOLD, Benjamin",
+          "grade": "5",
+          "score": 15,
+          "time": "06:33.4",
+          "gap": "01:01.0",
+          "avgMile": "06:33.3",
+          "scoring": true
+        },
+        {
+          "place": 18,
+          "athlete": "ANDERSON, Warner",
+          "grade": "6",
+          "score": 17,
+          "time": "06:34.6",
+          "gap": "01:02.2",
+          "avgMile": "06:34.5",
+          "scoring": true
+        },
+        {
+          "place": 26,
+          "athlete": "MADRID, Sam",
+          "grade": "6",
+          "score": 24,
+          "time": "06:44.7",
+          "gap": "01:12.3",
+          "avgMile": "06:44.6",
+          "scoring": false
+        },
+        {
+          "place": 41,
+          "athlete": "RZESZUT, James",
+          "grade": "5",
+          "score": 38,
+          "time": "07:11.9",
+          "gap": "01:39.5",
+          "avgMile": "07:11.9",
+          "scoring": false
+        },
+        {
+          "place": 66,
+          "athlete": "JAPS, Will",
+          "grade": "6",
+          "score": null,
+          "time": "07:57.7",
+          "gap": "02:25.3",
+          "avgMile": "07:57.7",
+          "scoring": false
+        },
+        {
+          "place": 67,
+          "athlete": "ANNIN, Trent",
+          "grade": "6",
+          "score": null,
+          "time": "07:58.0",
+          "gap": "02:25.6",
+          "avgMile": "07:58.0",
+          "scoring": false
+        },
+        {
+          "place": 78,
+          "athlete": "SHOEMAKER, Jack",
+          "grade": "6",
+          "score": null,
+          "time": "08:05.9",
+          "gap": "02:33.5",
+          "avgMile": "08:05.8",
+          "scoring": false
+        },
+        {
+          "place": 88,
+          "athlete": "JONES, Spencer",
+          "grade": "6",
+          "score": null,
+          "time": "09:19.3",
+          "gap": "03:46.9",
+          "avgMile": "09:19.3",
+          "scoring": false
+        }
+      ],
+      "teamScore": 37,
+      "teamPlace": 3
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 7,
+          "athlete": "DAVIS, Ali",
+          "grade": "7",
+          "score": 6,
+          "time": "10:37.7",
+          "gap": "01:58.2",
+          "avgMile": "07:05.1",
+          "scoring": true
+        },
+        {
+          "place": 10,
+          "athlete": "EHMAN, Ella",
+          "grade": "7",
+          "score": 9,
+          "time": "10:42.2",
+          "gap": "02:02.7",
+          "avgMile": "07:08.1",
+          "scoring": true
+        },
+        {
+          "place": 12,
+          "athlete": "MENGHINI, Clare",
+          "grade": "7",
+          "score": 11,
+          "time": "10:57.7",
+          "gap": "02:18.2",
+          "avgMile": "07:18.5",
+          "scoring": true
+        },
+        {
+          "place": 21,
+          "athlete": "DEPPERSCHMIDT, Claire",
+          "grade": "7",
+          "score": 18,
+          "time": "11:37.9",
+          "gap": "02:58.4",
+          "avgMile": "07:45.2",
+          "scoring": false
+        },
+        {
+          "place": 30,
+          "athlete": "MURRAY, Alexis",
+          "grade": "8",
+          "score": 23,
+          "time": "12:30.2",
+          "gap": "03:50.7",
+          "avgMile": "08:20.1",
+          "scoring": false
+        }
+      ],
+      "teamScore": 26,
+      "teamPlace": 2
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 1,
+          "athlete": "LANDRETH, Shepard",
+          "grade": "8",
+          "score": 1,
+          "time": "08:25.4",
+          "gap": "---",
+          "avgMile": "05:36.9",
+          "scoring": true
+        },
+        {
+          "place": 11,
+          "athlete": "SEEFELDT, Ian",
+          "grade": "7",
+          "score": 11,
+          "time": "08:58.1",
+          "gap": "48:00.0",
+          "avgMile": "05:58.7",
+          "scoring": true
+        },
+        {
+          "place": 16,
+          "athlete": "WELZENBACH, William",
+          "grade": "8",
+          "score": 16,
+          "time": "09:26.7",
+          "gap": "01:01.3",
+          "avgMile": "06:17.8",
+          "scoring": true
+        },
+        {
+          "place": 18,
+          "athlete": "LEE, Blaise",
+          "grade": "8",
+          "score": 18,
+          "time": "09:31.2",
+          "gap": "01:05.8",
+          "avgMile": "06:20.8",
+          "scoring": false
+        },
+        {
+          "place": 23,
+          "athlete": "MAGUIRE, Mason",
+          "grade": "8",
+          "score": 23,
+          "time": "09:45.6",
+          "gap": "01:20.2",
+          "avgMile": "06:30.3",
+          "scoring": false
+        },
+        {
+          "place": 26,
+          "athlete": "STRUBE, Tanner",
+          "grade": "8",
+          "score": null,
+          "time": "09:46.9",
+          "gap": "01:21.5",
+          "avgMile": "06:31.2",
+          "scoring": false
+        },
+        {
+          "place": 30,
+          "athlete": "KENNEDY, Beau",
+          "grade": "7",
+          "score": null,
+          "time": "10:04.5",
+          "gap": "01:39.1",
+          "avgMile": "06:43.0",
+          "scoring": false
+        },
+        {
+          "place": 34,
+          "athlete": "AKINS, Henry",
+          "grade": "8",
+          "score": null,
+          "time": "10:21.9",
+          "gap": "01:56.5",
+          "avgMile": "06:54.6",
+          "scoring": false
+        },
+        {
+          "place": 40,
+          "athlete": "GRACE, Henry",
+          "grade": "8",
+          "score": null,
+          "time": "10:33.4",
+          "gap": "02:08.0",
+          "avgMile": "07:02.2",
+          "scoring": false
+        },
+        {
+          "place": 45,
+          "athlete": "BROWNLEE, Miles",
+          "grade": "8",
+          "score": null,
+          "time": "10:46.2",
+          "gap": "02:20.8",
+          "avgMile": "07:10.7",
+          "scoring": false
+        },
+        {
+          "place": 55,
+          "athlete": "AKINS, Charleston",
+          "grade": "7",
+          "score": null,
+          "time": "11:32.2",
+          "gap": "03:06.8",
+          "avgMile": "07:41.4",
+          "scoring": false
+        },
+        {
+          "place": 57,
+          "athlete": "ZIMMER, Joseph",
+          "grade": "7",
+          "score": null,
+          "time": "11:43.7",
+          "gap": "03:18.3",
+          "avgMile": "07:49.1",
+          "scoring": false
+        }
+      ],
+      "teamScore": 28,
+      "teamPlace": 3
+    }
+  ]
+}

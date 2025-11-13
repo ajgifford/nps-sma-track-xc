@@ -1,0 +1,61 @@
+{
+  "teamName": "St Paul",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 12,
+          "athlete": "SOLORIO, Mateo",
+          "grade": "5",
+          "score": null,
+          "time": "06:16.8",
+          "gap": "00:00.0",
+          "avgMile": "06:16.8"
+        },
+        {
+          "place": 14,
+          "athlete": "BROUSSARD, Zachary",
+          "grade": "6",
+          "score": null,
+          "time": "06:20.7",
+          "gap": "36:00.0",
+          "avgMile": "06:20.6"
+        },
+        {
+          "place": 31,
+          "athlete": "REILLY, J.J.",
+          "grade": "5",
+          "score": null,
+          "time": "06:45.8",
+          "gap": "01:05.5",
+          "avgMile": "06:45.8"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 1,
+          "athlete": "AST, Cade",
+          "grade": "8",
+          "score": null,
+          "time": "08:35.4",
+          "gap": "---",
+          "avgMile": "05:43.5"
+        }
+      ]
+    }
+  ]
+}

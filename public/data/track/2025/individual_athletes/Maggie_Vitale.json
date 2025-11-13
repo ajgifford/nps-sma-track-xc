@@ -1,0 +1,61 @@
+{
+  "first_name": "Maggie",
+  "last_name": "Vitale",
+  "gender": "F",
+  "grade": "5th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "208",
+          "event": "100",
+          "overall_place": 10,
+          "heat": 1,
+          "place": 2,
+          "result": "16.63",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "240",
+          "event": "200",
+          "overall_place": 12,
+          "heat": 1,
+          "place": 4,
+          "result": "35.84",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "232",
+          "event": "400",
+          "overall_place": 7,
+          "heat": 1,
+          "place": 4,
+          "result": "1:18.29",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "216",
+          "event": "800S",
+          "overall_place": 1,
+          "heat": null,
+          "place": 1,
+          "result": "2:20.22",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Madeline Andrew",
+              "Danielle Rosburg",
+              "Madeline Lee"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

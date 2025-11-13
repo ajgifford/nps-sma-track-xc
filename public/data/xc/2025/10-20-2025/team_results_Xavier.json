@@ -1,0 +1,60 @@
+{
+  "teamName": "Xavier",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 22,
+          "athlete": "HOLCOMB, Rowan",
+          "grade": "3",
+          "score": null,
+          "time": "04:05.1",
+          "gap": "36:00.0",
+          "avgMile": "06:35.2"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 36,
+          "athlete": "DEPAOLIS, Jesus",
+          "grade": "3",
+          "score": null,
+          "time": "04:01.2",
+          "gap": "36:00.0",
+          "avgMile": "06:28.9"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 25,
+          "athlete": "HOLCOMB, Natasha",
+          "grade": "6",
+          "score": null,
+          "time": "07:06.8",
+          "gap": "01:02.2",
+          "avgMile": "07:06.7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "first_name": "Will",
+  "last_name": "Kiewiet",
+  "gender": "M",
+  "grade": "7th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "206",
+          "event": "1600",
+          "overall_place": null,
+          "heat": 1,
+          "place": null,
+          "result": "DNS",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        }
+      ]
+    }
+  }
+}

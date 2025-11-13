@@ -1,0 +1,202 @@
+{
+  "teamName": "Holy Rosary WEA",
+  "meetName": "CYO Final",
+  "meetDate": "10-18-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 39,
+          "athlete": "CILLESSEN, Ella",
+          "grade": "3",
+          "score": null,
+          "time": "04:35.3",
+          "gap": "00:00.0",
+          "avgMile": "07:24.0"
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 2,
+          "athlete": "VOHS, Cyrus",
+          "grade": "3",
+          "score": 2,
+          "time": "03:24.8",
+          "gap": "12:00.0",
+          "avgMile": "05:30.2"
+        },
+        {
+          "place": 29,
+          "athlete": "MARTIN, Cole",
+          "grade": "4",
+          "score": 27,
+          "time": "04:05.1",
+          "gap": "24:00.0",
+          "avgMile": "06:35.3"
+        },
+        {
+          "place": 41,
+          "athlete": "THRELKELD, Luka",
+          "grade": "3",
+          "score": 37,
+          "time": "04:14.6",
+          "gap": "24:00.0",
+          "avgMile": "06:50.6"
+        },
+        {
+          "place": 59,
+          "athlete": "JANSEN, Weston",
+          "grade": "3",
+          "score": 47,
+          "time": "04:35.6",
+          "gap": "01:11.1",
+          "avgMile": "07:24.4"
+        },
+        {
+          "place": 63,
+          "athlete": "WOODS, Ben",
+          "grade": "4",
+          "score": 50,
+          "time": "04:39.9",
+          "gap": "01:15.4",
+          "avgMile": "07:31.4"
+        },
+        {
+          "place": 86,
+          "athlete": "YOUNG, Elijah",
+          "grade": "4",
+          "score": null,
+          "time": "05:35.5",
+          "gap": "02:11.0",
+          "avgMile": "09:01.0"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 33,
+          "athlete": "YOUNG, Addison",
+          "grade": "5",
+          "score": null,
+          "time": "07:22.4",
+          "gap": "01:35.0",
+          "avgMile": "07:22.4"
+        },
+        {
+          "place": 43,
+          "athlete": "VOSS, Mya",
+          "grade": "6",
+          "score": null,
+          "time": "07:46.8",
+          "gap": "01:59.4",
+          "avgMile": "07:46.8"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 24,
+          "athlete": "JANSEN, Maddox",
+          "grade": "5",
+          "score": 8,
+          "time": "06:36.1",
+          "gap": "01:06.8",
+          "avgMile": "06:36.1"
+        },
+        {
+          "place": 30,
+          "athlete": "THRELKELD, Weston",
+          "grade": "5",
+          "score": 10,
+          "time": "06:42.4",
+          "gap": "01:13.1",
+          "avgMile": "06:42.4"
+        },
+        {
+          "place": 40,
+          "athlete": "JANSEN, Colton",
+          "grade": "6",
+          "score": 15,
+          "time": "07:13.4",
+          "gap": "01:44.1",
+          "avgMile": "07:13.4"
+        },
+        {
+          "place": 42,
+          "athlete": "MARTIN, Hudson",
+          "grade": "6",
+          "score": 16,
+          "time": "07:15.4",
+          "gap": "01:46.1",
+          "avgMile": "07:15.3"
+        },
+        {
+          "place": 65,
+          "athlete": "OESTREICH, Finn",
+          "grade": "5",
+          "score": 29,
+          "time": "07:45.5",
+          "gap": "02:16.2",
+          "avgMile": "07:45.4"
+        },
+        {
+          "place": 81,
+          "athlete": "ISMERT, Joshua",
+          "grade": "6",
+          "score": 32,
+          "time": "08:37.7",
+          "gap": "03:08.4",
+          "avgMile": "08:37.7"
+        },
+        {
+          "place": 85,
+          "athlete": "CILLESSEN, Alex",
+          "grade": "6",
+          "score": null,
+          "time": "09:02.6",
+          "gap": "03:33.3",
+          "avgMile": "09:02.6"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 65,
+          "athlete": "THOMAS, Tristan",
+          "grade": "7",
+          "score": null,
+          "time": "12:33.6",
+          "gap": "04:26.3",
+          "avgMile": "08:22.4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "first_name": "Katherine",
+  "last_name": "Dinkel",
+  "gender": "F",
+  "grade": "6th grade",
+  "school": "Saint Michael CYOKS",
+  "school_code": "SMA1",
+  "results": {
+    "4/26/2025": {
+      "results": [
+        {
+          "id": "209",
+          "event": "100",
+          "overall_place": 11,
+          "heat": 2,
+          "place": 1,
+          "result": "16.64",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "241",
+          "event": "200",
+          "overall_place": 5,
+          "heat": 1,
+          "place": 3,
+          "result": "33.83",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "225",
+          "event": "60",
+          "overall_place": 8,
+          "heat": 2,
+          "place": 1,
+          "result": "10.22",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025"
+        },
+        {
+          "id": "217",
+          "event": "800S",
+          "overall_place": 1,
+          "heat": null,
+          "place": 1,
+          "result": "2:18.95",
+          "meetName": "CYO #3 2025 Afternoon Track",
+          "meetDate": "4/26/2025",
+          "relay": {
+            "teammates": [
+              "Caroline Newell",
+              "Madison Hibler",
+              "Charlotte Leiker"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

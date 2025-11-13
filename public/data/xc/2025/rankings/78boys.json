@@ -1,0 +1,3858 @@
+{
+  "season": "2025",
+  "race": "7th & 8th Grade Boys (1.5 mile)",
+  "ageGroup": "78",
+  "gender": "Male",
+  "distance": "1.5 mile",
+  "generatedDate": "2025-11-13T16:28:44.738Z",
+  "rankings": [
+    {
+      "rank": 1,
+      "athlete": "LANDRETH, Shepard",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "08:07.3",
+      "bestTimeSeconds": 487.3,
+      "bestAvgMile": "05:24.9",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:07.3",
+          "timeSeconds": 487.3,
+          "avgMile": "05:24.9",
+          "place": 1,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:25.4",
+          "timeSeconds": 505.4,
+          "avgMile": "05:36.9",
+          "place": 1,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:45.1",
+          "timeSeconds": 525.1,
+          "avgMile": "05:50.0",
+          "place": 1,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "athlete": "EASUM, Jake",
+      "grade": "8",
+      "team": "St Agnes",
+      "bestTime": "08:29.2",
+      "bestTimeSeconds": 509.2,
+      "bestAvgMile": "05:39.5",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:29.2",
+          "timeSeconds": 509.2,
+          "avgMile": "05:39.5",
+          "place": 2,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:46.0",
+          "timeSeconds": 526,
+          "avgMile": "05:50.6",
+          "place": 2,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:50.5",
+          "timeSeconds": 530.5,
+          "avgMile": "05:53.6",
+          "place": 7,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:55.7",
+          "timeSeconds": 535.7,
+          "avgMile": "05:57.1",
+          "place": 4,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "athlete": "BARKEMEYER, George",
+      "grade": "7",
+      "team": "Prince of Peace",
+      "bestTime": "08:30.1",
+      "bestTimeSeconds": 510.1,
+      "bestAvgMile": "05:40.0",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "08:30.1",
+          "timeSeconds": 510.1,
+          "avgMile": "05:40.0",
+          "place": 2,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:34.4",
+          "timeSeconds": 514.4,
+          "avgMile": "05:42.9",
+          "place": 3,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:43.0",
+          "timeSeconds": 523,
+          "avgMile": "05:48.6",
+          "place": 1,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:56.0",
+          "timeSeconds": 536,
+          "avgMile": "05:57.3",
+          "place": 5,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "athlete": "GUTHRIE, John",
+      "grade": "8",
+      "team": "Sacred Heart",
+      "bestTime": "08:38.0",
+      "bestTimeSeconds": 518,
+      "bestAvgMile": "05:45.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:38.0",
+          "timeSeconds": 518,
+          "avgMile": "05:45.3",
+          "place": 4,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:52.7",
+          "timeSeconds": 532.7,
+          "avgMile": "05:55.1",
+          "place": 6,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:53.7",
+          "timeSeconds": 533.7,
+          "avgMile": "05:55.8",
+          "place": 9,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:21.4",
+          "timeSeconds": 561.4,
+          "avgMile": "06:14.2",
+          "place": 11,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "athlete": "KENNY, Rowan",
+      "grade": "7",
+      "team": "Prince of Peace",
+      "bestTime": "08:38.4",
+      "bestTimeSeconds": 518.4,
+      "bestAvgMile": "05:45.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:38.4",
+          "timeSeconds": 518.4,
+          "avgMile": "05:45.6",
+          "place": 5,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:47.5",
+          "timeSeconds": 527.5,
+          "avgMile": "05:51.6",
+          "place": 4,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:14.9",
+          "timeSeconds": 554.9,
+          "avgMile": "06:09.9",
+          "place": 14,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:20.0",
+          "timeSeconds": 560,
+          "avgMile": "06:13.3",
+          "place": 10,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "athlete": "GIFFORD, Ben",
+      "grade": "7",
+      "team": "Nativity/St. Michael",
+      "bestTime": "08:40.2",
+      "bestTimeSeconds": 520.2,
+      "bestAvgMile": "05:46.7",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "08:40.2",
+          "timeSeconds": 520.2,
+          "avgMile": "05:46.7",
+          "place": 3,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:48.3",
+          "timeSeconds": 528.3,
+          "avgMile": "05:52.1",
+          "place": 5,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:49.1",
+          "timeSeconds": 529.1,
+          "avgMile": "05:52.7",
+          "place": 9,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:54.8",
+          "timeSeconds": 534.8,
+          "avgMile": "05:56.5",
+          "place": 2,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "athlete": "WACKER, Ryan",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "08:43.1",
+      "bestTimeSeconds": 523.1,
+      "bestAvgMile": "05:48.7",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:43.1",
+          "timeSeconds": 523.1,
+          "avgMile": "05:48.7",
+          "place": 6,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:46.5",
+          "timeSeconds": 526.5,
+          "avgMile": "05:51.0",
+          "place": 3,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:47.6",
+          "timeSeconds": 527.6,
+          "avgMile": "05:51.7",
+          "place": 4,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:04.7",
+          "timeSeconds": 544.7,
+          "avgMile": "06:03.1",
+          "place": 6,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "athlete": "ACIERTO, Luke",
+      "grade": "8",
+      "team": "Prince of Peace",
+      "bestTime": "08:44.2",
+      "bestTimeSeconds": 524.2,
+      "bestAvgMile": "05:49.4",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:44.2",
+          "timeSeconds": 524.2,
+          "avgMile": "05:49.4",
+          "place": 7,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:52.8",
+          "timeSeconds": 532.8,
+          "avgMile": "05:55.2",
+          "place": 8,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:17.3",
+          "timeSeconds": 557.3,
+          "avgMile": "06:11.5",
+          "place": 11,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:30.9",
+          "timeSeconds": 570.9,
+          "avgMile": "06:20.6",
+          "place": 13,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "athlete": "SEEFELDT, Ian",
+      "grade": "7",
+      "team": "Ascension",
+      "bestTime": "08:46.0",
+      "bestTimeSeconds": 526,
+      "bestAvgMile": "05:50.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:46.0",
+          "timeSeconds": 526,
+          "avgMile": "05:50.6",
+          "place": 8,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:58.1",
+          "timeSeconds": 538.1,
+          "avgMile": "05:58.7",
+          "place": 11,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:21.6",
+          "timeSeconds": 561.6,
+          "avgMile": "06:14.4",
+          "place": 13,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:53.1",
+          "timeSeconds": 593.1,
+          "avgMile": "06:35.3",
+          "place": 17,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "athlete": "AST, Cade",
+      "grade": "8",
+      "team": "St Paul",
+      "bestTime": "08:48.0",
+      "bestTimeSeconds": 528,
+      "bestAvgMile": "05:52.0",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "08:48.0",
+          "timeSeconds": 528,
+          "avgMile": "05:52.0",
+          "place": 5,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:52.8",
+          "timeSeconds": 532.8,
+          "avgMile": "05:55.2",
+          "place": 10,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:07.4",
+          "timeSeconds": 547.4,
+          "avgMile": "06:04.9",
+          "place": 8,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:15.8",
+          "timeSeconds": 555.8,
+          "avgMile": "06:10.5",
+          "place": 8,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "athlete": "PULLINS, Ford",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "08:49.7",
+      "bestTimeSeconds": 529.7,
+      "bestAvgMile": "05:53.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "08:49.7",
+          "timeSeconds": 529.7,
+          "avgMile": "05:53.1",
+          "place": 6,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "08:54.4",
+          "timeSeconds": 534.4,
+          "avgMile": "05:56.2",
+          "place": 12,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:09.4",
+          "timeSeconds": 549.4,
+          "avgMile": "06:06.3",
+          "place": 9,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:13.8",
+          "timeSeconds": 553.8,
+          "avgMile": "06:09.1",
+          "place": 7,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "athlete": "DOUGLAS, James",
+      "grade": "8",
+      "team": "Holy Trinity",
+      "bestTime": "08:53.0",
+      "bestTimeSeconds": 533,
+      "bestAvgMile": "05:55.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "08:53.0",
+          "timeSeconds": 533,
+          "avgMile": "05:55.3",
+          "place": 11,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "08:55.3",
+          "timeSeconds": 535.3,
+          "avgMile": "05:56.9",
+          "place": 3,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "09:11.8",
+          "timeSeconds": 551.8,
+          "avgMile": "06:07.8",
+          "place": 13,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "athlete": "SULLIVAN, Jack",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "08:54.7",
+      "bestTimeSeconds": 534.7,
+      "bestAvgMile": "05:56.5",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "08:54.7",
+          "timeSeconds": 534.7,
+          "avgMile": "05:56.5",
+          "place": 7,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "08:54.9",
+          "timeSeconds": 534.9,
+          "avgMile": "05:56.6",
+          "place": 10,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:10.6",
+          "timeSeconds": 550.6,
+          "avgMile": "06:07.0",
+          "place": 15,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:17.3",
+          "timeSeconds": 557.3,
+          "avgMile": "06:11.5",
+          "place": 9,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "athlete": "BUSH, Henry",
+      "grade": "8",
+      "team": "St Ann",
+      "bestTime": "09:00.1",
+      "bestTimeSeconds": 540.1,
+      "bestAvgMile": "06:00.0",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "09:00.1",
+          "timeSeconds": 540.1,
+          "avgMile": "06:00.0",
+          "place": 12,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:03.2",
+          "timeSeconds": 543.2,
+          "avgMile": "06:02.1",
+          "place": 13,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:21.5",
+          "timeSeconds": 561.5,
+          "avgMile": "06:14.3",
+          "place": 12,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "09:27.5",
+          "timeSeconds": 567.5,
+          "avgMile": "06:18.3",
+          "place": 14,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "athlete": "TRAUSCH, Leo",
+      "grade": "7",
+      "team": "Holy Spirit",
+      "bestTime": "09:06.1",
+      "bestTimeSeconds": 546.1,
+      "bestAvgMile": "06:04.1",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:06.1",
+          "timeSeconds": 546.1,
+          "avgMile": "06:04.1",
+          "place": 14,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:17.5",
+          "timeSeconds": 557.5,
+          "avgMile": "06:11.7",
+          "place": 12,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:20.4",
+          "timeSeconds": 560.4,
+          "avgMile": "06:13.5",
+          "place": 15,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:37.4",
+          "timeSeconds": 577.4,
+          "avgMile": "06:24.9",
+          "place": 15,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "athlete": "WELZENBACH, William",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "09:13.5",
+      "bestTimeSeconds": 553.5,
+      "bestAvgMile": "06:09.0",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:13.5",
+          "timeSeconds": 553.5,
+          "avgMile": "06:09.0",
+          "place": 16,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:26.7",
+          "timeSeconds": 566.7,
+          "avgMile": "06:17.8",
+          "place": 16,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:33.2",
+          "timeSeconds": 573.2,
+          "avgMile": "06:22.1",
+          "place": 14,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "09:40.5",
+          "timeSeconds": 580.5,
+          "avgMile": "06:27.0",
+          "place": 17,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "athlete": "BALTHAZOR, Roland",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "09:15.4",
+      "bestTimeSeconds": 555.4,
+      "bestAvgMile": "06:10.2",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "09:15.4",
+          "timeSeconds": 555.4,
+          "avgMile": "06:10.2",
+          "place": 10,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:16.5",
+          "timeSeconds": 556.5,
+          "avgMile": "06:11.0",
+          "place": 18,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:50.4",
+          "timeSeconds": 590.4,
+          "avgMile": "06:33.6",
+          "place": 28,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:07.0",
+          "timeSeconds": 607,
+          "avgMile": "06:44.7",
+          "place": 20,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "athlete": "TEETER, Kolbe",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "09:16.0",
+      "bestTimeSeconds": 556,
+      "bestAvgMile": "06:10.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:16.0",
+          "timeSeconds": 556,
+          "avgMile": "06:10.6",
+          "place": 17,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:29.1",
+          "timeSeconds": 569.1,
+          "avgMile": "06:19.4",
+          "place": 17,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:30.2",
+          "timeSeconds": 570.2,
+          "avgMile": "06:20.1",
+          "place": 15,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:12.4",
+          "timeSeconds": 612.4,
+          "avgMile": "06:48.3",
+          "place": 22,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "athlete": "O'HEARN, Declan",
+      "grade": "8",
+      "team": "Sacred Heart",
+      "bestTime": "09:18.4",
+      "bestTimeSeconds": 558.4,
+      "bestAvgMile": "06:12.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:18.4",
+          "timeSeconds": 558.4,
+          "avgMile": "06:12.2",
+          "place": 19,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:31.6",
+          "timeSeconds": 571.6,
+          "avgMile": "06:21.0",
+          "place": 16,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "09:33.6",
+          "timeSeconds": 573.6,
+          "avgMile": "06:22.4",
+          "place": 19,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:45.9",
+          "timeSeconds": 585.9,
+          "avgMile": "06:30.5",
+          "place": 16,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "athlete": "ALTRICH, Leo",
+      "grade": "8",
+      "team": "Holy Trinity",
+      "bestTime": "09:26.0",
+      "bestTimeSeconds": 566,
+      "bestAvgMile": "06:17.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:26.0",
+          "timeSeconds": 566,
+          "avgMile": "06:17.3",
+          "place": 20,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:41.0",
+          "timeSeconds": 581,
+          "avgMile": "06:27.3",
+          "place": 20,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:43.7",
+          "timeSeconds": 583.7,
+          "avgMile": "06:29.1",
+          "place": 18,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:10.5",
+          "timeSeconds": 610.5,
+          "avgMile": "06:47.0",
+          "place": 21,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "athlete": "BLETTNER, Dane",
+      "grade": "8",
+      "team": "Corpus Christi",
+      "bestTime": "09:26.4",
+      "bestTimeSeconds": 566.4,
+      "bestAvgMile": "06:17.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:26.4",
+          "timeSeconds": 566.4,
+          "avgMile": "06:17.6",
+          "place": 21,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:47.7",
+          "timeSeconds": 587.7,
+          "avgMile": "06:31.8",
+          "place": 27,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:57.1",
+          "timeSeconds": 597.1,
+          "avgMile": "06:38.0",
+          "place": 20,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:51.7",
+          "timeSeconds": 651.7,
+          "avgMile": "07:14.4",
+          "place": 38,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "athlete": "LEE, Blaise",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "09:31.2",
+      "bestTimeSeconds": 571.2,
+      "bestAvgMile": "06:20.8",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "09:31.2",
+          "timeSeconds": 571.2,
+          "avgMile": "06:20.8",
+          "place": 18,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:38.8",
+          "timeSeconds": 578.8,
+          "avgMile": "06:25.8",
+          "place": 27,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:53.6",
+          "timeSeconds": 593.6,
+          "avgMile": "06:35.7",
+          "place": 18,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "10:00.2",
+          "timeSeconds": 600.2,
+          "avgMile": "06:40.1",
+          "place": 22,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "athlete": "MAGUIRE, Mason",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "09:31.7",
+      "bestTimeSeconds": 571.7,
+      "bestAvgMile": "06:21.1",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:31.7",
+          "timeSeconds": 571.7,
+          "avgMile": "06:21.1",
+          "place": 22,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:45.6",
+          "timeSeconds": 585.6,
+          "avgMile": "06:30.3",
+          "place": 23,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:14.9",
+          "timeSeconds": 614.9,
+          "avgMile": "06:49.9",
+          "place": 31,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:15.8",
+          "timeSeconds": 615.8,
+          "avgMile": "06:50.5",
+          "place": 23,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "athlete": "SCRIBNER, Thomas",
+      "grade": "7",
+      "team": "Good Shepherd",
+      "bestTime": "09:31.9",
+      "bestTimeSeconds": 571.9,
+      "bestAvgMile": "06:21.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:31.9",
+          "timeSeconds": 571.9,
+          "avgMile": "06:21.2",
+          "place": 23,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:45.9",
+          "timeSeconds": 585.9,
+          "avgMile": "06:30.6",
+          "place": 24,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:03.7",
+          "timeSeconds": 603.7,
+          "avgMile": "06:42.4",
+          "place": 24,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:18.3",
+          "timeSeconds": 618.3,
+          "avgMile": "06:52.2",
+          "place": 25,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "athlete": "KUMRU, Aydin",
+      "grade": "7",
+      "team": "Sacred Heart",
+      "bestTime": "09:34.4",
+      "bestTimeSeconds": 574.4,
+      "bestAvgMile": "06:22.9",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:34.4",
+          "timeSeconds": 574.4,
+          "avgMile": "06:22.9",
+          "place": 24,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:43.9",
+          "timeSeconds": 583.9,
+          "avgMile": "06:29.2",
+          "place": 22,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:57.8",
+          "timeSeconds": 597.8,
+          "avgMile": "06:38.5",
+          "place": 21,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:21.2",
+          "timeSeconds": 621.2,
+          "avgMile": "06:54.1",
+          "place": 27,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "athlete": "HUNGERFORD, Jack",
+      "grade": "8",
+      "team": "Sacred Heart",
+      "bestTime": "09:35.6",
+      "bestTimeSeconds": 575.6,
+      "bestAvgMile": "06:23.7",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:35.6",
+          "timeSeconds": 575.6,
+          "avgMile": "06:23.7",
+          "place": 25,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:46.0",
+          "timeSeconds": 586,
+          "avgMile": "06:30.7",
+          "place": 25,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:59.9",
+          "timeSeconds": 599.9,
+          "avgMile": "06:39.9",
+          "place": 19,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "10:08.0",
+          "timeSeconds": 608,
+          "avgMile": "06:45.3",
+          "place": 29,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "athlete": "LUEGER, Ben",
+      "grade": "7",
+      "team": "Prince of Peace",
+      "bestTime": "09:36.4",
+      "bestTimeSeconds": 576.4,
+      "bestAvgMile": "06:24.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:36.4",
+          "timeSeconds": 576.4,
+          "avgMile": "06:24.2",
+          "place": 26,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "09:41.8",
+          "timeSeconds": 581.8,
+          "avgMile": "06:27.9",
+          "place": 21,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "09:46.8",
+          "timeSeconds": 586.8,
+          "avgMile": "06:31.2",
+          "place": 19,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "athlete": "BAUER, Bennett",
+      "grade": "8",
+      "team": "St Ann",
+      "bestTime": "09:39.3",
+      "bestTimeSeconds": 579.3,
+      "bestAvgMile": "06:26.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:39.3",
+          "timeSeconds": 579.3,
+          "avgMile": "06:26.2",
+          "place": 28,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:23.0",
+          "timeSeconds": 623,
+          "avgMile": "06:55.3",
+          "place": 34,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:24.0",
+          "timeSeconds": 624,
+          "avgMile": "06:56.0",
+          "place": 37,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:26.2",
+          "timeSeconds": 626.2,
+          "avgMile": "06:57.4",
+          "place": 30,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "athlete": "RAMOS, Kayden",
+      "grade": "8",
+      "team": "Holy Spirit",
+      "bestTime": "09:39.5",
+      "bestTimeSeconds": 579.5,
+      "bestAvgMile": "06:26.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:39.5",
+          "timeSeconds": 579.5,
+          "avgMile": "06:26.3",
+          "place": 29,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:25.5",
+          "timeSeconds": 625.5,
+          "avgMile": "06:57.0",
+          "place": 38,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:26.0",
+          "timeSeconds": 626,
+          "avgMile": "06:57.3",
+          "place": 35,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:48.7",
+          "timeSeconds": 648.7,
+          "avgMile": "07:12.4",
+          "place": 36,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "athlete": "KENNEDY, Beau",
+      "grade": "7",
+      "team": "Ascension",
+      "bestTime": "09:40.3",
+      "bestTimeSeconds": 580.3,
+      "bestAvgMile": "06:26.8",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:40.3",
+          "timeSeconds": 580.3,
+          "avgMile": "06:26.8",
+          "place": 30,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:04.5",
+          "timeSeconds": 604.5,
+          "avgMile": "06:43.0",
+          "place": 30,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:07.4",
+          "timeSeconds": 607.4,
+          "avgMile": "06:44.9",
+          "place": 28,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:18.7",
+          "timeSeconds": 618.7,
+          "avgMile": "06:52.5",
+          "place": 26,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "athlete": "STRUBE, Tanner",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "09:46.9",
+      "bestTimeSeconds": 586.9,
+      "bestAvgMile": "06:31.2",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "09:46.9",
+          "timeSeconds": 586.9,
+          "avgMile": "06:31.2",
+          "place": 26,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:05.0",
+          "timeSeconds": 605,
+          "avgMile": "06:43.3",
+          "place": 35,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:17.7",
+          "timeSeconds": 617.7,
+          "avgMile": "06:51.7",
+          "place": 24,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "athlete": "PARRISH, Bennett",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "09:52.0",
+      "bestTimeSeconds": 592,
+      "bestAvgMile": "06:34.7",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "09:52.0",
+          "timeSeconds": 592,
+          "avgMile": "06:34.7",
+          "place": 29,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:03.6",
+          "timeSeconds": 603.6,
+          "avgMile": "06:42.4",
+          "place": 23,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:52.0",
+          "timeSeconds": 652,
+          "avgMile": "07:14.6",
+          "place": 39,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "athlete": "UNDERWOOD, Tripp",
+      "grade": "8",
+      "team": "Corpus Christi",
+      "bestTime": "09:53.0",
+      "bestTimeSeconds": 593,
+      "bestAvgMile": "06:35.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:53.0",
+          "timeSeconds": 593,
+          "avgMile": "06:35.3",
+          "place": 31,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:44.1",
+          "timeSeconds": 644.1,
+          "avgMile": "07:09.4",
+          "place": 39,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:55.6",
+          "timeSeconds": 655.6,
+          "avgMile": "07:17.0",
+          "place": 40,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "athlete": "BALLEW, Colton",
+      "grade": "8",
+      "team": "Holy Trinity",
+      "bestTime": "09:54.6",
+      "bestTimeSeconds": 594.6,
+      "bestAvgMile": "06:36.4",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "09:54.6",
+          "timeSeconds": 594.6,
+          "avgMile": "06:36.4",
+          "place": 32,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:15.0",
+          "timeSeconds": 615,
+          "avgMile": "06:50.0",
+          "place": 31,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:19.7",
+          "timeSeconds": 619.7,
+          "avgMile": "06:53.1",
+          "place": 33,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:37.6",
+          "timeSeconds": 637.6,
+          "avgMile": "07:05.0",
+          "place": 34,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "athlete": "GREEN, Nicholas",
+      "grade": "8",
+      "team": "St John the Evangelist",
+      "bestTime": "10:00.1",
+      "bestTimeSeconds": 600.1,
+      "bestAvgMile": "06:40.1",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:00.1",
+          "timeSeconds": 600.1,
+          "avgMile": "06:40.1",
+          "place": 33,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:17.7",
+          "timeSeconds": 617.7,
+          "avgMile": "06:51.7",
+          "place": 33,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:18.6",
+          "timeSeconds": 618.6,
+          "avgMile": "06:52.4",
+          "place": 32,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:47.3",
+          "timeSeconds": 647.3,
+          "avgMile": "07:11.5",
+          "place": 35,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "athlete": "CULLINAN, Cormac",
+      "grade": "7",
+      "team": "Holy Trinity",
+      "bestTime": "10:04.9",
+      "bestTimeSeconds": 604.9,
+      "bestAvgMile": "06:43.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:04.9",
+          "timeSeconds": 604.9,
+          "avgMile": "06:43.2",
+          "place": 34,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:41.9",
+          "timeSeconds": 641.9,
+          "avgMile": "07:07.9",
+          "place": 38,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:42.1",
+          "timeSeconds": 642.1,
+          "avgMile": "07:08.0",
+          "place": 44,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:50.9",
+          "timeSeconds": 650.9,
+          "avgMile": "07:13.9",
+          "place": 37,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "athlete": "TOEPFER, Ryderus",
+      "grade": "7",
+      "team": "Sacred Heart",
+      "bestTime": "10:05.1",
+      "bestTimeSeconds": 605.1,
+      "bestAvgMile": "06:43.4",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:05.1",
+          "timeSeconds": 605.1,
+          "avgMile": "06:43.4",
+          "place": 36,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:12.3",
+          "timeSeconds": 612.3,
+          "avgMile": "06:48.2",
+          "place": 30,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:34.5",
+          "timeSeconds": 634.5,
+          "avgMile": "07:03.0",
+          "place": 41,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:31.7",
+          "timeSeconds": 691.7,
+          "avgMile": "07:41.1",
+          "place": 52,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "athlete": "BASINGER, Parker",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "10:05.5",
+      "bestTimeSeconds": 605.5,
+      "bestAvgMile": "06:43.6",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "10:05.5",
+          "timeSeconds": 605.5,
+          "avgMile": "06:43.6",
+          "place": 25,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:06.9",
+          "timeSeconds": 606.9,
+          "avgMile": "06:44.6",
+          "place": 37,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:23.1",
+          "timeSeconds": 623.1,
+          "avgMile": "06:55.4",
+          "place": 36,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:34.9",
+          "timeSeconds": 634.9,
+          "avgMile": "07:03.2",
+          "place": 32,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "athlete": "AKINS, Henry",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "10:06.8",
+      "bestTimeSeconds": 606.8,
+      "bestAvgMile": "06:44.5",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "10:06.8",
+          "timeSeconds": 606.8,
+          "avgMile": "06:44.5",
+          "place": 26,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:21.9",
+          "timeSeconds": 621.9,
+          "avgMile": "06:54.6",
+          "place": 34,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "athlete": "GRABS, Emmanuel",
+      "grade": "8",
+      "team": "St Agnes",
+      "bestTime": "10:07.2",
+      "bestTimeSeconds": 607.2,
+      "bestAvgMile": "06:44.8",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "10:07.2",
+          "timeSeconds": 607.2,
+          "avgMile": "06:44.8",
+          "place": 27,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:15.2",
+          "timeSeconds": 615.2,
+          "avgMile": "06:50.1",
+          "place": 32,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:21.4",
+          "timeSeconds": 621.4,
+          "avgMile": "06:54.3",
+          "place": 42,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:36.2",
+          "timeSeconds": 636.2,
+          "avgMile": "07:04.1",
+          "place": 33,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "athlete": "CALIXTO MORALES, Dominic",
+      "grade": "8",
+      "team": "Holy Spirit",
+      "bestTime": "10:08.8",
+      "bestTimeSeconds": 608.8,
+      "bestAvgMile": "06:45.9",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:08.8",
+          "timeSeconds": 608.8,
+          "avgMile": "06:45.9",
+          "place": 38,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:49.8",
+          "timeSeconds": 649.8,
+          "avgMile": "07:13.2",
+          "place": 47,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:50.7",
+          "timeSeconds": 650.7,
+          "avgMile": "07:13.8",
+          "place": 41,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:24.1",
+          "timeSeconds": 684.1,
+          "avgMile": "07:36.0",
+          "place": 49,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "athlete": "WAGNER, Colton",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "10:13.8",
+      "bestTimeSeconds": 613.8,
+      "bestAvgMile": "06:49.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:13.8",
+          "timeSeconds": 613.8,
+          "avgMile": "06:49.2",
+          "place": 39,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:00.7",
+          "timeSeconds": 660.7,
+          "avgMile": "07:20.4",
+          "place": 44,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:03.5",
+          "timeSeconds": 663.5,
+          "avgMile": "07:22.3",
+          "place": 51,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:03.7",
+          "timeSeconds": 663.7,
+          "avgMile": "07:22.4",
+          "place": 44,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "athlete": "GRAY, Bennett",
+      "grade": "7",
+      "team": "Nativity/St. Michael",
+      "bestTime": "10:19.0",
+      "bestTimeSeconds": 619,
+      "bestAvgMile": "06:52.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:19.0",
+          "timeSeconds": 619,
+          "avgMile": "06:52.6",
+          "place": 40,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:30.7",
+          "timeSeconds": 630.7,
+          "avgMile": "07:00.4",
+          "place": 36,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:35.1",
+          "timeSeconds": 635.1,
+          "avgMile": "07:03.4",
+          "place": 42,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:00.3",
+          "timeSeconds": 660.3,
+          "avgMile": "07:20.2",
+          "place": 42,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "athlete": "SHADA, Andrew",
+      "grade": "7",
+      "team": "Sacred Heart",
+      "bestTime": "10:19.6",
+      "bestTimeSeconds": 619.6,
+      "bestAvgMile": "06:53.0",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:19.6",
+          "timeSeconds": 619.6,
+          "avgMile": "06:53.0",
+          "place": 41,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:36.3",
+          "timeSeconds": 636.3,
+          "avgMile": "07:04.2",
+          "place": 43,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:52.8",
+          "timeSeconds": 652.8,
+          "avgMile": "07:15.2",
+          "place": 42,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:19.5",
+          "timeSeconds": 679.5,
+          "avgMile": "07:33.0",
+          "place": 47,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "athlete": "SHAVER, Victor",
+      "grade": "8",
+      "team": "St John the Evangelist",
+      "bestTime": "10:21.7",
+      "bestTimeSeconds": 621.7,
+      "bestAvgMile": "06:54.5",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "10:21.7",
+          "timeSeconds": 621.7,
+          "avgMile": "06:54.5",
+          "place": 28,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "10:22.6",
+          "timeSeconds": 622.6,
+          "avgMile": "06:55.1",
+          "place": 35,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "athlete": "LUEGER, Nathan",
+      "grade": "5",
+      "team": "Prince of Peace",
+      "bestTime": "10:23.4",
+      "bestTimeSeconds": 623.4,
+      "bestAvgMile": "06:55.6",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "10:23.4",
+          "timeSeconds": 623.4,
+          "avgMile": "06:55.6",
+          "place": 29,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "athlete": "PAULS, Hank",
+      "grade": "7",
+      "team": "Prince of Peace",
+      "bestTime": "10:29.2",
+      "bestTimeSeconds": 629.2,
+      "bestAvgMile": "06:59.4",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "10:29.2",
+          "timeSeconds": 629.2,
+          "avgMile": "06:59.4",
+          "place": 39,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:41.6",
+          "timeSeconds": 641.6,
+          "avgMile": "07:07.7",
+          "place": 45,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:22.7",
+          "timeSeconds": 682.7,
+          "avgMile": "07:35.1",
+          "place": 48,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:22.9",
+          "timeSeconds": 682.9,
+          "avgMile": "07:35.2",
+          "place": 51,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "athlete": "MCLENON, Jameson",
+      "grade": "8",
+      "team": "Holy Spirit",
+      "bestTime": "10:30.4",
+      "bestTimeSeconds": 630.4,
+      "bestAvgMile": "07:00.3",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "10:30.4",
+          "timeSeconds": 630.4,
+          "avgMile": "07:00.3",
+          "place": 31,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "10:45.2",
+          "timeSeconds": 645.2,
+          "avgMile": "07:10.1",
+          "place": 40,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "athlete": "GRACE, Henry",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "10:33.4",
+      "bestTimeSeconds": 633.4,
+      "bestAvgMile": "07:02.2",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "10:33.4",
+          "timeSeconds": 633.4,
+          "avgMile": "07:02.2",
+          "place": 40,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:36.7",
+          "timeSeconds": 636.7,
+          "avgMile": "07:04.4",
+          "place": 43,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:00.4",
+          "timeSeconds": 660.4,
+          "avgMile": "07:20.3",
+          "place": 43,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:12.6",
+          "timeSeconds": 672.6,
+          "avgMile": "07:28.4",
+          "place": 47,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "athlete": "DUNN, Cameron",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "10:38.5",
+      "bestTimeSeconds": 638.5,
+      "bestAvgMile": "07:05.6",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "10:38.5",
+          "timeSeconds": 638.5,
+          "avgMile": "07:05.6",
+          "place": 37,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "athlete": "RONAN, Joey",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "10:39.5",
+      "bestTimeSeconds": 639.5,
+      "bestAvgMile": "07:06.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:39.5",
+          "timeSeconds": 639.5,
+          "avgMile": "07:06.3",
+          "place": 44,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:12.2",
+          "timeSeconds": 672.2,
+          "avgMile": "07:28.1",
+          "place": 46,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:15.5",
+          "timeSeconds": 675.5,
+          "avgMile": "07:30.3",
+          "place": 46,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "athlete": "VANDEVER, Henry",
+      "grade": "8",
+      "team": "Holy Trinity",
+      "bestTime": "10:45.7",
+      "bestTimeSeconds": 645.7,
+      "bestAvgMile": "07:10.4",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:45.7",
+          "timeSeconds": 645.7,
+          "avgMile": "07:10.4",
+          "place": 46,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:55.5",
+          "timeSeconds": 655.5,
+          "avgMile": "07:17.0",
+          "place": 43,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "10:56.4",
+          "timeSeconds": 656.4,
+          "avgMile": "07:17.6",
+          "place": 48,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:57.8",
+          "timeSeconds": 657.8,
+          "avgMile": "07:18.5",
+          "place": 41,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "athlete": "BROWNLEE, Miles",
+      "grade": "8",
+      "team": "Ascension",
+      "bestTime": "10:46.2",
+      "bestTimeSeconds": 646.2,
+      "bestAvgMile": "07:10.7",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "10:46.2",
+          "timeSeconds": 646.2,
+          "avgMile": "07:10.7",
+          "place": 45,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:49.4",
+          "timeSeconds": 649.4,
+          "avgMile": "07:12.9",
+          "place": 47,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:55.4",
+          "timeSeconds": 715.4,
+          "avgMile": "07:56.9",
+          "place": 59,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "athlete": "ABBOTT, Padric",
+      "grade": "7",
+      "team": "Good Shepherd",
+      "bestTime": "10:48.0",
+      "bestTimeSeconds": 648,
+      "bestAvgMile": "07:12.0",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "10:48.0",
+          "timeSeconds": 648,
+          "avgMile": "07:12.0",
+          "place": 46,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "10:51.6",
+          "timeSeconds": 651.6,
+          "avgMile": "07:14.3",
+          "place": 48,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:21.1",
+          "timeSeconds": 681.1,
+          "avgMile": "07:34.0",
+          "place": 50,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:36.6",
+          "timeSeconds": 696.6,
+          "avgMile": "07:44.4",
+          "place": 54,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "athlete": "UNRUH, Emmett",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "10:55.4",
+      "bestTimeSeconds": 655.4,
+      "bestAvgMile": "07:16.9",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "10:55.4",
+          "timeSeconds": 655.4,
+          "avgMile": "07:16.9",
+          "place": 49,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "10:59.0",
+          "timeSeconds": 659,
+          "avgMile": "07:19.3",
+          "place": 49,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:06.6",
+          "timeSeconds": 666.6,
+          "avgMile": "07:24.4",
+          "place": 45,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:58.2",
+          "timeSeconds": 718.2,
+          "avgMile": "07:58.8",
+          "place": 60,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "athlete": "BUXMAN, Kolt",
+      "grade": "7",
+      "team": "Holy Trinity",
+      "bestTime": "11:01.8",
+      "bestTimeSeconds": 661.8,
+      "bestAvgMile": "07:21.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "11:01.8",
+          "timeSeconds": 661.8,
+          "avgMile": "07:21.1",
+          "place": 50,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:38.9",
+          "timeSeconds": 698.9,
+          "avgMile": "07:45.9",
+          "place": 54,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:40.7",
+          "timeSeconds": 700.7,
+          "avgMile": "07:47.1",
+          "place": 58,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:54.5",
+          "timeSeconds": 714.5,
+          "avgMile": "07:56.3",
+          "place": 60,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "athlete": "BURKHART, Nolan",
+      "grade": "8",
+      "team": "St Agnes",
+      "bestTime": "11:06.1",
+      "bestTimeSeconds": 666.1,
+      "bestAvgMile": "07:24.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "11:06.1",
+          "timeSeconds": 666.1,
+          "avgMile": "07:24.1",
+          "place": 52,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:10.1",
+          "timeSeconds": 670.1,
+          "avgMile": "07:26.7",
+          "place": 52,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:53.4",
+          "timeSeconds": 713.4,
+          "avgMile": "07:55.6",
+          "place": 59,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "12:00.4",
+          "timeSeconds": 720.4,
+          "avgMile": "08:00.2",
+          "place": 62,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "athlete": "WILSON, Ben",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "11:06.2",
+      "bestTimeSeconds": 666.2,
+      "bestAvgMile": "07:24.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "11:06.2",
+          "timeSeconds": 666.2,
+          "avgMile": "07:24.1",
+          "place": 53,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "11:13.7",
+          "timeSeconds": 673.7,
+          "avgMile": "07:29.1",
+          "place": 53,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:50.6",
+          "timeSeconds": 710.6,
+          "avgMile": "07:53.7",
+          "place": 58,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "athlete": "BOWEN, Landon",
+      "grade": "8",
+      "team": "Sacred Heart",
+      "bestTime": "11:06.2",
+      "bestTimeSeconds": 666.2,
+      "bestAvgMile": "07:24.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "11:06.2",
+          "timeSeconds": 666.2,
+          "avgMile": "07:24.1",
+          "place": 54,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:21.0",
+          "timeSeconds": 741,
+          "avgMile": "08:14.0",
+          "place": 65,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "athlete": "HUTZELMANN, Luke",
+      "grade": "7",
+      "team": "St Paul",
+      "bestTime": "11:08.0",
+      "bestTimeSeconds": 668,
+      "bestAvgMile": "07:25.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:08.0",
+          "timeSeconds": 668,
+          "avgMile": "07:25.3",
+          "place": 50,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:14.1",
+          "timeSeconds": 674.1,
+          "avgMile": "07:29.3",
+          "place": 45,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:20.8",
+          "timeSeconds": 680.8,
+          "avgMile": "07:33.8",
+          "place": 49,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:04.9",
+          "timeSeconds": 724.9,
+          "avgMile": "08:03.2",
+          "place": 62,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "athlete": "DEKEYSER, Brennan",
+      "grade": "7",
+      "team": "St Agnes",
+      "bestTime": "11:09.5",
+      "bestTimeSeconds": 669.5,
+      "bestAvgMile": "07:26.3",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:09.5",
+          "timeSeconds": 669.5,
+          "avgMile": "07:26.3",
+          "place": 51,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:28.3",
+          "timeSeconds": 688.3,
+          "avgMile": "07:38.8",
+          "place": 50,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:38.5",
+          "timeSeconds": 698.5,
+          "avgMile": "07:45.6",
+          "place": 53,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:06.9",
+          "timeSeconds": 726.9,
+          "avgMile": "08:04.6",
+          "place": 63,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "athlete": "ZIMMER, Joseph",
+      "grade": "7",
+      "team": "Ascension",
+      "bestTime": "11:15.6",
+      "bestTimeSeconds": 675.6,
+      "bestAvgMile": "07:30.4",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "11:15.6",
+          "timeSeconds": 675.6,
+          "avgMile": "07:30.4",
+          "place": 48,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:43.7",
+          "timeSeconds": 703.7,
+          "avgMile": "07:49.1",
+          "place": 57,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:00.3",
+          "timeSeconds": 720.3,
+          "avgMile": "08:00.2",
+          "place": 61,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "athlete": "RIDER, Isaiah",
+      "grade": "7",
+      "team": "Nativity/St. Michael",
+      "bestTime": "11:16.8",
+      "bestTimeSeconds": 676.8,
+      "bestAvgMile": "07:31.2",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:16.8",
+          "timeSeconds": 676.8,
+          "avgMile": "07:31.2",
+          "place": 54,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:34.1",
+          "timeSeconds": 694.1,
+          "avgMile": "07:42.7",
+          "place": 56,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:06.7",
+          "timeSeconds": 726.7,
+          "avgMile": "08:04.4",
+          "place": 62,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "12:07.9",
+          "timeSeconds": 727.9,
+          "avgMile": "08:05.2",
+          "place": 64,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "athlete": "AKINS, Charleston",
+      "grade": "7",
+      "team": "Ascension",
+      "bestTime": "11:25.3",
+      "bestTimeSeconds": 685.3,
+      "bestAvgMile": "07:36.8",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "11:25.3",
+          "timeSeconds": 685.3,
+          "avgMile": "07:36.8",
+          "place": 52,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:32.2",
+          "timeSeconds": 692.2,
+          "avgMile": "07:41.4",
+          "place": 55,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "athlete": "MOLONEY, Thomas",
+      "grade": "7",
+      "team": "Good Shepherd",
+      "bestTime": "11:26.3",
+      "bestTimeSeconds": 686.3,
+      "bestAvgMile": "07:37.5",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:26.3",
+          "timeSeconds": 686.3,
+          "avgMile": "07:37.5",
+          "place": 55,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:37.8",
+          "timeSeconds": 697.8,
+          "avgMile": "07:45.2",
+          "place": 55,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:44.3",
+          "timeSeconds": 704.3,
+          "avgMile": "07:49.5",
+          "place": 57,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "11:49.5",
+          "timeSeconds": 709.5,
+          "avgMile": "07:53.0",
+          "place": 59,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "athlete": "LAVERY, Carden",
+      "grade": "7",
+      "team": "Holy Trinity",
+      "bestTime": "11:26.6",
+      "bestTimeSeconds": 686.6,
+      "bestAvgMile": "07:37.7",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:26.6",
+          "timeSeconds": 686.6,
+          "avgMile": "07:37.7",
+          "place": 56,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:58.4",
+          "timeSeconds": 718.4,
+          "avgMile": "07:58.9",
+          "place": 60,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:09.3",
+          "timeSeconds": 729.3,
+          "avgMile": "08:06.2",
+          "place": 63,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "13:22.4",
+          "timeSeconds": 802.4,
+          "avgMile": "08:54.9",
+          "place": 74,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "athlete": "HAMMACK, Rylan",
+      "grade": "8",
+      "team": "Corpus Christi",
+      "bestTime": "11:28.6",
+      "bestTimeSeconds": 688.6,
+      "bestAvgMile": "07:39.0",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:28.6",
+          "timeSeconds": 688.6,
+          "avgMile": "07:39.0",
+          "place": 57,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "12:59.6",
+          "timeSeconds": 779.6,
+          "avgMile": "08:39.7",
+          "place": 72,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "13:38.6",
+          "timeSeconds": 818.6,
+          "avgMile": "09:05.7",
+          "place": 70,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "athlete": "SULLIVAN, Truitt",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "11:29.1",
+      "bestTimeSeconds": 689.1,
+      "bestAvgMile": "07:39.4",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "11:29.1",
+          "timeSeconds": 689.1,
+          "avgMile": "07:39.4",
+          "place": 51,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:56.4",
+          "timeSeconds": 716.4,
+          "avgMile": "07:57.6",
+          "place": 60,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "athlete": "MUNI, Nathan",
+      "grade": "7",
+      "team": "Good Shepherd",
+      "bestTime": "11:31.7",
+      "bestTimeSeconds": 691.7,
+      "bestAvgMile": "07:41.1",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:31.7",
+          "timeSeconds": 691.7,
+          "avgMile": "07:41.1",
+          "place": 58,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "12:51.1",
+          "timeSeconds": 771.1,
+          "avgMile": "08:34.0",
+          "place": 69,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:56.0",
+          "timeSeconds": 776,
+          "avgMile": "08:37.3",
+          "place": 70,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "athlete": "THOMAS, Tristan",
+      "grade": "7",
+      "team": "Holy Rosary WEA",
+      "bestTime": "11:32.2",
+      "bestTimeSeconds": 692.2,
+      "bestAvgMile": "07:41.5",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "11:32.2",
+          "timeSeconds": 692.2,
+          "avgMile": "07:41.5",
+          "place": 53,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "12:33.6",
+          "timeSeconds": 753.6,
+          "avgMile": "08:22.4",
+          "place": 65,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "athlete": "MULCH, Michael",
+      "grade": "8",
+      "team": "Prince of Peace",
+      "bestTime": "11:39.1",
+      "bestTimeSeconds": 699.1,
+      "bestAvgMile": "07:46.0",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "11:39.1",
+          "timeSeconds": 699.1,
+          "avgMile": "07:46.0",
+          "place": 56,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "11:48.0",
+          "timeSeconds": 708,
+          "avgMile": "07:52.0",
+          "place": 58,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:19.7",
+          "timeSeconds": 739.7,
+          "avgMile": "08:13.1",
+          "place": 63,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "athlete": "ARNOLD, Leo",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "11:39.9",
+      "bestTimeSeconds": 699.9,
+      "bestAvgMile": "07:46.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:39.9",
+          "timeSeconds": 699.9,
+          "avgMile": "07:46.6",
+          "place": 59,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "11:56.5",
+          "timeSeconds": 716.5,
+          "avgMile": "07:57.6",
+          "place": 61,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:17.2",
+          "timeSeconds": 737.2,
+          "avgMile": "08:11.5",
+          "place": 65,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "athlete": "HILSON, Connor",
+      "grade": "8",
+      "team": "Nativity/St. Michael",
+      "bestTime": "11:40.2",
+      "bestTimeSeconds": 700.2,
+      "bestAvgMile": "07:46.7",
+      "bestTimeMeet": "CYO Meet 1",
+      "bestTimeMeetDate": "09-27-2025",
+      "performances": [
+        {
+          "time": "11:40.2",
+          "timeSeconds": 700.2,
+          "avgMile": "07:46.7",
+          "place": 57,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "athlete": "PEPPERS, Truman",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "11:41.1",
+      "bestTimeSeconds": 701.1,
+      "bestAvgMile": "07:47.4",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "11:41.1",
+          "timeSeconds": 701.1,
+          "avgMile": "07:47.4",
+          "place": 55,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:34.1",
+          "timeSeconds": 754.1,
+          "avgMile": "08:22.7",
+          "place": 64,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "athlete": "SOLOMON, Jack",
+      "grade": "8",
+      "team": "Corpus Christi",
+      "bestTime": "11:41.9",
+      "bestTimeSeconds": 701.9,
+      "bestAvgMile": "07:47.9",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "11:41.9",
+          "timeSeconds": 701.9,
+          "avgMile": "07:47.9",
+          "place": 56,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:01.7",
+          "timeSeconds": 721.7,
+          "avgMile": "08:01.1",
+          "place": 62,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "12:13.7",
+          "timeSeconds": 733.7,
+          "avgMile": "08:09.1",
+          "place": 64,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:26.3",
+          "timeSeconds": 866.3,
+          "avgMile": "09:37.5",
+          "place": 75,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "athlete": "BEARD, Olen",
+      "grade": "8",
+      "team": "St Joseph",
+      "bestTime": "11:57.9",
+      "bestTimeSeconds": 717.9,
+      "bestAvgMile": "07:58.6",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "11:57.9",
+          "timeSeconds": 717.9,
+          "avgMile": "07:58.6",
+          "place": 61,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "12:01.2",
+          "timeSeconds": 721.2,
+          "avgMile": "08:00.8",
+          "place": 61,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:06.1",
+          "timeSeconds": 726.1,
+          "avgMile": "08:04.0",
+          "place": 63,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:54.8",
+          "timeSeconds": 774.8,
+          "avgMile": "08:36.5",
+          "place": 66,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "athlete": "MOORE, Vincent",
+      "grade": "8",
+      "team": "Corpus Christi",
+      "bestTime": "12:18.4",
+      "bestTimeSeconds": 738.4,
+      "bestAvgMile": "08:12.3",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "12:18.4",
+          "timeSeconds": 738.4,
+          "avgMile": "08:12.3",
+          "place": 66,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:25.3",
+          "timeSeconds": 745.3,
+          "avgMile": "08:16.8",
+          "place": 66,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:59.5",
+          "timeSeconds": 779.5,
+          "avgMile": "08:39.7",
+          "place": 67,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "14:40.3",
+          "timeSeconds": 880.3,
+          "avgMile": "09:46.8",
+          "place": 76,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "athlete": "KINCAID, William",
+      "grade": "7",
+      "team": "Sacred Heart",
+      "bestTime": "12:28.8",
+      "bestTimeSeconds": 748.8,
+      "bestAvgMile": "08:19.2",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "12:28.8",
+          "timeSeconds": 748.8,
+          "avgMile": "08:19.2",
+          "place": 67,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:57.8",
+          "timeSeconds": 777.8,
+          "avgMile": "08:38.5",
+          "place": 66,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "13:27.0",
+          "timeSeconds": 807,
+          "avgMile": "08:57.9",
+          "place": 69,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "athlete": "VIELHAUER, August",
+      "grade": "8",
+      "team": "St Agnes",
+      "bestTime": "12:30.7",
+      "bestTimeSeconds": 750.7,
+      "bestAvgMile": "08:20.4",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "12:30.7",
+          "timeSeconds": 750.7,
+          "avgMile": "08:20.4",
+          "place": 68,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "13:00.8",
+          "timeSeconds": 780.8,
+          "avgMile": "08:40.5",
+          "place": 73,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "13:04.5",
+          "timeSeconds": 784.5,
+          "avgMile": "08:43.0",
+          "place": 68,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "13:22.5",
+          "timeSeconds": 802.5,
+          "avgMile": "08:55.0",
+          "place": 68,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "athlete": "WIKIERA, Henry",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "12:30.8",
+      "bestTimeSeconds": 750.8,
+      "bestAvgMile": "08:20.5",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "12:30.8",
+          "timeSeconds": 750.8,
+          "avgMile": "08:20.5",
+          "place": 64,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "13:18.5",
+          "timeSeconds": 798.5,
+          "avgMile": "08:52.3",
+          "place": 73,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "13:52.8",
+          "timeSeconds": 832.8,
+          "avgMile": "09:15.2",
+          "place": 74,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:53.0",
+          "timeSeconds": 893,
+          "avgMile": "09:55.3",
+          "place": 78,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "athlete": "MOYER, Jacob",
+      "grade": "8",
+      "team": "St Ann",
+      "bestTime": "12:36.2",
+      "bestTimeSeconds": 756.2,
+      "bestAvgMile": "08:24.1",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "12:36.2",
+          "timeSeconds": 756.2,
+          "avgMile": "08:24.1",
+          "place": 69,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "12:36.9",
+          "timeSeconds": 756.9,
+          "avgMile": "08:24.6",
+          "place": 67,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "athlete": "ROSAS, Alexius",
+      "grade": "8",
+      "team": "Holy Spirit",
+      "bestTime": "12:43.2",
+      "bestTimeSeconds": 763.2,
+      "bestAvgMile": "08:28.7",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "12:43.2",
+          "timeSeconds": 763.2,
+          "avgMile": "08:28.7",
+          "place": 68,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "12:43.6",
+          "timeSeconds": 763.6,
+          "avgMile": "08:29.1",
+          "place": 65,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "athlete": "ELDER, Michael",
+      "grade": "7",
+      "team": "Nativity/St. Michael",
+      "bestTime": "12:56.5",
+      "bestTimeSeconds": 776.5,
+      "bestAvgMile": "08:37.6",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "12:56.5",
+          "timeSeconds": 776.5,
+          "avgMile": "08:37.6",
+          "place": 70,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "13:10.6",
+          "timeSeconds": 790.6,
+          "avgMile": "08:47.0",
+          "place": 72,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "athlete": "DUNCAN, Max",
+      "grade": "7",
+      "team": "Nativity/St. Michael",
+      "bestTime": "12:58.7",
+      "bestTimeSeconds": 778.7,
+      "bestAvgMile": "08:39.1",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "12:58.7",
+          "timeSeconds": 778.7,
+          "avgMile": "08:39.1",
+          "place": 71,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "13:02.0",
+          "timeSeconds": 782,
+          "avgMile": "08:41.3",
+          "place": 71,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "13:04.4",
+          "timeSeconds": 784.4,
+          "avgMile": "08:42.9",
+          "place": 67,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "athlete": "BLECKMAN, Calvin",
+      "grade": "7",
+      "team": "Good Shepherd",
+      "bestTime": "13:24.9",
+      "bestTimeSeconds": 804.9,
+      "bestAvgMile": "08:56.6",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "13:24.9",
+          "timeSeconds": 804.9,
+          "avgMile": "08:56.6",
+          "place": 75,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "13:57.6",
+          "timeSeconds": 837.6,
+          "avgMile": "09:18.4",
+          "place": 70,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "14:05.1",
+          "timeSeconds": 845.1,
+          "avgMile": "09:23.4",
+          "place": 72,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "14:20.0",
+          "timeSeconds": 860,
+          "avgMile": "09:33.3",
+          "place": 77,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "athlete": "SCHMITZ, Jonathan",
+      "grade": "8",
+      "team": "Good Shepherd",
+      "bestTime": "13:26.7",
+      "bestTimeSeconds": 806.7,
+      "bestAvgMile": "08:57.8",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "13:26.7",
+          "timeSeconds": 806.7,
+          "avgMile": "08:57.8",
+          "place": 69,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "13:49.1",
+          "timeSeconds": 829.1,
+          "avgMile": "09:12.7",
+          "place": 71,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "13:52.9",
+          "timeSeconds": 832.9,
+          "avgMile": "09:15.3",
+          "place": 75,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:26.7",
+          "timeSeconds": 866.7,
+          "avgMile": "09:37.8",
+          "place": 77,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "athlete": "PUTHOOR, Jude",
+      "grade": "8",
+      "team": "St Paul",
+      "bestTime": "14:03.6",
+      "bestTimeSeconds": 843.6,
+      "bestAvgMile": "09:22.4",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "14:03.6",
+          "timeSeconds": 843.6,
+          "avgMile": "09:22.4",
+          "place": 71,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "14:39.0",
+          "timeSeconds": 879,
+          "avgMile": "09:46.0",
+          "place": 80,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:40.6",
+          "timeSeconds": 880.6,
+          "avgMile": "09:47.0",
+          "place": 79,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "16:12.1",
+          "timeSeconds": 972.1,
+          "avgMile": "10:48.1",
+          "place": 80,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "athlete": "BAGGOTT, Dylan",
+      "grade": "8",
+      "team": "Cure of Ars",
+      "bestTime": "14:05.7",
+      "bestTimeSeconds": 845.7,
+      "bestAvgMile": "09:23.8",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "14:05.7",
+          "timeSeconds": 845.7,
+          "avgMile": "09:23.8",
+          "place": 76,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "14:30.6",
+          "timeSeconds": 870.6,
+          "avgMile": "09:40.4",
+          "place": 79,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "15:41.2",
+          "timeSeconds": 941.2,
+          "avgMile": "10:27.4",
+          "place": 79,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "athlete": "WEIGEL, Archer",
+      "grade": "7",
+      "team": "St John the Evangelist",
+      "bestTime": "14:12.8",
+      "bestTimeSeconds": 852.8,
+      "bestAvgMile": "09:28.5",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "14:12.8",
+          "timeSeconds": 852.8,
+          "avgMile": "09:28.5",
+          "place": 76,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:18.3",
+          "timeSeconds": 858.3,
+          "avgMile": "09:32.2",
+          "place": 73,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "athlete": "CULLUM, Mason",
+      "grade": "7",
+      "team": "Holy Trinity",
+      "bestTime": "14:17.7",
+      "bestTimeSeconds": 857.7,
+      "bestAvgMile": "09:31.8",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "14:17.7",
+          "timeSeconds": 857.7,
+          "avgMile": "09:31.8",
+          "place": 72,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "14:19.2",
+          "timeSeconds": 859.2,
+          "avgMile": "09:32.7",
+          "place": 74,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        },
+        {
+          "time": "14:53.0",
+          "timeSeconds": 893,
+          "avgMile": "09:55.3",
+          "place": 83,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "athlete": "WINTERS, Wyatt",
+      "grade": "8",
+      "team": "Xavier",
+      "bestTime": "14:28.1",
+      "bestTimeSeconds": 868.1,
+      "bestAvgMile": "09:38.7",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "14:28.1",
+          "timeSeconds": 868.1,
+          "avgMile": "09:38.7",
+          "place": 78,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:28.2",
+          "timeSeconds": 868.2,
+          "avgMile": "09:38.8",
+          "place": 73,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "14:31.7",
+          "timeSeconds": 871.7,
+          "avgMile": "09:41.1",
+          "place": 78,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "14:46.6",
+          "timeSeconds": 886.6,
+          "avgMile": "09:51.1",
+          "place": 77,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "athlete": "BARNES, Bennett",
+      "grade": "8",
+      "team": "St Paul",
+      "bestTime": "14:43.8",
+      "bestTimeSeconds": 883.8,
+      "bestAvgMile": "09:49.2",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "14:43.8",
+          "timeSeconds": 883.8,
+          "avgMile": "09:49.2",
+          "place": 81,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "14:48.8",
+          "timeSeconds": 888.8,
+          "avgMile": "09:52.5",
+          "place": 80,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "16:36.7",
+          "timeSeconds": 996.7,
+          "avgMile": "11:04.4",
+          "place": 82,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "athlete": "BELL, Colin",
+      "grade": "7",
+      "team": "St Ann",
+      "bestTime": "14:47.6",
+      "bestTimeSeconds": 887.6,
+      "bestAvgMile": "09:51.7",
+      "bestTimeMeet": "CYO Final",
+      "bestTimeMeetDate": "10-18-2025",
+      "performances": [
+        {
+          "time": "14:47.6",
+          "timeSeconds": 887.6,
+          "avgMile": "09:51.7",
+          "place": 74,
+          "meetName": "CYO Final",
+          "meetDate": "10-18-2025"
+        },
+        {
+          "time": "15:12.3",
+          "timeSeconds": 912.3,
+          "avgMile": "10:08.2",
+          "place": 82,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "15:40.7",
+          "timeSeconds": 940.7,
+          "avgMile": "10:27.1",
+          "place": 85,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "16:16.9",
+          "timeSeconds": 976.9,
+          "avgMile": "10:51.2",
+          "place": 81,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "athlete": "KRISCHE, Levi",
+      "grade": "7",
+      "team": "St John the Evangelist",
+      "bestTime": "14:49.4",
+      "bestTimeSeconds": 889.4,
+      "bestAvgMile": "09:52.9",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "14:49.4",
+          "timeSeconds": 889.4,
+          "avgMile": "09:52.9",
+          "place": 82,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "athlete": "ANTRIM ANDERSON, Esper",
+      "grade": "7",
+      "team": "St John the Evangelist",
+      "bestTime": "14:52.3",
+      "bestTimeSeconds": 892.3,
+      "bestAvgMile": "09:54.8",
+      "bestTimeMeet": "CYO Meet 3",
+      "bestTimeMeetDate": "10-11-2025",
+      "performances": [
+        {
+          "time": "14:52.3",
+          "timeSeconds": 892.3,
+          "avgMile": "09:54.8",
+          "place": 81,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "athlete": "NALLIA, Emmett",
+      "grade": "7",
+      "team": "St Joseph",
+      "bestTime": "15:15.8",
+      "bestTimeSeconds": 915.8,
+      "bestAvgMile": "10:10.5",
+      "bestTimeMeet": "CYO Meet 2",
+      "bestTimeMeetDate": "10-04-2025",
+      "performances": [
+        {
+          "time": "15:15.8",
+          "timeSeconds": 915.8,
+          "avgMile": "10:10.5",
+          "place": 84,
+          "meetName": "CYO Meet 2",
+          "meetDate": "10-04-2025"
+        },
+        {
+          "time": "15:33.2",
+          "timeSeconds": 933.2,
+          "avgMile": "10:22.1",
+          "place": 83,
+          "meetName": "CYO Meet 3",
+          "meetDate": "10-11-2025"
+        },
+        {
+          "time": "16:46.1",
+          "timeSeconds": 1006.1,
+          "avgMile": "11:10.7",
+          "place": 83,
+          "meetName": "CYO Meet 1",
+          "meetDate": "09-27-2025"
+        }
+      ]
+    }
+  ]
+}

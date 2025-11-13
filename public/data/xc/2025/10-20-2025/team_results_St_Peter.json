@@ -1,0 +1,104 @@
+{
+  "teamName": "St. Peter",
+  "meetName": "Border War",
+  "meetDate": "10-20-2025",
+  "season": "2025",
+  "teamScoreIncluded": false,
+  "races": [
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "results": [
+        {
+          "place": 35,
+          "athlete": "OXLER, Ultan",
+          "grade": "3",
+          "score": null,
+          "time": "04:00.6",
+          "gap": "12:00.0",
+          "avgMile": "06:28.0"
+        },
+        {
+          "place": 41,
+          "athlete": "CLUNE, Ronan",
+          "grade": "4",
+          "score": null,
+          "time": "04:07.0",
+          "gap": "48:00.0",
+          "avgMile": "06:38.3"
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Boys (1 mile)",
+      "ageGroup": "56",
+      "gender": "Male",
+      "distance": "1 mile",
+      "results": [
+        {
+          "place": 13,
+          "athlete": "PIERZCHALSKI, George",
+          "grade": "5",
+          "score": null,
+          "time": "06:16.9",
+          "gap": "24:00.0",
+          "avgMile": "06:16.8"
+        },
+        {
+          "place": 22,
+          "athlete": "OXLER, Killian",
+          "grade": "6",
+          "score": null,
+          "time": "06:35.9",
+          "gap": "24:00.0",
+          "avgMile": "06:35.9"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 10,
+          "athlete": "HEAP, Margaret",
+          "grade": "7",
+          "score": null,
+          "time": "10:28.1",
+          "gap": "01:29.9",
+          "avgMile": "06:58.7"
+        },
+        {
+          "place": 19,
+          "athlete": "HARMON, Amya",
+          "grade": "8",
+          "score": null,
+          "time": "10:51.3",
+          "gap": "01:53.1",
+          "avgMile": "07:14.2"
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "results": [
+        {
+          "place": 42,
+          "athlete": "HARMON, David",
+          "grade": "7",
+          "score": null,
+          "time": "10:32.8",
+          "gap": "01:57.4",
+          "avgMile": "07:01.8"
+        }
+      ]
+    }
+  ]
+}

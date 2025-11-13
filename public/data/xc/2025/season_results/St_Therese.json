@@ -1,0 +1,193 @@
+{
+  "teamName": "St. Therese",
+  "season": "2025",
+  "races": [
+    {
+      "race": "3rd & 4th Grade Girls (1000m)",
+      "ageGroup": "34",
+      "gender": "Female",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 14,
+              "athlete": "RESTREPO, Elouise",
+              "grade": "4",
+              "score": null,
+              "time": "03:58.7",
+              "gap": "00:00.0",
+              "avgMile": "06:24.9"
+            },
+            {
+              "place": 26,
+              "athlete": "BUSE, Alexandra",
+              "grade": "4",
+              "score": null,
+              "time": "04:07.5",
+              "gap": "12:00.0",
+              "avgMile": "06:39.2"
+            },
+            {
+              "place": 45,
+              "athlete": "ROBB, Elouise",
+              "grade": "4",
+              "score": null,
+              "time": "04:29.1",
+              "gap": "36:00.0",
+              "avgMile": "07:14.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "3rd & 4th Grade Boys (1000m)",
+      "ageGroup": "34",
+      "gender": "Male",
+      "distance": "1000m",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 42,
+              "athlete": "BENNETT, Tripp",
+              "grade": "3",
+              "score": null,
+              "time": "04:08.4",
+              "gap": "24:00.0",
+              "avgMile": "06:40.6"
+            },
+            {
+              "place": 52,
+              "athlete": "TRONSTAD, Cydney",
+              "grade": "3",
+              "score": null,
+              "time": "04:22.7",
+              "gap": "01:05.9",
+              "avgMile": "07:03.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "5th & 6th Grade Girls (1 mile)",
+      "ageGroup": "56",
+      "gender": "Female",
+      "distance": "1 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 47,
+              "athlete": "SCHNORF, Amelia",
+              "grade": "6",
+              "score": null,
+              "time": "08:21.2",
+              "gap": "02:16.6",
+              "avgMile": "08:21.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Girls (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Female",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 8,
+              "athlete": "STROBBE, Sammy",
+              "grade": "7",
+              "score": null,
+              "time": "10:27.1",
+              "gap": "01:28.9",
+              "avgMile": "06:58.0"
+            },
+            {
+              "place": 13,
+              "athlete": "DIETRICH, Eleanor",
+              "grade": "7",
+              "score": null,
+              "time": "10:34.9",
+              "gap": "01:36.7",
+              "avgMile": "07:03.3"
+            },
+            {
+              "place": 40,
+              "athlete": "RESTREPO, Rosalie",
+              "grade": "7",
+              "score": null,
+              "time": "14:14.0",
+              "gap": "05:14.8",
+              "avgMile": "09:29.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race": "7th & 8th Grade Boys (1.5 mile)",
+      "ageGroup": "78",
+      "gender": "Male",
+      "distance": "1.5 mile",
+      "meets": [
+        {
+          "meetName": "Border War",
+          "meetDate": "10-20-2025",
+          "results": [
+            {
+              "place": 10,
+              "athlete": "CHANDLER, William",
+              "grade": "8",
+              "score": null,
+              "time": "08:56.3",
+              "gap": "36:00.0",
+              "avgMile": "05:57.5"
+            },
+            {
+              "place": 31,
+              "athlete": "LOMBARDO, Logan",
+              "grade": "8",
+              "score": null,
+              "time": "10:00.4",
+              "gap": "01:25.0",
+              "avgMile": "06:40.2"
+            },
+            {
+              "place": 45,
+              "athlete": "CHANDLER, Benjamin",
+              "grade": "8",
+              "score": null,
+              "time": "10:43.0",
+              "gap": "02:06.6",
+              "avgMile": "07:08.6"
+            },
+            {
+              "place": 46,
+              "athlete": "HOWERTON, Ames",
+              "grade": "8",
+              "score": null,
+              "time": "10:45.1",
+              "gap": "02:09.7",
+              "avgMile": "07:10.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
