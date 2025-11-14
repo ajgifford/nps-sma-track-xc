@@ -46,6 +46,8 @@ export default function Navbar() {
             <div className="relative group flex items-center">
               <button className="hover:text-blue-200">Records</button>
               <div className="absolute hidden group-hover:block bg-blue-700 py-2 w-48 rounded shadow-lg top-full left-0 mt-0">
+                <Link href="/records/cyo" className="block px-4 py-2 hover:bg-blue-800">CYO</Link>
+                <div className="border-t border-blue-600 my-1"></div>
                 <Link href="/records/nativity" className="block px-4 py-2 hover:bg-blue-800">Nativity</Link>
                 <Link href="/records/stmichaels" className="block px-4 py-2 hover:bg-blue-800">St. Michael's</Link>
               </div>

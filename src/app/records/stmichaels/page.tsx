@@ -1,5 +1,6 @@
 import recordsData from '@/../../data/records_stmichaels.json';
 import DataTable from '@/components/DataTable';
+import PageJumpNav from '@/components/PageJumpNav';
 import Image from 'next/image';
 
 interface RecordEntry {
@@ -30,10 +31,18 @@ const typedRecordsData = recordsData as RecordsData;
 export default function StMichaelsRecords() {
   const headers = ['Event', 'Name', 'Year', 'Time'];
 
+  const navSections = [
+    { id: 'xc-boys', label: 'XC - Boys', icon: '🏃‍♂️' },
+    { id: 'xc-girls', label: 'XC - Girls', icon: '🏃‍♀️' },
+    { id: 'track-boys', label: 'Track - Boys', icon: '🏃‍♂️' },
+    { id: 'track-girls', label: 'Track - Girls', icon: '🏃‍♀️' },
+  ];
+
   const renderSportSection = (sport: 'crosscountry' | 'track') => {
     const sportData = typedRecordsData[sport];
     const sportTitle = sport === 'crosscountry' ? 'Cross Country' : 'Track & Field';
     const sportEmoji = sport === 'crosscountry' ? '🏃' : '🏃‍♂️';
+    const sportPrefix = sport === 'crosscountry' ? 'xc' : 'track';
 
     return (
       <div key={sport} className="mb-12">
@@ -46,7 +55,7 @@ export default function StMichaelsRecords() {
         </div>
 
         {/* Boys Section */}
-        <div className="mb-10">
+        <div id={`${sportPrefix}-boys`} className="mb-10 scroll-mt-24">
           <div className="bg-blue-100 border-l-4 border-blue-600 rounded-r-lg p-4 mb-6">
             <h3 className="text-2xl font-semibold text-blue-900 flex items-center gap-2">
               <svg
@@ -78,7 +87,7 @@ export default function StMichaelsRecords() {
         </div>
 
         {/* Girls Section */}
-        <div className="mb-8">
+        <div id={`${sportPrefix}-girls`} className="mb-8 scroll-mt-24">
           <div className="bg-pink-100 border-l-4 border-pink-600 rounded-r-lg p-4 mb-6">
             <h3 className="text-2xl font-semibold text-pink-900 flex items-center gap-2">
               <svg
@@ -113,11 +122,14 @@ export default function StMichaelsRecords() {
   };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-12">
-      {/* Page Header */}
-      <div className="bg-gradient-to-r from-sky-500 to-blue-600 rounded-lg shadow-lg p-8 mb-10 text-white">
+    <>
+      <PageJumpNav sections={navSections} position="right" />
+
+      <div className="max-w-7xl mx-auto px-4 py-12">
+        {/* Page Header */}
+        <div className="bg-gradient-to-r from-sky-500 to-blue-600 rounded-lg shadow-lg p-8 mb-10 text-white">
         <div className="flex flex-col md:flex-row items-center gap-6">
-          <div className="relative w-32 h-32 flex-shrink-0 bg-white rounded-lg p-2">
+          <div className="relative w-32 h-32 flex-shrink-0 rounded-lg p-2">
             <Image
               src="/images/sma.png"
               alt="St. Michael the Archangel"
@@ -146,6 +158,7 @@ export default function StMichaelsRecords() {
       </div>
 
       {renderSportSection('track')}
-    </div>
+      </div>
+    </>
   );
 }
