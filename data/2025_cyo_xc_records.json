@@ -1,0 +1,136 @@
+{
+  "lastUpdated": "2025-10-18",
+  "year": 2025,
+  "races": [
+    {
+      "distance": "1 mile",
+      "gradeGroup": "5/6th Grade",
+      "classRecords": [
+        {
+          "class": "A",
+          "girls": {
+            "name": "Gianna Moos",
+            "school": "Prince of Peace",
+            "time": "5:47.4",
+            "year": 2025
+          },
+          "boys": {
+            "name": "Will Toepfer",
+            "school": "St. Joseph",
+            "time": "5:37.0",
+            "year": 2025
+          }
+        },
+        {
+          "class": "AA",
+          "girls": {
+            "name": "Savannah Moos",
+            "school": "Prince of Peace",
+            "time": "6:07.11",
+            "year": 2022
+          },
+          "boys": {
+            "name": "Joey Rush",
+            "school": "St. Ann",
+            "time": "5:29.3",
+            "year": 2025
+          }
+        },
+        {
+          "class": "AAA",
+          "girls": {
+            "name": "Mary O'Connor",
+            "school": "Holy Trinity",
+            "time": "6:08.91",
+            "year": 2014
+          },
+          "boys": {
+            "name": "George Barkemeyer",
+            "school": "Prince of Peace",
+            "time": "5:29.73",
+            "year": 2024
+          }
+        }
+      ],
+      "overall": {
+        "girls": {
+          "name": "Gianna Moos",
+          "school": "Prince of Peace",
+          "time": "5:47.4",
+          "year": 2025
+        },
+        "boys": {
+          "name": "Joey Rush",
+          "school": "St. Ann",
+          "time": "5:29.3",
+          "year": 2025
+        }
+      }
+    },
+    {
+      "distance": "1.5 miles",
+      "gradeGroup": "7/8th Grade",
+      "classRecords": [
+        {
+          "class": "A",
+          "girls": {
+            "name": "Savannah Moos",
+            "school": "Prince of Peace",
+            "time": "8:37.5",
+            "year": 2025
+          },
+          "boys": {
+            "name": "Jake Easum",
+            "school": "St. Agnes",
+            "time": "8:29.2",
+            "year": 2025
+          }
+        },
+        {
+          "class": "AA",
+          "girls": {
+            "name": "Savannah Moos",
+            "school": "Prince of Peace",
+            "time": "8:52.97",
+            "year": 2024
+          },
+          "boys": {
+            "name": "Nicholas Newkirk",
+            "school": "Corpus Christi",
+            "time": "7:57.83",
+            "year": 2023
+          }
+        },
+        {
+          "class": "AAA",
+          "girls": {
+            "name": "Olivia Sovereign",
+            "school": "Holy Trinity",
+            "time": "8:48.45",
+            "year": 2014
+          },
+          "boys": {
+            "name": "Shepard Landreth",
+            "school": "Ascension",
+            "time": "8:07.3",
+            "year": 2025
+          }
+        }
+      ],
+      "overall": {
+        "girls": {
+          "name": "Savannah Moos",
+          "school": "Prince of Peace",
+          "time": "8:37.5",
+          "year": 2025
+        },
+        "boys": {
+          "name": "Nicholas Newkirk",
+          "school": "Corpus Christi",
+          "time": "7:57.83",
+          "year": 2023
+        }
+      }
+    }
+  ]
+}
