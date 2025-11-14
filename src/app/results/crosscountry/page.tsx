@@ -34,11 +34,11 @@ export default function CrossCountryResults() {
           <Link
             key={meet.date}
             href={`/results/crosscountry/${meet.date}`}
-            className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-purple-600 group"
+            className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-sky-600 group"
           >
             <div className="flex items-start justify-between">
               <div className="flex-1">
-                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-purple-600 transition-colors">
+                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-sky-600 transition-colors">
                   {meet.name}
                 </h3>
                 <p className="text-sm text-gray-600 mt-1">{meet.displayDate}</p>

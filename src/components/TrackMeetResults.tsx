@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { TrackTeamResultsFile, TrackMeetResult } from '@/types/results';
 import { EVENT_NAMES, TRACK_EVENTS, FIELD_EVENTS } from '@/lib/trackMeets';
 
@@ -40,9 +41,9 @@ function MeetResultsCard({ meet }: MeetResultsCardProps) {
   return (
     <div className="bg-white rounded-lg shadow overflow-hidden">
       {/* Meet header */}
-      <div className="bg-gradient-to-r from-purple-600 to-purple-700 text-white px-6 py-4">
+      <div className="bg-gradient-to-r from-sky-500 to-blue-600 text-white px-6 py-4">
         <h3 className="text-xl font-semibold">{meet.meetName}</h3>
-        <p className="text-purple-100 text-sm mt-1">{meet.meetDate}</p>
+        <p className="text-sky-100 text-sm mt-1">{meet.meetDate}</p>
         <div className="mt-3 flex gap-6 text-sm">
           <div className="flex items-center gap-2">
             <span className="bg-white/20 px-3 py-1 rounded-full">
@@ -89,7 +90,17 @@ function MeetResultsCard({ meet }: MeetResultsCardProps) {
                         {EVENT_NAMES[relay.event] || relay.event} ({relay.gender} {relay.grade})
                       </div>
                       <div className="text-sm text-gray-600 mt-1">
-                        {relay.athletes.join(' • ')}
+                        {relay.athletes.map((athlete: string, i: number) => (
+                          <span key={i}>
+                            {i > 0 && ' • '}
+                            <Link
+                              href={`/results/track/athletes/${athleteNameToUrl(athlete)}`}
+                              className="text-sky-600 hover:text-sky-800 hover:underline"
+                            >
+                              {athlete}
+                            </Link>
+                          </span>
+                        ))}
                       </div>
                     </div>
                     <div className="text-right">
@@ -119,7 +130,14 @@ function ResultCard({ result }: { result: any }) {
     <div className={`rounded-lg p-3 border ${getBackgroundColor(result.place)}`}>
       <div className="flex items-start justify-between">
         <div className="flex-1">
-          <div className="font-medium text-gray-900">{result.athlete}</div>
+          <div className="font-medium">
+            <Link
+              href={`/results/track/athletes/${athleteNameToUrl(result.athlete)}`}
+              className="text-sky-600 hover:text-sky-800 hover:underline"
+            >
+              {result.athlete}
+            </Link>
+          </div>
           <div className="text-sm text-gray-600 mt-1">
             {EVENT_NAMES[result.event] || result.event}
           </div>
@@ -190,4 +208,9 @@ function getOrdinalSuffix(num: number): string {
   if (j === 2 && k !== 12) return 'nd';
   if (j === 3 && k !== 13) return 'rd';
   return 'th';
+}
+
+// Convert athlete name to URL format (e.g., "John Doe" -> "John_Doe")
+function athleteNameToUrl(fullName: string): string {
+  return fullName.replace(/ /g, '_');
 }

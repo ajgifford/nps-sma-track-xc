@@ -33,7 +33,7 @@ export default function TrackRankingsPage() {
       <div className="mb-6">
         <Link
           href="/results/track"
-          className="text-purple-600 hover:text-purple-800 flex items-center gap-2"
+          className="text-sky-600 hover:text-sky-800 flex items-center gap-2"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@ export default function TrackRankingsPage() {
             onClick={() => setEventType('individual')}
             className={`px-4 py-2 rounded-lg font-medium transition-colors ${
               eventType === 'individual'
-                ? 'bg-purple-600 text-white'
+                ? 'bg-sky-600 text-white'
                 : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
             }`}
           >
@@ -78,7 +78,7 @@ export default function TrackRankingsPage() {
             onClick={() => setEventType('relay')}
             className={`px-4 py-2 rounded-lg font-medium transition-colors ${
               eventType === 'relay'
-                ? 'bg-purple-600 text-white'
+                ? 'bg-sky-600 text-white'
                 : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
             }`}
           >
@@ -124,7 +124,7 @@ export default function TrackRankingsPage() {
       {/* Content */}
       {loading && (
         <div className="bg-white rounded-lg shadow p-12 text-center">
-          <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600"></div>
+          <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-sky-600"></div>
           <p className="mt-4 text-gray-600">Loading rankings...</p>
         </div>
       )}

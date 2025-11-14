@@ -12,7 +12,7 @@ export default function TrackResults() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
         <Link
           href="/results/track/rankings"
-          className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-purple-600"
+          className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-sky-600"
         >
           <h2 className="text-xl font-semibold mb-2 text-gray-900">🏆 Event Rankings</h2>
           <p className="text-gray-600">View leaderboards for individual and relay events</p>
@@ -42,7 +42,7 @@ export default function TrackResults() {
                   {meet.name}
                 </h3>
                 <p className="text-sm text-gray-600 mt-1">{meet.displayDate}</p>
-                <div className="mt-4 flex items-center text-purple-600 text-sm font-medium">
+                <div className="mt-4 flex items-center text-sky-600 text-sm font-medium">
                   View Results
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

@@ -9,10 +9,25 @@ export interface TrackMeetInfo {
 
 export const TRACK_MEETS_2025: TrackMeetInfo[] = [
   {
+    date: '04-05-2025',
+    name: 'CYO #1 2025',
+    displayDate: 'April 05, 2025',
+  },
+  {
+    date: '04-12-2025',
+    name: 'CYO #2 2025',
+    displayDate: 'April 12, 2025',
+  },
+  {
     date: '04-26-2025',
     name: 'CYO #3 2025',
     displayDate: 'April 26, 2025',
   },
+  {
+    date: '05-03-2025',
+    name: 'CYO City Final 2025',
+    displayDate: 'May 03, 2025',
+  }
 ];
 
 export const DEFAULT_TRACK_TEAM = 'SMA1'; // Saint Michael CYOKS
@@ -31,8 +46,7 @@ export const EVENT_NAMES: Record<string, string> = {
   'HJ': 'High Jump',
   'SP': 'Shot Put',
   'JT': 'Javelin Throw',
-  '400': '4x100m Relay',
-  '400S': '4x400m Relay',
+  '400S': '4x100m Relay',
   '800S': '4x800m Relay',
   'DMRS': 'Distance Medley Relay',
   'MRS': 'Medley Relay',

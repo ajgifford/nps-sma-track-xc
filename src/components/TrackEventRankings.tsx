@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 import { TrackEventRankingsFile, RelayRankingsFile } from '@/types/results';
 import { EVENT_NAMES } from '@/lib/trackMeets';
 
@@ -43,7 +44,7 @@ export default function TrackEventRankings({ data, highlightTeam = 'Saint Michae
       <div className="bg-white rounded-lg shadow p-6">
         <h2 className="text-2xl font-bold mb-2">{data.event}</h2>
         <p className="text-gray-600">
-          {data.categories.reduce((sum, cat) => sum + (isRelay ? cat.totalTeams : (cat as any).totalAthletes), 0)} total {isRelay ? 'teams' : 'athletes'} • Season {data.season}
+          {data.categories.reduce((sum, cat) => sum + (isRelay ? (cat as any).totalTeams : (cat as any).totalAthletes), 0)} total {isRelay ? 'teams' : 'athletes'} • Season {data.season}
         </p>
       </div>
 
@@ -170,12 +171,27 @@ export default function TrackEventRankings({ data, highlightTeam = 'Saint Michae
                                     {isHighlighted && <span className="ml-2">⭐</span>}
                                   </div>
                                   <div className="text-sm text-gray-600 mt-1">
-                                    {ranking.athletes.join(', ')}
+                                    {ranking.athletes.map((athlete: string, i: number) => (
+                                      <span key={i}>
+                                        {i > 0 && ', '}
+                                        <Link
+                                          href={`/results/track/athletes/${athleteNameToUrl(athlete)}`}
+                                          className="text-sky-600 hover:text-sky-800 hover:underline"
+                                        >
+                                          {athlete}
+                                        </Link>
+                                      </span>
+                                    ))}
                                   </div>
                                 </>
                               ) : (
                                 <div className="font-medium">
-                                  {ranking.athlete}
+                                  <Link
+                                    href={`/results/track/athletes/${athleteNameToUrl(ranking.athlete)}`}
+                                    className="text-sky-600 hover:text-sky-800 hover:underline"
+                                  >
+                                    {ranking.athlete}
+                                  </Link>
                                   {isHighlighted && <span className="ml-2">⭐</span>}
                                 </div>
                               )}
@@ -184,7 +200,7 @@ export default function TrackEventRankings({ data, highlightTeam = 'Saint Michae
                           {ranking.allResults.length > 1 && (
                             <button
                               onClick={() => toggleExpanded(ranking.rank)}
-                              className="mt-1 text-xs text-purple-600 hover:text-purple-800"
+                              className="mt-1 text-xs text-sky-600 hover:text-sky-800"
                             >
                               {isExpanded ? '▼ Hide' : '▶'} All Results ({ranking.allResults.length})
                             </button>
@@ -238,4 +254,9 @@ function getOrdinalSuffix(num: number): string {
   if (j === 2 && k !== 12) return 'nd';
   if (j === 3 && k !== 13) return 'rd';
   return 'th';
+}
+
+// Convert athlete name to URL format (e.g., "John Doe" -> "John_Doe")
+function athleteNameToUrl(fullName: string): string {
+  return fullName.replace(/ /g, '_');
 }

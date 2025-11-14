@@ -48,7 +48,7 @@ export default function TrackMeetResultsPage({ params }: PageProps) {
       <div className="mb-6">
         <Link
           href="/results/track"
-          className="text-purple-600 hover:text-purple-800 flex items-center gap-2"
+          className="text-sky-600 hover:text-sky-800 flex items-center gap-2"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
