@@ -1,76 +1,69 @@
 import Link from 'next/link';
-import resultsData from '@/../../data/results_crosscountry.json';
-
-interface ResultGroup {
-  boys_3rd_4th: string;
-  girls_3rd_4th: string;
-  boys_5th_6th: string;
-  girls_5th_6th: string;
-  boys_7th_8th: string;
-  girls_7th_8th: string;
-}
-
-interface Result {
-  date: string;
-  meet: string;
-  groups: ResultGroup;
-  detailsId: string;
-}
+import { XC_MEETS_2025 } from '@/lib/xcMeets';
 
 export default function CrossCountryResults() {
-  const results = resultsData as Result[];
+  const meets = XC_MEETS_2025;
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-12">
       <h1 className="text-4xl font-bold mb-8 text-gray-900">Cross Country Results</h1>
-      
-      <div className="overflow-x-auto">
-        <table className="min-w-full bg-white border border-gray-300 shadow-sm rounded-lg">
-          <thead className="bg-gray-100">
-            <tr>
-              <th className="px-4 py-3 text-left text-sm font-semibold text-gray-700 border-b">Date</th>
-              <th className="px-4 py-3 text-left text-sm font-semibold text-gray-700 border-b">Meet</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Girls 3rd/4th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Boys 3rd/4th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Girls 5th/6th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Boys 5th/6th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Girls 7th/8th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Boys 7th/8th</th>
-              <th className="px-4 py-3 text-center text-sm font-semibold text-gray-700 border-b">Details</th>
-            </tr>
-          </thead>
-          <tbody>
-            {results.map((result, index) => (
-              <tr key={index} className="hover:bg-gray-50">
-                <td className="px-4 py-3 text-sm text-gray-700 border-b">{result.date}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b font-medium">{result.meet}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.girls_3rd_4th}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.boys_3rd_4th}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.girls_5th_6th}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.boys_5th_6th}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.girls_7th_8th}</td>
-                <td className="px-4 py-3 text-sm text-gray-700 border-b text-center">{result.groups.boys_7th_8th}</td>
-                <td className="px-4 py-3 text-sm border-b text-center">
-                  <Link 
-                    href={`/results/crosscountry/${result.detailsId}`}
-                    className="inline-flex items-center justify-center text-blue-600 hover:text-blue-800 transition-colors"
-                    title="View Details"
+
+      {/* Quick navigation cards */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+        <Link
+          href="/results/crosscountry/rankings"
+          className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-blue-600"
+        >
+          <h2 className="text-xl font-semibold mb-2 text-gray-900">🏆 Season Rankings</h2>
+          <p className="text-gray-600">View leaderboards by age group and gender</p>
+        </Link>
+
+        <Link
+          href="/results/crosscountry/team"
+          className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-green-600"
+        >
+          <h2 className="text-xl font-semibold mb-2 text-gray-900">📊 Team Season Stats</h2>
+          <p className="text-gray-600">Performance progression and meet-by-meet results</p>
+        </Link>
+      </div>
+
+      <h2 className="text-2xl font-bold mb-4 text-gray-900">2025 Season Meets</h2>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {meets.map((meet, index) => (
+          <Link
+            key={meet.date}
+            href={`/results/crosscountry/${meet.date}`}
+            className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-l-4 border-purple-600 group"
+          >
+            <div className="flex items-start justify-between">
+              <div className="flex-1">
+                <h3 className="text-lg font-semibold text-gray-900 group-hover:text-purple-600 transition-colors">
+                  {meet.name}
+                </h3>
+                <p className="text-sm text-gray-600 mt-1">{meet.displayDate}</p>
+                <div className="mt-4 flex items-center text-blue-600 text-sm font-medium">
+                  View Results
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform"
+                    viewBox="0 0 20 20"
+                    fill="currentColor"
                   >
-                    <svg 
-                      xmlns="http://www.w3.org/2000/svg" 
-                      className="h-5 w-5" 
-                      viewBox="0 0 20 20" 
-                      fill="currentColor"
-                    >
-                      <path d="M10 12a2 2 0 100-4 2 2 0 000 4z" />
-                      <path fillRule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clipRule="evenodd" />
-                    </svg>
-                  </Link>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+                    <path
+                      fillRule="evenodd"
+                      d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+              <div className="text-3xl font-bold text-gray-300">
+                {index + 1}
+              </div>
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   );

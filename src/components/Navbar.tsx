@@ -32,9 +32,14 @@ export default function Navbar() {
 
             <div className="relative group flex items-center">
               <button className="hover:text-blue-200">Results</button>
-              <div className="absolute hidden group-hover:block bg-blue-700 py-2 w-48 rounded shadow-lg top-full left-0 mt-0">
-                <Link href="/results/crosscountry" className="block px-4 py-2 hover:bg-blue-800">Cross Country</Link>
-                <Link href="/results/track" className="block px-4 py-2 hover:bg-blue-800">Track & Field</Link>
+              <div className="absolute hidden group-hover:block bg-blue-700 py-2 w-56 rounded shadow-lg top-full left-0 mt-0">
+                <Link href="/results/crosscountry" className="block px-4 py-2 hover:bg-blue-800">XC - All Meets</Link>
+                <Link href="/results/crosscountry/rankings" className="block px-4 py-2 hover:bg-blue-800">XC - Rankings</Link>
+                <Link href="/results/crosscountry/team" className="block px-4 py-2 hover:bg-blue-800">XC - Team Season</Link>
+                <div className="border-t border-blue-600 my-1"></div>
+                <Link href="/results/track" className="block px-4 py-2 hover:bg-blue-800">Track - All Meets</Link>
+                <Link href="/results/track/rankings" className="block px-4 py-2 hover:bg-blue-800">Track - Rankings</Link>
+                <Link href="/results/track/athletes" className="block px-4 py-2 hover:bg-blue-800">Track - Athletes</Link>
               </div>
             </div>
 
