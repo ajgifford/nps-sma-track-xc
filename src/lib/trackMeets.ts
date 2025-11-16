@@ -6,6 +6,7 @@ export interface TrackMeetInfo {
   name: string;        // Display name
   displayDate: string; // Human-readable date
   year: string;        // Season year
+  hasResults?: boolean; // Whether results are available (default: true for backward compatibility)
 }
 
 // Meet data organized by year
@@ -16,24 +17,28 @@ export const TRACK_MEETS_BY_YEAR: Record<string, TrackMeetInfo[]> = {
       name: 'CYO #1 2025',
       displayDate: 'April 05, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '04-12-2025',
       name: 'CYO #2 2025',
       displayDate: 'April 12, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '04-26-2025',
       name: 'CYO #3 2025',
       displayDate: 'April 26, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '05-03-2025',
       name: 'CYO City Final 2025',
       displayDate: 'May 03, 2025',
       year: '2025',
+      hasResults: true,
     },
   ],
 };

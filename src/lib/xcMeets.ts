@@ -6,6 +6,7 @@ export interface MeetInfo {
   name: string;        // Display name
   displayDate: string; // Human-readable date
   year: string;        // Season year
+  hasResults?: boolean; // Whether results are available (default: true for backward compatibility)
 }
 
 // Meet data organized by year
@@ -16,30 +17,35 @@ export const XC_MEETS_BY_YEAR: Record<string, MeetInfo[]> = {
       name: 'CYO Meet 1',
       displayDate: 'September 27, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '10-04-2025',
       name: 'CYO Meet 2',
       displayDate: 'October 4, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '10-11-2025',
       name: 'CYO Meet 3',
       displayDate: 'October 11, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '10-18-2025',
       name: 'CYO Final',
       displayDate: 'October 18, 2025',
       year: '2025',
+      hasResults: true,
     },
     {
       date: '10-20-2025',
       name: 'KS/MO Border War',
       displayDate: 'October 20, 2025',
       year: '2025',
+      hasResults: true,
     },
   ],
 };
