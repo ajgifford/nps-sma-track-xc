@@ -1,34 +1,65 @@
 // Track & Field Meet Configuration
-// This file contains the list of available meets for the 2025 season
+// This file contains the list of available meets across all seasons
 
 export interface TrackMeetInfo {
   date: string;        // Format: MM-DD-YYYY (matches directory name)
   name: string;        // Display name
   displayDate: string; // Human-readable date
+  year: string;        // Season year
 }
 
-export const TRACK_MEETS_2025: TrackMeetInfo[] = [
-  {
-    date: '04-05-2025',
-    name: 'CYO #1 2025',
-    displayDate: 'April 05, 2025',
-  },
-  {
-    date: '04-12-2025',
-    name: 'CYO #2 2025',
-    displayDate: 'April 12, 2025',
-  },
-  {
-    date: '04-26-2025',
-    name: 'CYO #3 2025',
-    displayDate: 'April 26, 2025',
-  },
-  {
-    date: '05-03-2025',
-    name: 'CYO City Final 2025',
-    displayDate: 'May 03, 2025',
-  }
-];
+// Meet data organized by year
+export const TRACK_MEETS_BY_YEAR: Record<string, TrackMeetInfo[]> = {
+  '2025': [
+    {
+      date: '04-05-2025',
+      name: 'CYO #1 2025',
+      displayDate: 'April 05, 2025',
+      year: '2025',
+    },
+    {
+      date: '04-12-2025',
+      name: 'CYO #2 2025',
+      displayDate: 'April 12, 2025',
+      year: '2025',
+    },
+    {
+      date: '04-26-2025',
+      name: 'CYO #3 2025',
+      displayDate: 'April 26, 2025',
+      year: '2025',
+    },
+    {
+      date: '05-03-2025',
+      name: 'CYO City Final 2025',
+      displayDate: 'May 03, 2025',
+      year: '2025',
+    },
+  ],
+};
+
+// Legacy export for backward compatibility
+export const TRACK_MEETS_2025: TrackMeetInfo[] = TRACK_MEETS_BY_YEAR['2025'];
+
+// Helper function to get all meets across all years
+export function getAllTrackMeets(): TrackMeetInfo[] {
+  return Object.values(TRACK_MEETS_BY_YEAR).flat();
+}
+
+// Helper function to get meets for a specific year
+export function getTrackMeetsByYear(year: string): TrackMeetInfo[] {
+  return TRACK_MEETS_BY_YEAR[year] || [];
+}
+
+// Helper function to get all available years, sorted newest to oldest
+export function getTrackYears(): string[] {
+  return Object.keys(TRACK_MEETS_BY_YEAR).sort((a, b) => parseInt(b) - parseInt(a));
+}
+
+// Helper function to get meets grouped by year
+export function getTrackMeetsGroupedByYear(): Record<string, TrackMeetInfo[]> {
+  return TRACK_MEETS_BY_YEAR;
+}
 
 export const DEFAULT_TRACK_TEAM = 'SMA1'; // Saint Michael CYOKS
 export const DEFAULT_TRACK_SEASON = '2025';
